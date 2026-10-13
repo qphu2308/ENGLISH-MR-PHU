@@ -1,0 +1,2160 @@
+{
+  "policy": "One curated main vocabulary list per Unit; no full sentences or grammar notation as words; complete closed groups; Extension contains only new vocabulary.",
+  "units": [
+    {
+      "grade": 1,
+      "unit": 1,
+      "title": "In the school playground",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở sân trường",
+          "words": [
+            "ball",
+            "bike",
+            "book",
+            "Bill"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 2,
+      "title": "In the dining room",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong phòng ăn",
+          "words": [
+            "cake",
+            "car",
+            "cat",
+            "cup"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 3,
+      "title": "At the street market",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở chợ đường phố",
+          "words": [
+            "apple",
+            "bag",
+            "can",
+            "hat"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 4,
+      "title": "In the bedroom",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong phòng ngủ",
+          "words": [
+            "desk",
+            "dog",
+            "door",
+            "duck"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 5,
+      "title": "At the fish and chip shop",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở quán cá và khoai tây chiên",
+          "words": [
+            "chicken",
+            "chips",
+            "fish",
+            "milk"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 6,
+      "title": "In the classroom",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong lớp học",
+          "words": [
+            "bell",
+            "pen",
+            "pencil",
+            "red"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 7,
+      "title": "In the garden",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong khu vườn",
+          "words": [
+            "garden",
+            "gate",
+            "girl",
+            "goat"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 8,
+      "title": "In the park",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong công viên",
+          "words": [
+            "hair",
+            "hand",
+            "head",
+            "horse"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 9,
+      "title": "In the shop",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong cửa hàng",
+          "words": [
+            "clocks",
+            "locks",
+            "mops",
+            "pots"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 10,
+      "title": "At the zoo",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở sở thú",
+          "words": [
+            "mango",
+            "monkey",
+            "mother",
+            "mouse"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 11,
+      "title": "At the bus stop",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở trạm xe buýt",
+          "words": [
+            "sun",
+            "truck",
+            "bus",
+            "running"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 12,
+      "title": "At the lake",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở hồ nước",
+          "words": [
+            "lake",
+            "leaf",
+            "lemons",
+            "Lucy"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 13,
+      "title": "In the school canteen",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong căng tin trường",
+          "words": [
+            "nuts",
+            "noodles",
+            "bananas",
+            "Nick"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 14,
+      "title": "In the toy shop",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong cửa hàng đồ chơi",
+          "words": [
+            "teddy bear",
+            "top",
+            "tiger",
+            "turtle"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 15,
+      "title": "At the football match",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở trận bóng đá",
+          "words": [
+            "face",
+            "father",
+            "foot",
+            "football"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 1,
+      "unit": 16,
+      "title": "At home",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở nhà",
+          "words": [
+            "washing",
+            "water",
+            "window",
+            "Wendy"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 1,
+      "title": "At my birthday party",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Ở tiệc sinh nhật",
+          "words": [
+            "pasta",
+            "popcorn",
+            "pizza",
+            "birthday",
+            "party"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 2,
+      "title": "In the backyard",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Ở sân sau",
+          "words": [
+            "kite",
+            "bike",
+            "kitten",
+            "ride a bike",
+            "fly a kite"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 3,
+      "title": "At the seaside",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Ở bờ biển",
+          "words": [
+            "sail",
+            "sand",
+            "sea",
+            "seaside",
+            "look at"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 4,
+      "title": "In the countryside",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở nông thôn",
+          "words": [
+            "rainbow",
+            "river",
+            "road",
+            "countryside"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 5,
+      "title": "In the classroom",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong lớp học",
+          "words": [
+            "question",
+            "square",
+            "quiz",
+            "drawing"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 6,
+      "title": "On the farm",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở nông trại",
+          "words": [
+            "box",
+            "fox",
+            "ox",
+            "farm"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 7,
+      "title": "In the kitchen",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Trong nhà bếp",
+          "words": [
+            "juice",
+            "jelly",
+            "jam",
+            "kitchen",
+            "pass"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 8,
+      "title": "In the village",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong ngôi làng",
+          "words": [
+            "village",
+            "van",
+            "volleyball",
+            "draw"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 9,
+      "title": "In the grocery store",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Trong cửa hàng tạp hóa",
+          "words": [
+            "yogurt",
+            "yams",
+            "yo-yos",
+            "want",
+            "some"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 10,
+      "title": "At the zoo",
+      "count": 3,
+      "groups": [
+        {
+          "label": "Ở sở thú",
+          "words": [
+            "zoo",
+            "zebra",
+            "zebu"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 11,
+      "title": "In the playground",
+      "count": 6,
+      "groups": [
+        {
+          "label": "Ở sân chơi",
+          "words": [
+            "slide",
+            "ride",
+            "drive",
+            "sliding",
+            "riding",
+            "driving"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 12,
+      "title": "At the café",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Ở quán cà phê",
+          "words": [
+            "grapes",
+            "cake",
+            "table",
+            "on"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 13,
+      "title": "In the maths class",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Số đếm 11–20",
+          "words": [
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 14,
+      "title": "At home",
+      "count": 15,
+      "groups": [
+        {
+          "label": "Số đếm 11–20",
+          "words": [
+            "eleven",
+            "twelve",
+            "thirteen",
+            "fourteen",
+            "fifteen",
+            "sixteen",
+            "seventeen",
+            "eighteen",
+            "nineteen",
+            "twenty"
+          ]
+        },
+        {
+          "label": "Ở nhà",
+          "words": [
+            "brother",
+            "sister",
+            "grandmother",
+            "grandfather",
+            "old"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 15,
+      "title": "In the clothes shop",
+      "count": 4,
+      "groups": [
+        {
+          "label": "Trong cửa hàng quần áo",
+          "words": [
+            "shirts",
+            "shoes",
+            "shorts",
+            "over there"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 2,
+      "unit": 16,
+      "title": "At the campsite",
+      "count": 5,
+      "groups": [
+        {
+          "label": "Ở khu cắm trại",
+          "words": [
+            "tent",
+            "teapot",
+            "blanket",
+            "near",
+            "campsite"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 1,
+      "title": "Hello",
+      "count": 6,
+      "groups": [
+        {
+          "label": "Chào hỏi",
+          "words": [
+            "hello",
+            "hi",
+            "goodbye",
+            "bye",
+            "fine",
+            "thank you"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 2,
+      "title": "Our names",
+      "count": 15,
+      "groups": [
+        {
+          "label": "Số đếm 1–10",
+          "words": [
+            "one",
+            "two",
+            "three",
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten"
+          ]
+        },
+        {
+          "label": "Giới thiệu tên",
+          "words": [
+            "name",
+            "my",
+            "your",
+            "what",
+            "birthday cake"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 3,
+      "title": "Our friends",
+      "count": 16,
+      "groups": [
+        {
+          "label": "Số đếm 1–10",
+          "words": [
+            "one",
+            "two",
+            "three",
+            "four",
+            "five",
+            "six",
+            "seven",
+            "eight",
+            "nine",
+            "ten"
+          ]
+        },
+        {
+          "label": "Bạn bè và xưng hô",
+          "words": [
+            "friend",
+            "teacher",
+            "Mr",
+            "Ms",
+            "this",
+            "that"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 4,
+      "title": "Our bodies",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Bộ phận cơ thể",
+          "words": [
+            "ear",
+            "eye",
+            "face",
+            "hair",
+            "hand",
+            "mouth",
+            "nose",
+            "touch",
+            "open",
+            "game",
+            "ears",
+            "eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 5,
+      "title": "My hobbies",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Sở thích",
+          "words": [
+            "cooking",
+            "dancing",
+            "drawing",
+            "painting",
+            "running",
+            "singing",
+            "swimming",
+            "walking",
+            "hobby"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 6,
+      "title": "Our school",
+      "count": 8,
+      "groups": [
+        {
+          "label": "Phòng và khu vực ở trường",
+          "words": [
+            "art room",
+            "classroom",
+            "computer room",
+            "gym",
+            "library",
+            "music room",
+            "playground",
+            "school"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 7,
+      "title": "Classroom instructions",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Hướng dẫn trong lớp",
+          "words": [
+            "close",
+            "come in",
+            "go out",
+            "sit down",
+            "speak",
+            "stand up",
+            "open",
+            "open the book",
+            "close the book",
+            "speak Vietnamese"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 8,
+      "title": "My school things",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Đồ dùng học tập",
+          "words": [
+            "book",
+            "eraser",
+            "notebook",
+            "pen",
+            "pencil",
+            "pencil case",
+            "ruler",
+            "school bag",
+            "school things"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 9,
+      "title": "Colours",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Màu sắc",
+          "words": [
+            "black",
+            "blue",
+            "brown",
+            "green",
+            "orange",
+            "red",
+            "white",
+            "yellow",
+            "pink",
+            "purple",
+            "colour"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 10,
+      "title": "Break time activities",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Hoạt động giờ ra chơi",
+          "words": [
+            "break time",
+            "chat",
+            "do word puzzles",
+            "play badminton",
+            "play basketball",
+            "play chess",
+            "play football",
+            "play table tennis",
+            "play volleyball",
+            "activity",
+            "play word puzzles",
+            "chat with my friends"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 11,
+      "title": "My family",
+      "count": 13,
+      "groups": [
+        {
+          "label": "Thành viên gia đình",
+          "words": [
+            "father",
+            "mother",
+            "brother",
+            "sister",
+            "grandfather",
+            "grandmother",
+            "family",
+            "eleven",
+            "twelve",
+            "fourteen",
+            "eighteen",
+            "nineteen",
+            "photo"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 12,
+      "title": "Jobs",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Nghề nghiệp",
+          "words": [
+            "cook",
+            "doctor",
+            "driver",
+            "farmer",
+            "nurse",
+            "singer",
+            "teacher",
+            "worker",
+            "job"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 13,
+      "title": "My house",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Các phòng trong nhà",
+          "words": [
+            "house",
+            "bathroom",
+            "bedroom",
+            "kitchen",
+            "living room",
+            "table",
+            "chair",
+            "book",
+            "lamp"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 14,
+      "title": "My bedroom",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Đồ đạc và đặc điểm phòng",
+          "words": [
+            "bed",
+            "desk",
+            "door",
+            "window",
+            "room",
+            "big",
+            "small",
+            "new",
+            "old"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 15,
+      "title": "At the dining table",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Đồ ăn và thức uống",
+          "words": [
+            "beans",
+            "bread",
+            "chicken",
+            "eggs",
+            "fish",
+            "juice",
+            "meat",
+            "milk",
+            "rice",
+            "water",
+            "dining table"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 16,
+      "title": "My pets",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Thú cưng",
+          "words": [
+            "bird",
+            "cat",
+            "dog",
+            "goldfish",
+            "parrot",
+            "rabbit",
+            "pet",
+            "many",
+            "some"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 17,
+      "title": "Our toys",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Đồ chơi",
+          "words": [
+            "bus",
+            "car",
+            "kite",
+            "plane",
+            "ship",
+            "teddy bear",
+            "toy",
+            "train",
+            "truck",
+            "teddy bears"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 18,
+      "title": "Playing and doing",
+      "count": 8,
+      "groups": [
+        {
+          "label": "Hoạt động ở nhà",
+          "words": [
+            "dancing",
+            "drawing a picture",
+            "listening to music",
+            "reading",
+            "singing",
+            "watching TV",
+            "writing",
+            "playing basketball"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 19,
+      "title": "Outdoor activities",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Hoạt động ngoài trời",
+          "words": [
+            "cycling",
+            "flying a kite",
+            "painting",
+            "running",
+            "skating",
+            "skipping",
+            "outdoor",
+            "playing badminton",
+            "walking"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 3,
+      "unit": 20,
+      "title": "At the zoo",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Động vật và hoạt động",
+          "words": [
+            "elephant",
+            "horse",
+            "monkey",
+            "peacock",
+            "tiger",
+            "swinging",
+            "climbing",
+            "counting",
+            "zoo",
+            "count",
+            "climb",
+            "swing"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 1,
+      "title": "My friends",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Quốc gia và bạn bè",
+          "words": [
+            "America",
+            "Australia",
+            "Britain",
+            "Japan",
+            "Malaysia",
+            "Singapore",
+            "Thailand",
+            "Vietnam",
+            "friend",
+            "country"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 2,
+      "title": "Time and daily routines",
+      "count": 14,
+      "groups": [
+        {
+          "label": "Sinh hoạt hằng ngày",
+          "words": [
+            "get up",
+            "have breakfast",
+            "have lunch",
+            "have dinner",
+            "go to school",
+            "go to bed",
+            "do homework",
+            "brush teeth",
+            "wash face",
+            "at",
+            "fifteen",
+            "forty-five",
+            "o’clock",
+            "thirty"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 3,
+      "title": "My week",
+      "count": 14,
+      "groups": [
+        {
+          "label": "7 ngày trong tuần",
+          "words": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "label": "Hoạt động trong tuần",
+          "words": [
+            "study at school",
+            "do housework",
+            "go to school",
+            "listen to music",
+            "weekend",
+            "today",
+            "tomorrow"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 4,
+      "title": "My birthday party",
+      "count": 23,
+      "groups": [
+        {
+          "label": "12 tháng trong năm",
+          "words": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ]
+        },
+        {
+          "label": "Sinh nhật và bữa tiệc",
+          "words": [
+            "birthday",
+            "party",
+            "chips",
+            "grapes",
+            "jam",
+            "lemonade",
+            "water",
+            "want",
+            "eat",
+            "drink",
+            "juice"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 5,
+      "title": "Things we can do",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Những việc có thể làm",
+          "words": [
+            "can",
+            "cook",
+            "draw",
+            "fly a kite",
+            "play the guitar",
+            "play the piano",
+            "ride a bike",
+            "ride a horse",
+            "roller skate",
+            "skip",
+            "swim",
+            "but"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 6,
+      "title": "Our school facilities",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Trường học và cơ sở vật chất",
+          "words": [
+            "city",
+            "mountains",
+            "town",
+            "village",
+            "building",
+            "computer room",
+            "garden",
+            "playground",
+            "school facilities"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 7,
+      "title": "Our timetables",
+      "count": 19,
+      "groups": [
+        {
+          "label": "7 ngày trong tuần",
+          "words": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        {
+          "label": "Môn học",
+          "words": [
+            "Art",
+            "English",
+            "History",
+            "Geography",
+            "Maths",
+            "Music",
+            "Science",
+            "Vietnamese",
+            "PE",
+            "subject",
+            "timetable",
+            "history and geography"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 8,
+      "title": "My favourite subjects",
+      "count": 14,
+      "groups": [
+        {
+          "label": "Môn học và định hướng nghề",
+          "words": [
+            "IT",
+            "PE",
+            "English",
+            "Maths",
+            "favourite subject",
+            "teacher",
+            "singer",
+            "painter",
+            "why",
+            "because",
+            "IT (information technology)",
+            "PE (physical education)",
+            "English teacher",
+            "maths teacher"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 9,
+      "title": "Our sports day",
+      "count": 17,
+      "groups": [
+        {
+          "label": "12 tháng trong năm",
+          "words": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+          ]
+        },
+        {
+          "label": "Ngày hội thể thao",
+          "words": [
+            "sports day",
+            "sport",
+            "fun",
+            "different",
+            "school playground"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 10,
+      "title": "Our summer holidays",
+      "count": 18,
+      "groups": [
+        {
+          "label": "4 mùa trong năm",
+          "words": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ]
+        },
+        {
+          "label": "Địa điểm nghỉ hè",
+          "words": [
+            "beach",
+            "campsite",
+            "countryside",
+            "mountains",
+            "zoo",
+            "Bangkok",
+            "London",
+            "Sydney",
+            "Tokyo",
+            "holiday",
+            "summer holiday",
+            "last",
+            "weekend",
+            "yesterday"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 11,
+      "title": "My home",
+      "count": 15,
+      "groups": [
+        {
+          "label": "Nơi ở và đường phố",
+          "words": [
+            "house",
+            "apartment",
+            "street",
+            "road",
+            "lane",
+            "village",
+            "town",
+            "city",
+            "address",
+            "live",
+            "big",
+            "small",
+            "busy",
+            "noisy",
+            "quiet"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 12,
+      "title": "Jobs",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Nghề nghiệp và nơi làm việc",
+          "words": [
+            "actor",
+            "farmer",
+            "nurse",
+            "office worker",
+            "policeman",
+            "factory",
+            "farm",
+            "hospital",
+            "nursing home",
+            "job",
+            "workplace"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 13,
+      "title": "Appearance",
+      "count": 13,
+      "groups": [
+        {
+          "label": "Ngoại hình",
+          "words": [
+            "big",
+            "short",
+            "slim",
+            "tall",
+            "eyes",
+            "face",
+            "hair",
+            "long",
+            "round",
+            "short hair",
+            "long hair",
+            "curly hair",
+            "straight hair"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 14,
+      "title": "Daily activities",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Buổi trong ngày và việc nhà",
+          "words": [
+            "at noon",
+            "in the morning",
+            "in the afternoon",
+            "in the evening",
+            "clean the floor",
+            "help with the cooking",
+            "wash the clothes",
+            "wash the dishes",
+            "afternoon",
+            "evening",
+            "morning",
+            "noon"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 15,
+      "title": "My family's weekends",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Hoạt động cuối tuần",
+          "words": [
+            "cinema",
+            "shopping centre",
+            "sports centre",
+            "swimming pool",
+            "cook meals",
+            "do yoga",
+            "play tennis",
+            "watch films",
+            "weekend"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 16,
+      "title": "Weather",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Thời tiết và địa điểm",
+          "words": [
+            "cloudy",
+            "rainy",
+            "sunny",
+            "windy",
+            "weather",
+            "bakery",
+            "bookshop",
+            "food stall",
+            "water park",
+            "supermarket"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 17,
+      "title": "In the city",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Chỉ đường",
+          "words": [
+            "go straight",
+            "turn left",
+            "turn right",
+            "turn round",
+            "stop",
+            "get to",
+            "road sign",
+            "sign",
+            "left",
+            "right",
+            "turn"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 18,
+      "title": "At the shopping centre",
+      "count": 13,
+      "groups": [
+        {
+          "label": "Mua sắm và vị trí",
+          "words": [
+            "behind",
+            "between",
+            "near",
+            "opposite",
+            "gift shop",
+            "bakery",
+            "bookshop",
+            "shoe shop",
+            "clothes shop",
+            "T-shirt",
+            "skirt",
+            "thousand",
+            "dong"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 19,
+      "title": "The animal world",
+      "count": 18,
+      "groups": [
+        {
+          "label": "Động vật và cách hoạt động",
+          "words": [
+            "crocodile",
+            "giraffe",
+            "hippo",
+            "lion",
+            "peacock",
+            "bird",
+            "dance beautifully",
+            "roar loudly",
+            "run quickly",
+            "sing merrily",
+            "beautifully",
+            "dance",
+            "loudly",
+            "merrily",
+            "quickly",
+            "roar",
+            "run",
+            "sing"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "unit": 20,
+      "title": "At summer camp",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Hoạt động ở trại hè",
+          "words": [
+            "build a campfire",
+            "dance around the campfire",
+            "play card games",
+            "play tug of war",
+            "put up a tent",
+            "sing songs",
+            "take a photo",
+            "tell a story",
+            "summer camp",
+            "campsite"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 1,
+      "title": "All about me!",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Thông tin và sở thích",
+          "words": [
+            "animal",
+            "panda",
+            "introduce",
+            "town",
+            "village",
+            "city",
+            "class",
+            "countryside",
+            "dolphin",
+            "pink",
+            "sandwich",
+            "table tennis"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 2,
+      "title": "Our homes",
+      "count": 15,
+      "groups": [
+        {
+          "label": "Nhà và địa chỉ",
+          "words": [
+            "address",
+            "district",
+            "far from",
+            "house",
+            "apartment",
+            "street",
+            "road",
+            "lane",
+            "building",
+            "flat",
+            "ninety-three",
+            "one hundred and sixteen",
+            "thirty-eight",
+            "tower",
+            "twenty-three"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 3,
+      "title": "My foreign friends",
+      "count": 16,
+      "groups": [
+        {
+          "label": "Bạn bè quốc tế",
+          "words": [
+            "Indian",
+            "Chinese",
+            "British",
+            "nationality",
+            "make friends",
+            "invite",
+            "appearance",
+            "personality",
+            "active",
+            "American",
+            "Australian",
+            "clever",
+            "friendly",
+            "helpful",
+            "Malaysian",
+            "Japanese"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 4,
+      "title": "Free-time activities",
+      "count": 13,
+      "groups": [
+        {
+          "label": "Giải trí và tần suất",
+          "words": [
+            "cartoon",
+            "rarely",
+            "never",
+            "entertain",
+            "help somebody with something",
+            "always",
+            "go for a walk",
+            "often",
+            "play the violin",
+            "sometimes",
+            "surf the Internet",
+            "usually",
+            "water the flowers"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 5,
+      "title": "My future job",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Nghề nghiệp tương lai",
+          "words": [
+            "dentist",
+            "interesting",
+            "survey",
+            "take care of",
+            "firefighter",
+            "gardener",
+            "grow flowers",
+            "report the news",
+            "reporter",
+            "teach children",
+            "writer",
+            "write stories"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 6,
+      "title": "Our school rooms",
+      "count": 18,
+      "groups": [
+        {
+          "label": "Phòng học và chỉ đường",
+          "words": [
+            "music room",
+            "computer room",
+            "library",
+            "art room",
+            "go upstairs",
+            "go downstairs",
+            "go past",
+            "corridor",
+            "turn right",
+            "turn left",
+            "first floor",
+            "go along",
+            "downstairs",
+            "past",
+            "upstairs",
+            "ground floor",
+            "second floor",
+            "third floor"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 7,
+      "title": "Our favourite school activities",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Hoạt động ở trường",
+          "words": [
+            "good for",
+            "group work",
+            "champion",
+            "close friends",
+            "do projects",
+            "fun",
+            "good for group work",
+            "interesting",
+            "play games",
+            "read books",
+            "solve maths problems",
+            "useful"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 8,
+      "title": "In our classroom",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Đồ dùng và hoạt động trong lớp",
+          "words": [
+            "bookcase",
+            "storybook",
+            "fairy tale",
+            "above",
+            "beside",
+            "crayon",
+            "glue stick",
+            "in front of",
+            "pencil sharpener",
+            "set square",
+            "under"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 9,
+      "title": "Our outdoor activities",
+      "count": 13,
+      "groups": [
+        {
+          "label": "Hoạt động ngoài trời",
+          "words": [
+            "dance around the campfire",
+            "jog",
+            "ride horses",
+            "wonderful",
+            "aquarium",
+            "campsite",
+            "dance",
+            "around",
+            "funfair",
+            "listen to music",
+            "play chess",
+            "theatre",
+            "watch the fish"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 10,
+      "title": "Our school trip",
+      "count": 17,
+      "groups": [
+        {
+          "label": "Chuyến tham quan",
+          "words": [
+            "hill",
+            "lake",
+            "theme park",
+            "pagoda",
+            "visit the old buildings",
+            "famous",
+            "market",
+            "arrive",
+            "trip",
+            "Bai Dinh Pagoda",
+            "Ba Na Hills",
+            "Hoan Kiem Lake",
+            "plant trees",
+            "play games",
+            "Suoi Tien Theme Park",
+            "visit the buildings",
+            "walk around the lake"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 11,
+      "title": "Family time",
+      "count": 9,
+      "groups": [
+        {
+          "label": "Thời gian bên gia đình",
+          "words": [
+            "sunbathe",
+            "journey",
+            "take a long time",
+            "buy souvenirs",
+            "collect seashells",
+            "eat seafood",
+            "see some interesting places",
+            "take a boat trip around the bay",
+            "walk on the beach"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 12,
+      "title": "Our Tet holiday",
+      "count": 10,
+      "groups": [
+        {
+          "label": "Hoạt động ngày Tết",
+          "words": [
+            "buy a branch of peach blossom",
+            "buy roses",
+            "buy a branch of peach blossoms",
+            "decorate the house",
+            "do the shopping",
+            "fireworks show",
+            "flower festival",
+            "make banh chung",
+            "make spring rolls",
+            "New Year party"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 13,
+      "title": "Our special days",
+      "count": 14,
+      "groups": [
+        {
+          "label": "Ngày lễ và đồ ăn",
+          "words": [
+            "Children’s Day",
+            "Teachers’ Day",
+            "Sports Day",
+            "Mid-Autumn Festival",
+            "chips",
+            "lemonade",
+            "apple juice",
+            "at Mid-Autumn Festival",
+            "burgers",
+            "on Children’s Day",
+            "on Sports Day",
+            "on Teachers’ Day",
+            "milk tea",
+            "pizza"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 14,
+      "title": "Staying healthy",
+      "count": 18,
+      "groups": [
+        {
+          "label": "Giữ sức khỏe",
+          "words": [
+            "once",
+            "twice",
+            "three times",
+            "stay healthy",
+            "lifestyle",
+            "do judo",
+            "active",
+            "set a great example for",
+            "do morning exercise",
+            "do yoga",
+            "drink fresh juice",
+            "eat healthy food",
+            "eat vegetables",
+            "every day",
+            "once a week",
+            "play sports",
+            "three times a week",
+            "twice a week"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 15,
+      "title": "Our health",
+      "count": 11,
+      "groups": [
+        {
+          "label": "Triệu chứng và chăm sóc",
+          "words": [
+            "tired",
+            "regularly",
+            "school clinic",
+            "drink warm water",
+            "go to the dentist",
+            "have a rest",
+            "headache",
+            "sore throat",
+            "stomach ache",
+            "take some medicine",
+            "toothache"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 16,
+      "title": "Seasons and the weather",
+      "count": 16,
+      "groups": [
+        {
+          "label": "4 mùa trong năm",
+          "words": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter"
+          ]
+        },
+        {
+          "label": "Khí hậu và khu vực",
+          "words": [
+            "climate",
+            "the north",
+            "the south",
+            "humid",
+            "cold",
+            "cool",
+            "hot",
+            "jeans",
+            "jumper",
+            "trousers",
+            "blouse",
+            "warm"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 17,
+      "title": "Stories for children",
+      "count": 18,
+      "groups": [
+        {
+          "label": "Truyện và nhân vật",
+          "words": [
+            "fox",
+            "main character",
+            "race",
+            "Once upon a time",
+            "forest",
+            "trick",
+            "trust",
+            "ant",
+            "cook well",
+            "crow",
+            "dwarfs",
+            "grasshopper",
+            "hare",
+            "run fast",
+            "sing beautifully",
+            "tortoise",
+            "Snow White",
+            "work hard"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 18,
+      "title": "Means of transport",
+      "count": 20,
+      "groups": [
+        {
+          "label": "Phương tiện và địa điểm",
+          "words": [
+            "means of transport",
+            "Opera House",
+            "bridge",
+            "square",
+            "museum",
+            "pagoda",
+            "water park",
+            "lake",
+            "hop-on hop-off bus",
+            "explore",
+            "ferry",
+            "sunset",
+            "by bicycle",
+            "by bus",
+            "by taxi",
+            "on foot",
+            "Dragon Bridge",
+            "Ha Noi Opera House",
+            "Ho Chi Minh City Museum",
+            "Ngo Mon Square"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 19,
+      "title": "Places of interest",
+      "count": 12,
+      "groups": [
+        {
+          "label": "Tham quan và khoảng cách",
+          "words": [
+            "a variety of",
+            "plan",
+            "walking street",
+            "centre",
+            "beautiful",
+            "exciting",
+            "fantastic",
+            "peaceful",
+            "twenty-nine (29)",
+            "forty (40)",
+            "one hundred (100)",
+            "one hundred and twenty-nine (129)"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 5,
+      "unit": 20,
+      "title": "Our summer holidays",
+      "count": 16,
+      "groups": [
+        {
+          "label": "Hoạt động nghỉ hè",
+          "words": [
+            "river",
+            "cave",
+            "island",
+            "aquarium",
+            "grow vegetables",
+            "waterfall",
+            "take lessons",
+            "foreign languages",
+            "Dam Sen Aquarium",
+            "go camping",
+            "Huong River",
+            "join a music club",
+            "Phong Nha Cave",
+            "Phu Quoc Island",
+            "practise swimming",
+            "visit an eco-farm"
+          ]
+        }
+      ]
+    }
+  ]
+}

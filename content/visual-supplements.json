@@ -1,0 +1,499 @@
+{
+  "one": {
+    "url": "assets/learning-diagrams/one.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "two": {
+    "url": "assets/learning-diagrams/two.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "three": {
+    "url": "assets/learning-diagrams/three.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "four": {
+    "url": "assets/learning-diagrams/four.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "five": {
+    "url": "assets/learning-diagrams/five.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "six": {
+    "url": "assets/learning-diagrams/six.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "seven": {
+    "url": "assets/learning-diagrams/seven.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eight": {
+    "url": "assets/learning-diagrams/eight.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "nine": {
+    "url": "assets/learning-diagrams/nine.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "ten": {
+    "url": "assets/learning-diagrams/ten.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eleven": {
+    "url": "assets/learning-diagrams/eleven.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twelve": {
+    "url": "assets/learning-diagrams/twelve.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirteen": {
+    "url": "assets/learning-diagrams/thirteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fourteen": {
+    "url": "assets/learning-diagrams/fourteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fifteen": {
+    "url": "assets/learning-diagrams/fifteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "sixteen": {
+    "url": "assets/learning-diagrams/sixteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "seventeen": {
+    "url": "assets/learning-diagrams/seventeen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eighteen": {
+    "url": "assets/learning-diagrams/eighteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "nineteen": {
+    "url": "assets/learning-diagrams/nineteen.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty": {
+    "url": "assets/learning-diagrams/twenty.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-one": {
+    "url": "assets/learning-diagrams/twenty-one.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-two": {
+    "url": "assets/learning-diagrams/twenty-two.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-three": {
+    "url": "assets/learning-diagrams/twenty-three.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirty": {
+    "url": "assets/learning-diagrams/thirty.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "forty-five": {
+    "url": "assets/learning-diagrams/forty-five.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "ninety-three": {
+    "url": "assets/learning-diagrams/ninety-three.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirty-eight": {
+    "url": "assets/learning-diagrams/thirty-eight.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "first": {
+    "url": "assets/learning-diagrams/first.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "second": {
+    "url": "assets/learning-diagrams/second.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "third": {
+    "url": "assets/learning-diagrams/third.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fourth": {
+    "url": "assets/learning-diagrams/fourth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fifth": {
+    "url": "assets/learning-diagrams/fifth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "sixth": {
+    "url": "assets/learning-diagrams/sixth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "seventh": {
+    "url": "assets/learning-diagrams/seventh.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eighth": {
+    "url": "assets/learning-diagrams/eighth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "ninth": {
+    "url": "assets/learning-diagrams/ninth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "tenth": {
+    "url": "assets/learning-diagrams/tenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eleventh": {
+    "url": "assets/learning-diagrams/eleventh.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twelfth": {
+    "url": "assets/learning-diagrams/twelfth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirteenth": {
+    "url": "assets/learning-diagrams/thirteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fourteenth": {
+    "url": "assets/learning-diagrams/fourteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "fifteenth": {
+    "url": "assets/learning-diagrams/fifteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "sixteenth": {
+    "url": "assets/learning-diagrams/sixteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "seventeenth": {
+    "url": "assets/learning-diagrams/seventeenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "eighteenth": {
+    "url": "assets/learning-diagrams/eighteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "nineteenth": {
+    "url": "assets/learning-diagrams/nineteenth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twentieth": {
+    "url": "assets/learning-diagrams/twentieth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-first": {
+    "url": "assets/learning-diagrams/twenty-first.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-second": {
+    "url": "assets/learning-diagrams/twenty-second.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-third": {
+    "url": "assets/learning-diagrams/twenty-third.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-fourth": {
+    "url": "assets/learning-diagrams/twenty-fourth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-fifth": {
+    "url": "assets/learning-diagrams/twenty-fifth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-sixth": {
+    "url": "assets/learning-diagrams/twenty-sixth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-seventh": {
+    "url": "assets/learning-diagrams/twenty-seventh.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-eighth": {
+    "url": "assets/learning-diagrams/twenty-eighth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "twenty-ninth": {
+    "url": "assets/learning-diagrams/twenty-ninth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirtieth": {
+    "url": "assets/learning-diagrams/thirtieth.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "thirty-first": {
+    "url": "assets/learning-diagrams/thirty-first.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "purple": {
+    "url": "assets/learning-diagrams/purple.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "grey": {
+    "url": "assets/learning-diagrams/grey.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "gold": {
+    "url": "assets/learning-diagrams/gold.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "circle": {
+    "url": "assets/learning-diagrams/circle.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "triangle": {
+    "url": "assets/learning-diagrams/triangle.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "rectangle": {
+    "url": "assets/learning-diagrams/rectangle.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "star": {
+    "url": "assets/learning-diagrams/star.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "below": {
+    "url": "assets/learning-diagrams/below.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "under": {
+    "url": "assets/learning-diagrams/under.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "above": {
+    "url": "assets/learning-diagrams/above.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "inside": {
+    "url": "assets/learning-diagrams/inside.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "outside": {
+    "url": "assets/learning-diagrams/outside.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  },
+  "next to": {
+    "url": "assets/learning-diagrams/next-to.svg",
+    "x": 0,
+    "y": 0,
+    "size": 100,
+    "kind": "diagram"
+  }
+}

@@ -1,0 +1,7939 @@
+{
+  "source": "TIENG ANH 3 GLOBAL.rar",
+  "records": [
+    {
+      "unit": 1,
+      "number": 1,
+      "text": "Hello",
+      "meaning": "chào, xin chào(trang trọng)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "Hello",
+          "chào, xin chào(trang trọng)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 2,
+      "text": "Hi",
+      "meaning": "chào, xin chào(thân mật)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "Hi",
+          "chào, xin chào(thân mật)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 3,
+      "text": "Hello= Hi",
+      "meaning": "",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "Hello",
+          "chào, xin chào",
+          ""
+        ],
+        [
+          "Hi",
+          "chào, xin chào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 4,
+      "text": "I am= I'm",
+      "meaning": "mình là..., tớ là..., tôi là …..",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "I am",
+          "mình là..., tớ là..., tôi là …..",
+          ""
+        ],
+        [
+          "I'm",
+          "mình là..., tớ là..., tôi là …..",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 5,
+      "text": "How",
+      "meaning": "như thế nào",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "How",
+          "như thế nào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 6,
+      "text": "How are you",
+      "meaning": "Bạn có khỏe không?",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "How are you",
+          "Bạn có khỏe không?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 7,
+      "text": "Fine= I'm fine",
+      "meaning": "Khỏe, mình khỏe",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "Fine",
+          "Khỏe, mình khỏe",
+          ""
+        ],
+        [
+          "I'm fine",
+          "Khỏe, mình khỏe",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 8,
+      "text": "Thank you= Thanks",
+      "meaning": "Cảm ơn",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "Thank you",
+          "Cảm ơn",
+          ""
+        ],
+        [
+          "Thanks",
+          "Cảm ơn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 9,
+      "text": "And you",
+      "meaning": "còn bạn?",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "And you",
+          "còn bạn?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 10,
+      "text": "Goodbye",
+      "meaning": "chào tạm biệt(trang trọng)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "Goodbye",
+          "chào tạm biệt(trang trọng)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 11,
+      "text": "Bye",
+      "meaning": "chào tạm biệt(thân mật)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "Bye",
+          "chào tạm biệt(thân mật)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 12,
+      "text": "Goodbye= Bye",
+      "meaning": "",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "Goodbye",
+          "chào tạm biệt",
+          ""
+        ],
+        [
+          "Bye",
+          "chào tạm biệt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 13,
+      "text": "Mr",
+      "meaning": "Thầy, Ông",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "Mr",
+          "Thầy, Ông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 14,
+      "text": "Mrs",
+      "meaning": "Bà(phụ nữ đã kết hôn)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "Mrs",
+          "Bà(phụ nữ đã kết hôn)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "number": 15,
+      "text": "Ms",
+      "meaning": "Cô(phụ nữ chưa kết hôn)",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "Ms",
+          "cô, bà (không phân biệt tình trạng hôn nhân)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 1,
+      "text": "name",
+      "meaning": "tên",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "name",
+          "tên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 2,
+      "text": "class",
+      "meaning": "lớp, lớp học",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "class",
+          "lớp, lớp học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 3,
+      "text": "school",
+      "meaning": "trường",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "school",
+          "trường",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 4,
+      "text": "What",
+      "meaning": "gì, cái gì",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "What",
+          "gì, cái gì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 5,
+      "text": "What is= What's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "What is",
+          "gì, cái gì",
+          ""
+        ],
+        [
+          "What's",
+          "gì, cái gì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 6,
+      "text": "your",
+      "meaning": "của bạn",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "your",
+          "của bạn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 7,
+      "text": "your name",
+      "meaning": "tên của bạn",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "your name",
+          "tên của bạn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 8,
+      "text": "my name",
+      "meaning": "tên của mình",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "my name",
+          "tên của mình",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 9,
+      "text": "name is= name's",
+      "meaning": "tên là",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "name is",
+          "tên là",
+          ""
+        ],
+        [
+          "name's",
+          "tên là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 10,
+      "text": "How old",
+      "meaning": "bao nhiêu tuổi",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B20",
+      "entries": [
+        [
+          "How old",
+          "bao nhiêu tuổi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 11,
+      "text": "years old",
+      "meaning": "tuổi",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B21",
+      "entries": [
+        [
+          "years old",
+          "tuổi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 12,
+      "text": "number",
+      "meaning": "số đếm",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "number",
+          "số đếm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 13,
+      "text": "one",
+      "meaning": "1",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E12",
+      "entries": [
+        [
+          "one",
+          "1",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 14,
+      "text": "two",
+      "meaning": "2",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E13",
+      "entries": [
+        [
+          "two",
+          "2",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 15,
+      "text": "three",
+      "meaning": "3",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E14",
+      "entries": [
+        [
+          "three",
+          "3",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 16,
+      "text": "four",
+      "meaning": "4",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E15",
+      "entries": [
+        [
+          "four",
+          "4",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 17,
+      "text": "five",
+      "meaning": "5",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E16",
+      "entries": [
+        [
+          "five",
+          "5",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 18,
+      "text": "six",
+      "meaning": "6",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E17",
+      "entries": [
+        [
+          "six",
+          "6",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 19,
+      "text": "seven",
+      "meaning": "7",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E18",
+      "entries": [
+        [
+          "seven",
+          "7",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 20,
+      "text": "eight",
+      "meaning": "8",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E19",
+      "entries": [
+        [
+          "eight",
+          "8",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 21,
+      "text": "nine",
+      "meaning": "9",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E20",
+      "entries": [
+        [
+          "nine",
+          "9",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "number": 22,
+      "text": "ten",
+      "meaning": "10",
+      "file": "tieng anh 3 unit  1 va 2.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E21",
+      "entries": [
+        [
+          "ten",
+          "10",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 1,
+      "text": "This",
+      "meaning": "đây ( khoảng cách gần)",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "This",
+          "đây ( khoảng cách gần)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 2,
+      "text": "This is",
+      "meaning": "đây là",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "This is",
+          "đây là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 3,
+      "text": "That",
+      "meaning": "kia( khoảng cách xa)",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "That",
+          "kia( khoảng cách xa)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 4,
+      "text": "That is",
+      "meaning": "kia là",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "That is",
+          "kia là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 5,
+      "text": "That is= That's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "That is",
+          "kia là",
+          ""
+        ],
+        [
+          "That's",
+          "kia là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 6,
+      "text": "Is this…?",
+      "meaning": "đây có phải là …?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "Is this…?",
+          "đây có phải là …?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 7,
+      "text": "Yes, it is.",
+      "meaning": "Phải",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "Yes, it is.",
+          "Phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 8,
+      "text": "No, it isn't.",
+      "meaning": "Không phải",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "No, it isn't.",
+          "Không phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 9,
+      "text": "is not= isn't",
+      "meaning": "",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "is not",
+          "không phải, không là",
+          ""
+        ],
+        [
+          "isn't",
+          "không phải, không là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 10,
+      "text": "Is that…?",
+      "meaning": "Kia có phải là …?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "Is that…?",
+          "Kia có phải là …?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 11,
+      "text": "teacher",
+      "meaning": "giáo viên",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "teacher",
+          "giáo viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 12,
+      "text": "friend",
+      "meaning": "bạn, bạn bè",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "friend",
+          "bạn, bạn bè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 13,
+      "text": "friends",
+      "meaning": "bạn, bạn bè( số nhiều)",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "friends",
+          "bạn, bạn bè( số nhiều)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 14,
+      "text": "This is Mary.",
+      "meaning": "Đây là Mary.",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "This is Mary.",
+          "Đây là Mary.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 15,
+      "text": "That is Ben.",
+      "meaning": "Kia là Ben.",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "That is Ben.",
+          "Kia là Ben.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 16,
+      "text": "Is this Ms Hoa?",
+      "meaning": "Đây có phải là cô Hoa không?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "Is this Ms Hoa?",
+          "Đây có phải là cô Hoa không?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 18,
+      "text": "No, it isn't. It's Mai.",
+      "meaning": "Không phải. Đó là Mai.",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "No, it isn't. It's Mai.",
+          "Không phải. Đó là Mai.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 19,
+      "text": "Is that Minh?",
+      "meaning": "Kia có phải là Minh không?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E9",
+      "entries": [
+        [
+          "Is that Minh?",
+          "Kia có phải là Minh không?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "number": 21,
+      "text": "No, it isn't. It's Nam.",
+      "meaning": "Không phải. Đó là Nam",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "No, it isn't. It's Nam.",
+          "Không phải. Đó là Nam",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 1,
+      "text": "body",
+      "meaning": "cơ thể",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "body",
+          "cơ thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 2,
+      "text": "bodies",
+      "meaning": "",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "bodies",
+          "các cơ thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 3,
+      "text": "let's",
+      "meaning": "chúng ta hãy",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "let's",
+          "chúng ta hãy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 4,
+      "text": "let's= let us",
+      "meaning": "",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "let's",
+          "chúng ta hãy",
+          ""
+        ],
+        [
+          "let us",
+          "chúng ta hãy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 5,
+      "text": "play a game",
+      "meaning": "chơi trò chơi",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "play a game",
+          "chơi trò chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 6,
+      "text": "nose",
+      "meaning": "cái mũi",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "nose",
+          "cái mũi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 7,
+      "text": "face",
+      "meaning": "khuôn mặt",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B20",
+      "entries": [
+        [
+          "face",
+          "khuôn mặt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 8,
+      "text": "hand",
+      "meaning": "bàn tay",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B21",
+      "entries": [
+        [
+          "hand",
+          "bàn tay",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 9,
+      "text": "hands",
+      "meaning": "đôi bàn tay",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B22",
+      "entries": [
+        [
+          "hands",
+          "đôi bàn tay",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 10,
+      "text": "ear",
+      "meaning": "tai",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B23",
+      "entries": [
+        [
+          "ear",
+          "tai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 11,
+      "text": "ears",
+      "meaning": "đôi tai",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B24",
+      "entries": [
+        [
+          "ears",
+          "đôi tai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 12,
+      "text": "eye",
+      "meaning": "mắt",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E14",
+      "entries": [
+        [
+          "eye",
+          "mắt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 13,
+      "text": "eyes",
+      "meaning": "đôi mắt",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E15",
+      "entries": [
+        [
+          "eyes",
+          "đôi mắt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 14,
+      "text": "What's this?",
+      "meaning": "đây là cái gì?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E16",
+      "entries": [
+        [
+          "What's this?",
+          "đây là cái gì?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 15,
+      "text": "What's that?",
+      "meaning": "kia là cái gì?",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E17",
+      "entries": [
+        [
+          "What's that?",
+          "kia là cái gì?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 16,
+      "text": "It is= It's",
+      "meaning": "Đó là …",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E18",
+      "entries": [
+        [
+          "It is",
+          "Đó là …",
+          ""
+        ],
+        [
+          "It's",
+          "Đó là …",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 17,
+      "text": "touch",
+      "meaning": "sờ vào",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E19",
+      "entries": [
+        [
+          "touch",
+          "sờ vào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 18,
+      "text": "touch your nose.",
+      "meaning": "sờ vào cái mũi",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E20",
+      "entries": [
+        [
+          "touch your nose.",
+          "sờ vào cái mũi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 19,
+      "text": "open",
+      "meaning": "mở",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E21",
+      "entries": [
+        [
+          "open",
+          "mở",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "number": 20,
+      "text": "open your mouth",
+      "meaning": "mở cái miệng",
+      "file": "tieng anh 3 unit  3 va 4.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E22",
+      "entries": [
+        [
+          "open your mouth",
+          "mở cái miệng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 1,
+      "text": "hobby",
+      "meaning": "sở thích",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "hobby",
+          "sở thích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 2,
+      "text": "hobbies",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "hobbies",
+          "các sở thích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 3,
+      "text": "sing",
+      "meaning": "hát",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "sing",
+          "hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 4,
+      "text": "sing- singing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "sing",
+          "hát",
+          ""
+        ],
+        [
+          "singing",
+          "hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 5,
+      "text": "dance",
+      "meaning": "nhảy, khiêu vũ",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 6,
+      "text": "dance- dancing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ],
+        [
+          "dancing",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 7,
+      "text": "draw",
+      "meaning": "vẽ",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "draw",
+          "vẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 8,
+      "text": "draw- drawing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "draw",
+          "vẽ",
+          ""
+        ],
+        [
+          "drawing",
+          "vẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 9,
+      "text": "swim",
+      "meaning": "bơi",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "swim",
+          "bơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 10,
+      "text": "swim - swimming",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "swim",
+          "bơi",
+          ""
+        ],
+        [
+          "swimming",
+          "bơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 11,
+      "text": "cook",
+      "meaning": "nấu ăn",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "cook",
+          "nấu ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 12,
+      "text": "cook- cooking",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "cook",
+          "nấu ăn",
+          ""
+        ],
+        [
+          "cooking",
+          "nấu ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 13,
+      "text": "walk",
+      "meaning": "đi bộ",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "walk",
+          "đi bộ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 14,
+      "text": "walk - walking",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "walk",
+          "đi bộ",
+          ""
+        ],
+        [
+          "walking",
+          "đi bộ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 15,
+      "text": "run",
+      "meaning": "chạy",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "run",
+          "chạy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 16,
+      "text": "run- running",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "run",
+          "chạy",
+          ""
+        ],
+        [
+          "running",
+          "chạy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 17,
+      "text": "paint",
+      "meaning": "vẽ, tô",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "paint",
+          "vẽ, tô",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 18,
+      "text": "paint- painting",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E9",
+      "entries": [
+        [
+          "paint",
+          "vẽ, tô màu",
+          ""
+        ],
+        [
+          "painting",
+          "vẽ, tô màu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 19,
+      "text": "like",
+      "meaning": "thích",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E10",
+      "entries": [
+        [
+          "like",
+          "thích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "number": 20,
+      "text": "like + V-ing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "like + V-ing",
+          "thích làm một việc gì đó (like + động từ thêm -ing)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 1,
+      "text": "picture",
+      "meaning": "bức tranh, bức ảnh",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "picture",
+          "bức tranh, bức ảnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 2,
+      "text": "picture= photo",
+      "meaning": "",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "picture",
+          "bức tranh, bức ảnh",
+          ""
+        ],
+        [
+          "photo",
+          "bức tranh, bức ảnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 3,
+      "text": "school",
+      "meaning": "trường học",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "school",
+          "trường học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 4,
+      "text": "classroom",
+      "meaning": "phòng học",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "classroom",
+          "phòng học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 5,
+      "text": "library",
+      "meaning": "thư viện",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "library",
+          "thư viện",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 6,
+      "text": "playground",
+      "meaning": "khu vui chơi",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "playground",
+          "khu vui chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 7,
+      "text": "Is this….?",
+      "meaning": "đây có phải là …?",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "Is this….?",
+          "đây có phải là …?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 8,
+      "text": "Yes, it is.",
+      "meaning": "phải",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B20",
+      "entries": [
+        [
+          "Yes, it is.",
+          "phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 9,
+      "text": "No, it isn't.",
+      "meaning": "Không phải",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B21",
+      "entries": [
+        [
+          "No, it isn't.",
+          "Không phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 10,
+      "text": "our",
+      "meaning": "của chúng ta, của chúng tôi",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B22",
+      "entries": [
+        [
+          "our",
+          "của chúng ta, của chúng tôi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 11,
+      "text": "your",
+      "meaning": "của bạn, của các bạn",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E13",
+      "entries": [
+        [
+          "your",
+          "của bạn, của các bạn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 12,
+      "text": "artroom",
+      "meaning": "phòng mỹ thuật",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E14",
+      "entries": [
+        [
+          "art room",
+          "phòng mỹ thuật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 13,
+      "text": "music room",
+      "meaning": "phòng âm nhạc",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E15",
+      "entries": [
+        [
+          "music room",
+          "phòng âm nhạc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 14,
+      "text": "gym",
+      "meaning": "phòng tập thể dục",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E16",
+      "entries": [
+        [
+          "gym",
+          "phòng tập thể dục",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 15,
+      "text": "Let's + V",
+      "meaning": "chúng ta hãy",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E17",
+      "entries": [
+        [
+          "Let's + V",
+          "chúng ta hãy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 16,
+      "text": "Let's go to",
+      "meaning": "chúng ta hãy đi đến",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E18",
+      "entries": [
+        [
+          "Let's go to",
+          "chúng ta hãy đi đến",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 17,
+      "text": "welcome",
+      "meaning": "chào mừng, hân hạnh",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E19",
+      "entries": [
+        [
+          "welcome",
+          "chào mừng, hân hạnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "number": 18,
+      "text": "welcome to",
+      "meaning": "chào mừng bạn đến với",
+      "file": "tieng anh 3 unit  5  va 6.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E20",
+      "entries": [
+        [
+          "welcome to",
+          "chào mừng bạn đến với",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 1,
+      "text": "classroom",
+      "meaning": "phòng học",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "classroom",
+          "phòng học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 2,
+      "text": "stand up",
+      "meaning": "đứng dậy",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "stand up",
+          "đứng dậy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 3,
+      "text": "sit down",
+      "meaning": "ngồi xuống",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "sit down",
+          "ngồi xuống",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 4,
+      "text": "open your book",
+      "meaning": "mở sách ra",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "open your book",
+          "mở sách ra",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 5,
+      "text": "close your book",
+      "meaning": "đóng sách lại",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "close your book",
+          "đóng sách lại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 6,
+      "text": "please",
+      "meaning": "vui lòng( lịch sự)",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "please",
+          "vui lòng( lịch sự)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 7,
+      "text": "go out",
+      "meaning": "đi ra ngoài",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "go out",
+          "đi ra ngoài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 8,
+      "text": "come in",
+      "meaning": "đi vào",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "come in",
+          "đi vào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 9,
+      "text": "speak",
+      "meaning": "nói",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "speak",
+          "nói",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 10,
+      "text": "speak Vietnamese",
+      "meaning": "nói Tiếng Việt",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "speak Vietnamese",
+          "nói Tiếng Việt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 11,
+      "text": "speak English",
+      "meaning": "nói Tiếng Anh",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "speak English",
+          "nói Tiếng Anh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 12,
+      "text": "May",
+      "meaning": "có thể( xin phép)",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "May",
+          "có thể( xin phép)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 13,
+      "text": "May I…?",
+      "meaning": "Em có thể…?( xin phép)",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "May I…?",
+          "Em có thể…?( xin phép)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 14,
+      "text": "Yes, you can.",
+      "meaning": "Ừ, em có thể",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "Yes, you can.",
+          "Ừ, em có thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "number": 15,
+      "text": "No, you can't.",
+      "meaning": "Không, em không thể",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "No, you can't.",
+          "Không, em không thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 1,
+      "text": "school thing",
+      "meaning": "dụng cụ học tập",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "school thing",
+          "dụng cụ học tập",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 2,
+      "text": "pen",
+      "meaning": "bút",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "pen",
+          "bút",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 3,
+      "text": "pencil",
+      "meaning": "bút chì",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "pencil",
+          "bút chì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 4,
+      "text": "pencil case",
+      "meaning": "hộp bút",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "pencil case",
+          "hộp bút",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 5,
+      "text": "book",
+      "meaning": "sách",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "book",
+          "sách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 6,
+      "text": "notebook",
+      "meaning": "vở",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "notebook",
+          "vở",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 7,
+      "text": "ruler",
+      "meaning": "thước",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "ruler",
+          "thước",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 8,
+      "text": "school bag",
+      "meaning": "cặp",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "school bag",
+          "cặp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 9,
+      "text": "eraser= rubber",
+      "meaning": "tẩy",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B20",
+      "entries": [
+        [
+          "eraser",
+          "tẩy",
+          ""
+        ],
+        [
+          "rubber",
+          "tẩy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 10,
+      "text": "have",
+      "meaning": "có",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B21",
+      "entries": [
+        [
+          "have",
+          "có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 12,
+      "text": "I have",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E13",
+      "entries": [
+        [
+          "I have",
+          "mình có, tôi có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 13,
+      "text": "You have",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E14",
+      "entries": [
+        [
+          "You have",
+          "bạn có, các bạn có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 14,
+      "text": "We have",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E15",
+      "entries": [
+        [
+          "We have",
+          "chúng tôi có, chúng ta có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 15,
+      "text": "They have",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E16",
+      "entries": [
+        [
+          "They have",
+          "họ có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 16,
+      "text": "He has",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E17",
+      "entries": [
+        [
+          "He has",
+          "anh ấy có, chú ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 17,
+      "text": "She has",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E18",
+      "entries": [
+        [
+          "She has",
+          "cô ấy có, chị ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 18,
+      "text": "It has",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E19",
+      "entries": [
+        [
+          "It has",
+          "nó có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 19,
+      "text": "Do you have…?",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E20",
+      "entries": [
+        [
+          "Do you have…?",
+          "Bạn có … không?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 20,
+      "text": "Yes, I do.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E21",
+      "entries": [
+        [
+          "Yes, I do.",
+          "Ừ, mình có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "number": 21,
+      "text": "No, I don't.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  7 va 8.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E22",
+      "entries": [
+        [
+          "No, I don't.",
+          "Không, mình không có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 2,
+      "text": "blue",
+      "meaning": "xanh dương",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "blue",
+          "xanh dương",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 3,
+      "text": "brown",
+      "meaning": "nâu",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "brown",
+          "nâu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 4,
+      "text": "red",
+      "meaning": "đỏ",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "red",
+          "đỏ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 5,
+      "text": "yellow",
+      "meaning": "vàng",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "yellow",
+          "vàng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 6,
+      "text": "orange",
+      "meaning": "cam",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "orange",
+          "cam",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 7,
+      "text": "green",
+      "meaning": "xanh lá",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "green",
+          "xanh lá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 8,
+      "text": "white",
+      "meaning": "trắng",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "white",
+          "trắng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 9,
+      "text": "black",
+      "meaning": "đen",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "black",
+          "đen",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 10,
+      "text": "purple",
+      "meaning": "tím",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "purple",
+          "tím",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 11,
+      "text": "pink",
+      "meaning": "hồng",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "pink",
+          "hồng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 12,
+      "text": "gray",
+      "meaning": "xám",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "gray",
+          "xám",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "number": 13,
+      "text": "colour= color",
+      "meaning": "màu sắc",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "colour",
+          "màu sắc",
+          ""
+        ],
+        [
+          "color",
+          "màu sắc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 1,
+      "text": "break",
+      "meaning": "giải lao",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "break",
+          "giải lao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 2,
+      "text": "time",
+      "meaning": "thời gian",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "time",
+          "thời gian",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 3,
+      "text": "break time",
+      "meaning": "giờ giải lao",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "break time",
+          "giờ giải lao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 4,
+      "text": "activity",
+      "meaning": "1 hoạt động",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "activity",
+          "1 hoạt động",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 5,
+      "text": "activities",
+      "meaning": "nhiều hoạt động",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "activities",
+          "nhiều hoạt động",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 6,
+      "text": "play",
+      "meaning": "chơi",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "play",
+          "chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 7,
+      "text": "chess",
+      "meaning": "cờ vua",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "chess",
+          "cờ vua",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 8,
+      "text": "volleyball",
+      "meaning": "bóng chuyền",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "volleyball",
+          "bóng chuyền",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 9,
+      "text": "basketball",
+      "meaning": "bóng rổ",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "basketball",
+          "bóng rổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 10,
+      "text": "badminton",
+      "meaning": "cầu lông",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "badminton",
+          "cầu lông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 11,
+      "text": "puzzle",
+      "meaning": "lắp ghép",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E10",
+      "entries": [
+        [
+          "puzzle",
+          "lắp ghép",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 12,
+      "text": "word puzzle",
+      "meaning": "ghép tranh, ghép từ",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "word puzzle",
+          "ghép tranh, ghép từ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 13,
+      "text": "do word puzzle",
+      "meaning": "chơi lắp ghép",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E12",
+      "entries": [
+        [
+          "do word puzzle",
+          "chơi lắp ghép",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 14,
+      "text": "chat",
+      "meaning": "tán gẫu",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E13",
+      "entries": [
+        [
+          "chat",
+          "tán gẫu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 15,
+      "text": "chat with",
+      "meaning": "tán gẫu cùng với",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E14",
+      "entries": [
+        [
+          "chat with",
+          "tán gẫu cùng với",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 16,
+      "text": "friend",
+      "meaning": "bạn, bạn bè",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E15",
+      "entries": [
+        [
+          "friend",
+          "bạn, bạn bè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 17,
+      "text": "football",
+      "meaning": "bóng đá",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E16",
+      "entries": [
+        [
+          "football",
+          "bóng đá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "number": 18,
+      "text": "table tennis",
+      "meaning": "bóng bàn",
+      "file": "tieng anh 3 unit  9 va 10.xlsx",
+      "sheet": "xl/worksheets/sheet1.xml",
+      "cell": "E17",
+      "entries": [
+        [
+          "table tennis",
+          "bóng bàn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 1,
+      "text": "family",
+      "meaning": "gia đình",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "family",
+          "gia đình",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 2,
+      "text": "member",
+      "meaning": "thành viên",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "member",
+          "thành viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 3,
+      "text": "family member",
+      "meaning": "thành viên gia đình",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "family member",
+          "thành viên gia đình",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 4,
+      "text": "father",
+      "meaning": "ba, bố",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "father",
+          "ba, bố",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 5,
+      "text": "grandfather",
+      "meaning": "ông",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "grandfather",
+          "ông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 6,
+      "text": "mother",
+      "meaning": "mẹ",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "mother",
+          "mẹ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 7,
+      "text": "grandmother",
+      "meaning": "bà",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "grandmother",
+          "bà",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 8,
+      "text": "brother",
+      "meaning": "anh trai, em trai",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "brother",
+          "anh trai, em trai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 9,
+      "text": "sister",
+      "meaning": "chị gái, em gái",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "sister",
+          "chị gái, em gái",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 10,
+      "text": "this",
+      "meaning": "này( gần)",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "this",
+          "này( gần)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 11,
+      "text": "that",
+      "meaning": "kia( xa)",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "that",
+          "kia( xa)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 12,
+      "text": "Who",
+      "meaning": "ai( hỏi về người)",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "Who",
+          "ai( hỏi về người)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 13,
+      "text": "Who is= Who's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "Who is",
+          "ai là; ai vậy?",
+          ""
+        ],
+        [
+          "Who's",
+          "ai là; ai vậy?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 14,
+      "text": "She",
+      "meaning": "cô ấy, chị ấy( 1 nữ)",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "She",
+          "cô ấy, chị ấy( 1 nữ)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 15,
+      "text": "She is= She's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "She is",
+          "cô ấy là, chị ấy là",
+          ""
+        ],
+        [
+          "She's",
+          "cô ấy là, chị ấy là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 16,
+      "text": "He",
+      "meaning": "anh ấy, chú ấy( 1 nam)",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "He",
+          "anh ấy, chú ấy( 1 nam)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 17,
+      "text": "He is= He's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "He is",
+          "anh ấy là, chú ấy là",
+          ""
+        ],
+        [
+          "He's",
+          "anh ấy là, chú ấy là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 18,
+      "text": "It",
+      "meaning": "Nó",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E9",
+      "entries": [
+        [
+          "It",
+          "Nó",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 19,
+      "text": "It is= It's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E10",
+      "entries": [
+        [
+          "It is",
+          "nó là, đó là",
+          ""
+        ],
+        [
+          "It's",
+          "nó là, đó là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 11,
+      "number": 20,
+      "text": "years old",
+      "meaning": "tuổi",
+      "file": "tieng anh 3 unit  11.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "years old",
+          "tuổi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 1,
+      "text": "job",
+      "meaning": "công việc, nghề nghiệp",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "job",
+          "công việc, nghề nghiệp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 2,
+      "text": "doctor",
+      "meaning": "bác sĩ",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "doctor",
+          "bác sĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 3,
+      "text": "teacher",
+      "meaning": "giáo viên",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "teacher",
+          "giáo viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 4,
+      "text": "driver",
+      "meaning": "tài xế",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "driver",
+          "tài xế",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 5,
+      "text": "worker",
+      "meaning": "công nhân",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "worker",
+          "công nhân",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 6,
+      "text": "nurse",
+      "meaning": "y tá",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "nurse",
+          "y tá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 7,
+      "text": "cook",
+      "meaning": "đầu bếp",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "cook",
+          "đầu bếp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 8,
+      "text": "farmer",
+      "meaning": "nông dân",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "farmer",
+          "nông dân",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 9,
+      "text": "singer",
+      "meaning": "ca sĩ",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "singer",
+          "ca sĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 10,
+      "text": "pupil",
+      "meaning": "học sinh",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "pupil",
+          "học sinh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 11,
+      "text": "He is= He's",
+      "meaning": "anh ấy là, chú ấy là …",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E2",
+      "entries": [
+        [
+          "He is",
+          "anh ấy là, chú ấy là …",
+          ""
+        ],
+        [
+          "He's",
+          "anh ấy là, chú ấy là …",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 12,
+      "text": "She is= She's",
+      "meaning": "cô ấy là, chị ấy là",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "She is",
+          "cô ấy là, chị ấy là",
+          ""
+        ],
+        [
+          "She's",
+          "cô ấy là, chị ấy là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 13,
+      "text": "Is she…?",
+      "meaning": "có phải cô ấy là…?",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "Is she…?",
+          "có phải cô ấy là…?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 14,
+      "text": "Yes, she is.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "Yes, she is.",
+          "Vâng, đúng là cô ấy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 15,
+      "text": "No, she isn't.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "No, she isn't.",
+          "Không, cô ấy không phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 16,
+      "text": "Is he….?",
+      "meaning": "có phải anh ấy là …?",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "Is he….?",
+          "có phải anh ấy là …?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 17,
+      "text": "Yes, he is.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "Yes, he is.",
+          "Vâng, đúng là anh ấy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 18,
+      "text": "No, he isn't.",
+      "meaning": "",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E9",
+      "entries": [
+        [
+          "No, he isn't.",
+          "Không, anh ấy không phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "number": 19,
+      "text": "I am= I'm",
+      "meaning": "tôi là, mình là, tớ là",
+      "file": "tieng anh 3 unit  12.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E10",
+      "entries": [
+        [
+          "I am",
+          "tôi là, mình là, tớ là",
+          ""
+        ],
+        [
+          "I'm",
+          "tôi là, mình là, tớ là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 1,
+      "text": "house",
+      "meaning": "ngôi nhà",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "house",
+          "ngôi nhà",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 2,
+      "text": "bedroom",
+      "meaning": "phòng ngủ",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "bedroom",
+          "phòng ngủ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 3,
+      "text": "living room",
+      "meaning": "phòng khách",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "living room",
+          "phòng khách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 4,
+      "text": "kitchen",
+      "meaning": "phòng bếp",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "kitchen",
+          "phòng bếp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 5,
+      "text": "bathroom",
+      "meaning": "phòng tắm",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "bathroom",
+          "phòng tắm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 6,
+      "text": "Where",
+      "meaning": "ở đâu",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "Where",
+          "ở đâu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 7,
+      "text": "Where is = Where's",
+      "meaning": "",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E3",
+      "entries": [
+        [
+          "Where is",
+          "ở đâu (hỏi về một người hoặc vật)",
+          ""
+        ],
+        [
+          "Where's",
+          "ở đâu (hỏi về một người hoặc vật)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 8,
+      "text": "here",
+      "meaning": "ở đây( gần)",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E4",
+      "entries": [
+        [
+          "here",
+          "ở đây( gần)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 9,
+      "text": "there",
+      "meaning": "ở kia( xa)",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E5",
+      "entries": [
+        [
+          "there",
+          "ở kia( xa)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 10,
+      "text": "It is= It's",
+      "meaning": "đó là, nó là ( số ít)",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E6",
+      "entries": [
+        [
+          "It is",
+          "đó là, nó là ( số ít)",
+          ""
+        ],
+        [
+          "It's",
+          "đó là, nó là ( số ít)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 11,
+      "text": "Where are…?",
+      "meaning": "",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E7",
+      "entries": [
+        [
+          "Where are…?",
+          "ở đâu (hỏi về nhiều người hoặc vật)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 12,
+      "text": "They are= They're",
+      "meaning": "chúng là( số nhiều)",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E8",
+      "entries": [
+        [
+          "They are",
+          "chúng là( số nhiều)",
+          ""
+        ],
+        [
+          "They're",
+          "chúng là( số nhiều)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 13,
+      "text": "chair",
+      "meaning": "cái ghế",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H3",
+      "entries": [
+        [
+          "chair",
+          "cái ghế",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 14,
+      "text": "table",
+      "meaning": "cái bàn",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H4",
+      "entries": [
+        [
+          "table",
+          "cái bàn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 15,
+      "text": "book",
+      "meaning": "quyển sách",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H5",
+      "entries": [
+        [
+          "book",
+          "quyển sách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 16,
+      "text": "lamp",
+      "meaning": "cái đèn học",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H6",
+      "entries": [
+        [
+          "lamp",
+          "cái đèn học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 17,
+      "text": "in",
+      "meaning": "ở trong",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H7",
+      "entries": [
+        [
+          "in",
+          "ở trong",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "number": 18,
+      "text": "on",
+      "meaning": "ở trên",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "H8",
+      "entries": [
+        [
+          "on",
+          "ở trên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 1,
+      "text": "desk",
+      "meaning": "cái bàn",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "desk",
+          "cái bàn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 2,
+      "text": "bed",
+      "meaning": "cái giường",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "bed",
+          "cái giường",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 3,
+      "text": "door",
+      "meaning": "cái cửa lớn, cửa chính",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "door",
+          "cái cửa lớn, cửa chính",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 4,
+      "text": "window",
+      "meaning": "cái cửa sổ",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "window",
+          "cái cửa sổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 5,
+      "text": "room",
+      "meaning": "phòng",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "room",
+          "phòng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 6,
+      "text": "big",
+      "meaning": "to",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E10",
+      "entries": [
+        [
+          "big",
+          "to",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 7,
+      "text": "small",
+      "meaning": "nhỏ",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E11",
+      "entries": [
+        [
+          "small",
+          "nhỏ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 8,
+      "text": "new",
+      "meaning": "mới",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E12",
+      "entries": [
+        [
+          "new",
+          "mới",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 14,
+      "number": 9,
+      "text": "old",
+      "meaning": "cũ",
+      "file": "tieng anh 3 unit  13 va 14.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "E13",
+      "entries": [
+        [
+          "old",
+          "cũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 1,
+      "text": "dining table",
+      "meaning": "bàn ăn",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "dining table",
+          "bàn ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 2,
+      "text": "would you like…?",
+      "meaning": "bạn có muốn( mời?)",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "would you like…?",
+          "bạn có muốn( mời?)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 3,
+      "text": "rice",
+      "meaning": "cơm, gạo",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "rice",
+          "cơm, gạo",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 4,
+      "text": "juice",
+      "meaning": "nước ép",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "juice",
+          "nước ép",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 5,
+      "text": "beans",
+      "meaning": "hạt đậu, quả đậu",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "beans",
+          "hạt đậu, quả đậu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 6,
+      "text": "fish",
+      "meaning": "cá",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "fish",
+          "cá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 7,
+      "text": "meat",
+      "meaning": "thịt",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "meat",
+          "thịt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 8,
+      "text": "Yes, please",
+      "meaning": "",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "Yes, please",
+          "Vâng, cho mình xin",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 9,
+      "text": "No, thanks",
+      "meaning": "",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "No, thanks",
+          "Không, cảm ơn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 10,
+      "text": "some",
+      "meaning": "một ít, một vài",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "some",
+          "một ít, một vài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 11,
+      "text": "eat",
+      "meaning": "ăn",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "eat",
+          "ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 12,
+      "text": "drink",
+      "meaning": "uống, đồ uống, thức uống",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "drink",
+          "uống, đồ uống, thức uống",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 13,
+      "text": "bread",
+      "meaning": "bánh mì",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "bread",
+          "bánh mì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 14,
+      "text": "milk",
+      "meaning": "sữa",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "milk",
+          "sữa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 15,
+      "text": "egg",
+      "meaning": "trứng",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "egg",
+          "trứng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 16,
+      "text": "chicken",
+      "meaning": "thịt gà",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "chicken",
+          "thịt gà",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 17,
+      "text": "water",
+      "meaning": "nước",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "water",
+          "nước",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 15,
+      "number": 18,
+      "text": "food",
+      "meaning": "thức ăn",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "food",
+          "thức ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 1,
+      "text": "pet",
+      "meaning": "thú cưng",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F2",
+      "entries": [
+        [
+          "pet",
+          "thú cưng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 2,
+      "text": "dog",
+      "meaning": "con chó",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F3",
+      "entries": [
+        [
+          "dog",
+          "con chó",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 3,
+      "text": "cat",
+      "meaning": "con mèo",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F4",
+      "entries": [
+        [
+          "cat",
+          "con mèo",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 4,
+      "text": "bird",
+      "meaning": "con chim",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F5",
+      "entries": [
+        [
+          "bird",
+          "con chim",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 5,
+      "text": "parrot",
+      "meaning": "con vẹt",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F6",
+      "entries": [
+        [
+          "parrot",
+          "con vẹt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 6,
+      "text": "rabbit",
+      "meaning": "con thỏ",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F7",
+      "entries": [
+        [
+          "rabbit",
+          "con thỏ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 7,
+      "text": "have",
+      "meaning": "có",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F8",
+      "entries": [
+        [
+          "have",
+          "có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 8,
+      "text": "any",
+      "meaning": "một ít, một vài",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F9",
+      "entries": [
+        [
+          "any",
+          "một ít, một vài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 9,
+      "text": "Do you have any…?",
+      "meaning": "có phải bạn có",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F10",
+      "entries": [
+        [
+          "Do you have any…?",
+          "có phải bạn có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 10,
+      "text": "Yes, I do.",
+      "meaning": "Ừ, mình có",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F11",
+      "entries": [
+        [
+          "Yes, I do.",
+          "Ừ, mình có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 11,
+      "text": "No, I don't.",
+      "meaning": "Không, không có",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F12",
+      "entries": [
+        [
+          "No, I don't.",
+          "Không, không có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 12,
+      "text": "How many",
+      "meaning": "có bao nhiêu",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F13",
+      "entries": [
+        [
+          "How many",
+          "có bao nhiêu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 13,
+      "text": "some",
+      "meaning": "một ít, một vài",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F14",
+      "entries": [
+        [
+          "some",
+          "một ít, một vài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 14,
+      "text": "many",
+      "meaning": "nhiều",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F15",
+      "entries": [
+        [
+          "many",
+          "nhiều",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 15,
+      "text": "goldfish",
+      "meaning": "cá vàng",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F16",
+      "entries": [
+        [
+          "goldfish",
+          "cá vàng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 16,
+      "number": 16,
+      "text": "I have",
+      "meaning": "Mình có",
+      "file": "TU VUNG UNIT 15 va 16.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F17",
+      "entries": [
+        [
+          "I have",
+          "Mình có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 1,
+      "text": "toy",
+      "meaning": "đồ chơi",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "toy",
+          "đồ chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 2,
+      "text": "car",
+      "meaning": "ô tô",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "car",
+          "ô tô",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 3,
+      "text": "doll",
+      "meaning": "búp bê",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "doll",
+          "búp bê",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 4,
+      "text": "kite",
+      "meaning": "diều",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "kite",
+          "diều",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 5,
+      "text": "train",
+      "meaning": "tàu, tàu hỏa",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "train",
+          "tàu, tàu hỏa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 6,
+      "text": "plane",
+      "meaning": "máy bay",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "plane",
+          "máy bay",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 7,
+      "text": "have",
+      "meaning": "có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "have",
+          "có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 8,
+      "text": "I have",
+      "meaning": "Mình có, tôi có, tớ có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "I have",
+          "Mình có, tôi có, tớ có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 9,
+      "text": "You have",
+      "meaning": "bạn có, các bạn có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "You have",
+          "bạn có, các bạn có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 10,
+      "text": "We have",
+      "meaning": "chúng tôi có, chúng ta có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "We have",
+          "chúng tôi có, chúng ta có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 11,
+      "text": "They have",
+      "meaning": "họ có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "They have",
+          "họ có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 12,
+      "text": "He has",
+      "meaning": "anh ấy có, chú ấy có, bác ấy có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "He has",
+          "anh ấy có, chú ấy có, bác ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 13,
+      "text": "She has",
+      "meaning": "cô ấy, chị ấy,",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "She has",
+          "cô ấy có, chị ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 14,
+      "text": "It has",
+      "meaning": "nó có",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "It has",
+          "nó có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 15,
+      "text": "truck",
+      "meaning": "xe tải",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "truck",
+          "xe tải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 16,
+      "text": "ship",
+      "meaning": "tàu thủy",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "ship",
+          "tàu thủy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "number": 17,
+      "text": "teddy bear",
+      "meaning": "gấu bông",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "teddy bear",
+          "gấu bông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 1,
+      "text": "play",
+      "meaning": "chơi",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F2",
+      "entries": [
+        [
+          "play",
+          "chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 2,
+      "text": "play- playing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F3",
+      "entries": [
+        [
+          "play",
+          "chơi",
+          ""
+        ],
+        [
+          "playing",
+          "chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 3,
+      "text": "do",
+      "meaning": "làm",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F4",
+      "entries": [
+        [
+          "do",
+          "làm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 4,
+      "text": "do- doing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F5",
+      "entries": [
+        [
+          "do",
+          "làm",
+          ""
+        ],
+        [
+          "doing",
+          "làm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 5,
+      "text": "dance",
+      "meaning": "nhảy, khiêu vũ",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F6",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 6,
+      "text": "dance- dancing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F7",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ],
+        [
+          "dancing",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 7,
+      "text": "write",
+      "meaning": "viết",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F8",
+      "entries": [
+        [
+          "write",
+          "viết",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 8,
+      "text": "write- writing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F9",
+      "entries": [
+        [
+          "write",
+          "viết",
+          ""
+        ],
+        [
+          "writing",
+          "viết",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 9,
+      "text": "sing",
+      "meaning": "hát",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F10",
+      "entries": [
+        [
+          "sing",
+          "hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 10,
+      "text": "sing- singing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F11",
+      "entries": [
+        [
+          "sing",
+          "hát",
+          ""
+        ],
+        [
+          "singing",
+          "hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 11,
+      "text": "read",
+      "meaning": "đọc",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F12",
+      "entries": [
+        [
+          "read",
+          "đọc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 12,
+      "text": "read- reading",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F13",
+      "entries": [
+        [
+          "read",
+          "đọc",
+          ""
+        ],
+        [
+          "reading",
+          "đọc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 13,
+      "text": "read a book",
+      "meaning": "đọc sách",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F14",
+      "entries": [
+        [
+          "read a book",
+          "đọc sách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 14,
+      "text": "watch TV",
+      "meaning": "xem ti vi",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F15",
+      "entries": [
+        [
+          "watch TV",
+          "xem ti vi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 15,
+      "text": "watch- watching",
+      "meaning": "xem",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F16",
+      "entries": [
+        [
+          "watch",
+          "xem",
+          ""
+        ],
+        [
+          "watching",
+          "xem",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 16,
+      "text": "basketball",
+      "meaning": "bóng rổ",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F17",
+      "entries": [
+        [
+          "basketball",
+          "bóng rổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 17,
+      "text": "play basketball",
+      "meaning": "chơi bóng rổ",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F18",
+      "entries": [
+        [
+          "play basketball",
+          "chơi bóng rổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 18,
+      "text": "picture",
+      "meaning": "tranh, ảnh",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F19",
+      "entries": [
+        [
+          "picture",
+          "tranh, ảnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 19,
+      "text": "draw",
+      "meaning": "vẽ",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F20",
+      "entries": [
+        [
+          "draw",
+          "vẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 20,
+      "text": "draw- drawing",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F21",
+      "entries": [
+        [
+          "draw",
+          "vẽ",
+          ""
+        ],
+        [
+          "drawing",
+          "vẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 21,
+      "text": "draw a picture",
+      "meaning": "vẽ tranh",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F22",
+      "entries": [
+        [
+          "draw a picture",
+          "vẽ tranh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 22,
+      "text": "music",
+      "meaning": "nhạc",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F23",
+      "entries": [
+        [
+          "music",
+          "nhạc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 23,
+      "text": "listen",
+      "meaning": "nghe",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F24",
+      "entries": [
+        [
+          "listen",
+          "nghe",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 24,
+      "text": "listen- listening",
+      "meaning": "",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F25",
+      "entries": [
+        [
+          "listen",
+          "nghe",
+          ""
+        ],
+        [
+          "listening",
+          "nghe",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "number": 25,
+      "text": "listen to music",
+      "meaning": "nghe nhạc",
+      "file": "TU VUNG UNIT 17 va 18.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F26",
+      "entries": [
+        [
+          "listen to music",
+          "nghe nhạc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 1,
+      "text": "run",
+      "meaning": "chạy",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B2",
+      "entries": [
+        [
+          "run",
+          "chạy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 2,
+      "text": "run- running",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B3",
+      "entries": [
+        [
+          "run",
+          "chạy",
+          ""
+        ],
+        [
+          "running",
+          "chạy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 3,
+      "text": "paint",
+      "meaning": "tô, tô màu",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B4",
+      "entries": [
+        [
+          "paint",
+          "tô, tô màu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 4,
+      "text": "paint- painting",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B5",
+      "entries": [
+        [
+          "paint",
+          "vẽ, tô màu",
+          ""
+        ],
+        [
+          "painting",
+          "vẽ, tô màu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 5,
+      "text": "walk",
+      "meaning": "đi bộ",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B6",
+      "entries": [
+        [
+          "walk",
+          "đi bộ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 6,
+      "text": "walk- walking",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B7",
+      "entries": [
+        [
+          "walk",
+          "đi bộ",
+          ""
+        ],
+        [
+          "walking",
+          "đi bộ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 7,
+      "text": "play badminton",
+      "meaning": "chơi cầu lông",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B8",
+      "entries": [
+        [
+          "play badminton",
+          "chơi cầu lông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 8,
+      "text": "play football",
+      "meaning": "chơi bóng đá",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B9",
+      "entries": [
+        [
+          "play football",
+          "chơi bóng đá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 9,
+      "text": "paint a picture",
+      "meaning": "tô tranh",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B10",
+      "entries": [
+        [
+          "paint a picture",
+          "tô tranh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 10,
+      "text": "sing a song",
+      "meaning": "hát một bài hát",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B11",
+      "entries": [
+        [
+          "sing a song",
+          "hát một bài hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 11,
+      "text": "skate",
+      "meaning": "trượt pa tin",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B12",
+      "entries": [
+        [
+          "skate",
+          "trượt pa tin",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 12,
+      "text": "skate- skating",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B13",
+      "entries": [
+        [
+          "skate",
+          "trượt pa tin",
+          ""
+        ],
+        [
+          "skating",
+          "trượt pa tin",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 13,
+      "text": "skip",
+      "meaning": "nhảy dây",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B14",
+      "entries": [
+        [
+          "skip",
+          "nhảy dây",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 14,
+      "text": "skipping",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B15",
+      "entries": [
+        [
+          "skipping",
+          "nhảy dây",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 15,
+      "text": "fly",
+      "meaning": "thả( thả diều)",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B16",
+      "entries": [
+        [
+          "fly",
+          "thả( thả diều)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 16,
+      "text": "fly a kite",
+      "meaning": "thả( thả diều)",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B17",
+      "entries": [
+        [
+          "fly a kite",
+          "thả( thả diều)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 17,
+      "text": "cycle",
+      "meaning": "đạp xe đạp",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B18",
+      "entries": [
+        [
+          "cycle",
+          "đạp xe đạp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 18,
+      "text": "cycle- cycling",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B19",
+      "entries": [
+        [
+          "cycle",
+          "đạp xe đạp",
+          ""
+        ],
+        [
+          "cycling",
+          "đạp xe đạp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 19,
+      "text": "cycle= ride a bike",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B20",
+      "entries": [
+        [
+          "cycle",
+          "đạp xe đạp",
+          ""
+        ],
+        [
+          "ride a bike",
+          "đạp xe đạp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 20,
+      "text": "play volleyball",
+      "meaning": "chơi bóng chuyền",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B21",
+      "entries": [
+        [
+          "play volleyball",
+          "chơi bóng chuyền",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "number": 21,
+      "text": "park",
+      "meaning": "công viên",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "B22",
+      "entries": [
+        [
+          "park",
+          "công viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 1,
+      "text": "animal",
+      "meaning": "động vật",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F2",
+      "entries": [
+        [
+          "animal",
+          "động vật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 2,
+      "text": "zoo",
+      "meaning": "sở thú",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F3",
+      "entries": [
+        [
+          "zoo",
+          "sở thú",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 3,
+      "text": "tiger",
+      "meaning": "con hổ",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F4",
+      "entries": [
+        [
+          "tiger",
+          "con hổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 4,
+      "text": "monkey",
+      "meaning": "con khỉ",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F5",
+      "entries": [
+        [
+          "monkey",
+          "con khỉ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 5,
+      "text": "peacock",
+      "meaning": "con công",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F6",
+      "entries": [
+        [
+          "peacock",
+          "con công",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 6,
+      "text": "horse",
+      "meaning": "con ngựa",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F7",
+      "entries": [
+        [
+          "horse",
+          "con ngựa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 7,
+      "text": "elephant",
+      "meaning": "con voi",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F8",
+      "entries": [
+        [
+          "elephant",
+          "con voi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 8,
+      "text": "parrot",
+      "meaning": "con vẹt",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F9",
+      "entries": [
+        [
+          "parrot",
+          "con vẹt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 9,
+      "text": "dance",
+      "meaning": "nhảy, khiêu vũ",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F10",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 10,
+      "text": "dance- dancing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F11",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ],
+        [
+          "dancing",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 11,
+      "text": "swing",
+      "meaning": "đu quay",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F12",
+      "entries": [
+        [
+          "swing",
+          "đu, đu mình",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 12,
+      "text": "swing - swinging",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F13",
+      "entries": [
+        [
+          "swing",
+          "đu, đu mình",
+          ""
+        ],
+        [
+          "swinging",
+          "đu, đu mình",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 13,
+      "text": "climb",
+      "meaning": "leo trèo",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F14",
+      "entries": [
+        [
+          "climb",
+          "leo trèo",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 14,
+      "text": "climbing",
+      "meaning": "",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F15",
+      "entries": [
+        [
+          "climbing",
+          "leo trèo",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 15,
+      "text": "count- counting",
+      "meaning": "đếm",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F16",
+      "entries": [
+        [
+          "count",
+          "đếm",
+          ""
+        ],
+        [
+          "counting",
+          "đếm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 16,
+      "text": "see",
+      "meaning": "nhìn thấy",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F17",
+      "entries": [
+        [
+          "see",
+          "nhìn thấy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "number": 17,
+      "text": "can",
+      "meaning": "có thể( khả năng)",
+      "file": "tieng anh 3 unit  19 va 20.xlsx",
+      "sheet": "xl/worksheets/sheet2.xml",
+      "cell": "F18",
+      "entries": [
+        [
+          "can",
+          "có thể( khả năng)",
+          ""
+        ]
+      ]
+    }
+  ],
+  "duplicateUnit10Sheets": [
+    "TU VUNG UNIT 15 va 16.xlsx: xl/worksheets/sheet1.xml",
+    "TU VUNG UNIT 17 va 18.xlsx: xl/worksheets/sheet1.xml",
+    "tieng anh 3 unit  11.xlsx: xl/worksheets/sheet1.xml",
+    "tieng anh 3 unit  12.xlsx: xl/worksheets/sheet1.xml",
+    "tieng anh 3 unit  13 va 14.xlsx: xl/worksheets/sheet1.xml",
+    "tieng anh 3 unit  19 va 20.xlsx: xl/worksheets/sheet1.xml"
+  ],
+  "units": {
+    "1": [
+      [
+        "Hello",
+        "chào, xin chào(trang trọng)",
+        ""
+      ],
+      [
+        "Hi",
+        "chào, xin chào(thân mật)",
+        ""
+      ],
+      [
+        "I am",
+        "mình là..., tớ là..., tôi là …..",
+        ""
+      ],
+      [
+        "I'm",
+        "mình là..., tớ là..., tôi là …..",
+        ""
+      ],
+      [
+        "How",
+        "như thế nào",
+        ""
+      ],
+      [
+        "How are you",
+        "Bạn có khỏe không?",
+        ""
+      ],
+      [
+        "Fine",
+        "Khỏe, mình khỏe",
+        ""
+      ],
+      [
+        "I'm fine",
+        "Khỏe, mình khỏe",
+        ""
+      ],
+      [
+        "Thank you",
+        "Cảm ơn",
+        ""
+      ],
+      [
+        "Thanks",
+        "Cảm ơn",
+        ""
+      ],
+      [
+        "And you",
+        "còn bạn?",
+        ""
+      ],
+      [
+        "Goodbye",
+        "chào tạm biệt(trang trọng)",
+        ""
+      ],
+      [
+        "Bye",
+        "chào tạm biệt(thân mật)",
+        ""
+      ],
+      [
+        "Mr",
+        "Thầy, Ông",
+        ""
+      ],
+      [
+        "Mrs",
+        "Bà(phụ nữ đã kết hôn)",
+        ""
+      ],
+      [
+        "Ms",
+        "cô, bà (không phân biệt tình trạng hôn nhân)",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "name",
+        "tên",
+        ""
+      ],
+      [
+        "class",
+        "lớp, lớp học",
+        ""
+      ],
+      [
+        "school",
+        "trường",
+        ""
+      ],
+      [
+        "What",
+        "gì, cái gì",
+        ""
+      ],
+      [
+        "What is",
+        "gì, cái gì",
+        ""
+      ],
+      [
+        "What's",
+        "gì, cái gì",
+        ""
+      ],
+      [
+        "your",
+        "của bạn",
+        ""
+      ],
+      [
+        "your name",
+        "tên của bạn",
+        ""
+      ],
+      [
+        "my name",
+        "tên của mình",
+        ""
+      ],
+      [
+        "name is",
+        "tên là",
+        ""
+      ],
+      [
+        "name's",
+        "tên là",
+        ""
+      ],
+      [
+        "How old",
+        "bao nhiêu tuổi",
+        ""
+      ],
+      [
+        "years old",
+        "tuổi",
+        ""
+      ],
+      [
+        "number",
+        "số đếm",
+        ""
+      ],
+      [
+        "one",
+        "1",
+        ""
+      ],
+      [
+        "two",
+        "2",
+        ""
+      ],
+      [
+        "three",
+        "3",
+        ""
+      ],
+      [
+        "four",
+        "4",
+        ""
+      ],
+      [
+        "five",
+        "5",
+        ""
+      ],
+      [
+        "six",
+        "6",
+        ""
+      ],
+      [
+        "seven",
+        "7",
+        ""
+      ],
+      [
+        "eight",
+        "8",
+        ""
+      ],
+      [
+        "nine",
+        "9",
+        ""
+      ],
+      [
+        "ten",
+        "10",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "This",
+        "đây ( khoảng cách gần)",
+        ""
+      ],
+      [
+        "This is",
+        "đây là",
+        ""
+      ],
+      [
+        "That",
+        "kia( khoảng cách xa)",
+        ""
+      ],
+      [
+        "That is",
+        "kia là",
+        ""
+      ],
+      [
+        "That's",
+        "kia là",
+        ""
+      ],
+      [
+        "Is this…?",
+        "đây có phải là …?",
+        ""
+      ],
+      [
+        "Yes, it is.",
+        "Phải",
+        ""
+      ],
+      [
+        "No, it isn't.",
+        "Không phải",
+        ""
+      ],
+      [
+        "is not",
+        "không phải, không là",
+        ""
+      ],
+      [
+        "isn't",
+        "không phải, không là",
+        ""
+      ],
+      [
+        "Is that…?",
+        "Kia có phải là …?",
+        ""
+      ],
+      [
+        "teacher",
+        "giáo viên",
+        ""
+      ],
+      [
+        "friend",
+        "bạn, bạn bè",
+        ""
+      ],
+      [
+        "friends",
+        "bạn, bạn bè( số nhiều)",
+        ""
+      ],
+      [
+        "This is Mary.",
+        "Đây là Mary.",
+        ""
+      ],
+      [
+        "That is Ben.",
+        "Kia là Ben.",
+        ""
+      ],
+      [
+        "Is this Ms Hoa?",
+        "Đây có phải là cô Hoa không?",
+        ""
+      ],
+      [
+        "No, it isn't. It's Mai.",
+        "Không phải. Đó là Mai.",
+        ""
+      ],
+      [
+        "Is that Minh?",
+        "Kia có phải là Minh không?",
+        ""
+      ],
+      [
+        "No, it isn't. It's Nam.",
+        "Không phải. Đó là Nam",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "body",
+        "cơ thể",
+        ""
+      ],
+      [
+        "bodies",
+        "các cơ thể",
+        ""
+      ],
+      [
+        "let's",
+        "chúng ta hãy",
+        ""
+      ],
+      [
+        "let us",
+        "chúng ta hãy",
+        ""
+      ],
+      [
+        "play a game",
+        "chơi trò chơi",
+        ""
+      ],
+      [
+        "nose",
+        "cái mũi",
+        ""
+      ],
+      [
+        "face",
+        "khuôn mặt",
+        ""
+      ],
+      [
+        "hand",
+        "bàn tay",
+        ""
+      ],
+      [
+        "hands",
+        "đôi bàn tay",
+        ""
+      ],
+      [
+        "ear",
+        "tai",
+        ""
+      ],
+      [
+        "ears",
+        "đôi tai",
+        ""
+      ],
+      [
+        "eye",
+        "mắt",
+        ""
+      ],
+      [
+        "eyes",
+        "đôi mắt",
+        ""
+      ],
+      [
+        "What's this?",
+        "đây là cái gì?",
+        ""
+      ],
+      [
+        "What's that?",
+        "kia là cái gì?",
+        ""
+      ],
+      [
+        "It is",
+        "Đó là …",
+        ""
+      ],
+      [
+        "It's",
+        "Đó là …",
+        ""
+      ],
+      [
+        "touch",
+        "sờ vào",
+        ""
+      ],
+      [
+        "touch your nose.",
+        "sờ vào cái mũi",
+        ""
+      ],
+      [
+        "open",
+        "mở",
+        ""
+      ],
+      [
+        "open your mouth",
+        "mở cái miệng",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "hobby",
+        "sở thích",
+        ""
+      ],
+      [
+        "hobbies",
+        "các sở thích",
+        ""
+      ],
+      [
+        "sing",
+        "hát",
+        ""
+      ],
+      [
+        "singing",
+        "hát",
+        ""
+      ],
+      [
+        "dance",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "dancing",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "draw",
+        "vẽ",
+        ""
+      ],
+      [
+        "drawing",
+        "vẽ",
+        ""
+      ],
+      [
+        "swim",
+        "bơi",
+        ""
+      ],
+      [
+        "swimming",
+        "bơi",
+        ""
+      ],
+      [
+        "cook",
+        "nấu ăn",
+        ""
+      ],
+      [
+        "cooking",
+        "nấu ăn",
+        ""
+      ],
+      [
+        "walk",
+        "đi bộ",
+        ""
+      ],
+      [
+        "walking",
+        "đi bộ",
+        ""
+      ],
+      [
+        "run",
+        "chạy",
+        ""
+      ],
+      [
+        "running",
+        "chạy",
+        ""
+      ],
+      [
+        "paint",
+        "vẽ, tô",
+        ""
+      ],
+      [
+        "painting",
+        "vẽ, tô màu",
+        ""
+      ],
+      [
+        "like",
+        "thích",
+        ""
+      ],
+      [
+        "like + V-ing",
+        "thích làm một việc gì đó (like + động từ thêm -ing)",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "picture",
+        "bức tranh, bức ảnh",
+        ""
+      ],
+      [
+        "photo",
+        "bức tranh, bức ảnh",
+        ""
+      ],
+      [
+        "school",
+        "trường học",
+        ""
+      ],
+      [
+        "classroom",
+        "phòng học",
+        ""
+      ],
+      [
+        "library",
+        "thư viện",
+        ""
+      ],
+      [
+        "playground",
+        "khu vui chơi",
+        ""
+      ],
+      [
+        "Is this….?",
+        "đây có phải là …?",
+        ""
+      ],
+      [
+        "Yes, it is.",
+        "phải",
+        ""
+      ],
+      [
+        "No, it isn't.",
+        "Không phải",
+        ""
+      ],
+      [
+        "our",
+        "của chúng ta, của chúng tôi",
+        ""
+      ],
+      [
+        "your",
+        "của bạn, của các bạn",
+        ""
+      ],
+      [
+        "art room",
+        "phòng mỹ thuật",
+        ""
+      ],
+      [
+        "music room",
+        "phòng âm nhạc",
+        ""
+      ],
+      [
+        "gym",
+        "phòng tập thể dục",
+        ""
+      ],
+      [
+        "Let's + V",
+        "chúng ta hãy",
+        ""
+      ],
+      [
+        "Let's go to",
+        "chúng ta hãy đi đến",
+        ""
+      ],
+      [
+        "welcome",
+        "chào mừng, hân hạnh",
+        ""
+      ],
+      [
+        "welcome to",
+        "chào mừng bạn đến với",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "classroom",
+        "phòng học",
+        ""
+      ],
+      [
+        "stand up",
+        "đứng dậy",
+        ""
+      ],
+      [
+        "sit down",
+        "ngồi xuống",
+        ""
+      ],
+      [
+        "open your book",
+        "mở sách ra",
+        ""
+      ],
+      [
+        "close your book",
+        "đóng sách lại",
+        ""
+      ],
+      [
+        "please",
+        "vui lòng( lịch sự)",
+        ""
+      ],
+      [
+        "go out",
+        "đi ra ngoài",
+        ""
+      ],
+      [
+        "come in",
+        "đi vào",
+        ""
+      ],
+      [
+        "speak",
+        "nói",
+        ""
+      ],
+      [
+        "speak Vietnamese",
+        "nói Tiếng Việt",
+        ""
+      ],
+      [
+        "speak English",
+        "nói Tiếng Anh",
+        ""
+      ],
+      [
+        "May",
+        "có thể( xin phép)",
+        ""
+      ],
+      [
+        "May I…?",
+        "Em có thể…?( xin phép)",
+        ""
+      ],
+      [
+        "Yes, you can.",
+        "Ừ, em có thể",
+        ""
+      ],
+      [
+        "No, you can't.",
+        "Không, em không thể",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "school thing",
+        "dụng cụ học tập",
+        ""
+      ],
+      [
+        "pen",
+        "bút",
+        ""
+      ],
+      [
+        "pencil",
+        "bút chì",
+        ""
+      ],
+      [
+        "pencil case",
+        "hộp bút",
+        ""
+      ],
+      [
+        "book",
+        "sách",
+        ""
+      ],
+      [
+        "notebook",
+        "vở",
+        ""
+      ],
+      [
+        "ruler",
+        "thước",
+        ""
+      ],
+      [
+        "school bag",
+        "cặp",
+        ""
+      ],
+      [
+        "eraser",
+        "tẩy",
+        ""
+      ],
+      [
+        "rubber",
+        "tẩy",
+        ""
+      ],
+      [
+        "have",
+        "có",
+        ""
+      ],
+      [
+        "I have",
+        "mình có, tôi có",
+        ""
+      ],
+      [
+        "You have",
+        "bạn có, các bạn có",
+        ""
+      ],
+      [
+        "We have",
+        "chúng tôi có, chúng ta có",
+        ""
+      ],
+      [
+        "They have",
+        "họ có",
+        ""
+      ],
+      [
+        "He has",
+        "anh ấy có, chú ấy có",
+        ""
+      ],
+      [
+        "She has",
+        "cô ấy có, chị ấy có",
+        ""
+      ],
+      [
+        "It has",
+        "nó có",
+        ""
+      ],
+      [
+        "Do you have…?",
+        "Bạn có … không?",
+        ""
+      ],
+      [
+        "Yes, I do.",
+        "Ừ, mình có",
+        ""
+      ],
+      [
+        "No, I don't.",
+        "Không, mình không có",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "blue",
+        "xanh dương",
+        ""
+      ],
+      [
+        "brown",
+        "nâu",
+        ""
+      ],
+      [
+        "red",
+        "đỏ",
+        ""
+      ],
+      [
+        "yellow",
+        "vàng",
+        ""
+      ],
+      [
+        "orange",
+        "cam",
+        ""
+      ],
+      [
+        "green",
+        "xanh lá",
+        ""
+      ],
+      [
+        "white",
+        "trắng",
+        ""
+      ],
+      [
+        "black",
+        "đen",
+        ""
+      ],
+      [
+        "purple",
+        "tím",
+        ""
+      ],
+      [
+        "pink",
+        "hồng",
+        ""
+      ],
+      [
+        "gray",
+        "xám",
+        ""
+      ],
+      [
+        "colour",
+        "màu sắc",
+        ""
+      ],
+      [
+        "color",
+        "màu sắc",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "break",
+        "giải lao",
+        ""
+      ],
+      [
+        "time",
+        "thời gian",
+        ""
+      ],
+      [
+        "break time",
+        "giờ giải lao",
+        ""
+      ],
+      [
+        "activity",
+        "1 hoạt động",
+        ""
+      ],
+      [
+        "activities",
+        "nhiều hoạt động",
+        ""
+      ],
+      [
+        "play",
+        "chơi",
+        ""
+      ],
+      [
+        "chess",
+        "cờ vua",
+        ""
+      ],
+      [
+        "volleyball",
+        "bóng chuyền",
+        ""
+      ],
+      [
+        "basketball",
+        "bóng rổ",
+        ""
+      ],
+      [
+        "badminton",
+        "cầu lông",
+        ""
+      ],
+      [
+        "puzzle",
+        "lắp ghép",
+        ""
+      ],
+      [
+        "word puzzle",
+        "ghép tranh, ghép từ",
+        ""
+      ],
+      [
+        "do word puzzle",
+        "chơi lắp ghép",
+        ""
+      ],
+      [
+        "chat",
+        "tán gẫu",
+        ""
+      ],
+      [
+        "chat with",
+        "tán gẫu cùng với",
+        ""
+      ],
+      [
+        "friend",
+        "bạn, bạn bè",
+        ""
+      ],
+      [
+        "football",
+        "bóng đá",
+        ""
+      ],
+      [
+        "table tennis",
+        "bóng bàn",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "family",
+        "gia đình",
+        ""
+      ],
+      [
+        "member",
+        "thành viên",
+        ""
+      ],
+      [
+        "family member",
+        "thành viên gia đình",
+        ""
+      ],
+      [
+        "father",
+        "ba, bố",
+        ""
+      ],
+      [
+        "grandfather",
+        "ông",
+        ""
+      ],
+      [
+        "mother",
+        "mẹ",
+        ""
+      ],
+      [
+        "grandmother",
+        "bà",
+        ""
+      ],
+      [
+        "brother",
+        "anh trai, em trai",
+        ""
+      ],
+      [
+        "sister",
+        "chị gái, em gái",
+        ""
+      ],
+      [
+        "this",
+        "này( gần)",
+        ""
+      ],
+      [
+        "that",
+        "kia( xa)",
+        ""
+      ],
+      [
+        "Who",
+        "ai( hỏi về người)",
+        ""
+      ],
+      [
+        "Who is",
+        "ai là; ai vậy?",
+        ""
+      ],
+      [
+        "Who's",
+        "ai là; ai vậy?",
+        ""
+      ],
+      [
+        "She",
+        "cô ấy, chị ấy( 1 nữ)",
+        ""
+      ],
+      [
+        "She is",
+        "cô ấy là, chị ấy là",
+        ""
+      ],
+      [
+        "She's",
+        "cô ấy là, chị ấy là",
+        ""
+      ],
+      [
+        "He",
+        "anh ấy, chú ấy( 1 nam)",
+        ""
+      ],
+      [
+        "He is",
+        "anh ấy là, chú ấy là",
+        ""
+      ],
+      [
+        "He's",
+        "anh ấy là, chú ấy là",
+        ""
+      ],
+      [
+        "It",
+        "Nó",
+        ""
+      ],
+      [
+        "It is",
+        "nó là, đó là",
+        ""
+      ],
+      [
+        "It's",
+        "nó là, đó là",
+        ""
+      ],
+      [
+        "years old",
+        "tuổi",
+        ""
+      ]
+    ],
+    "12": [
+      [
+        "job",
+        "công việc, nghề nghiệp",
+        ""
+      ],
+      [
+        "doctor",
+        "bác sĩ",
+        ""
+      ],
+      [
+        "teacher",
+        "giáo viên",
+        ""
+      ],
+      [
+        "driver",
+        "tài xế",
+        ""
+      ],
+      [
+        "worker",
+        "công nhân",
+        ""
+      ],
+      [
+        "nurse",
+        "y tá",
+        ""
+      ],
+      [
+        "cook",
+        "đầu bếp",
+        ""
+      ],
+      [
+        "farmer",
+        "nông dân",
+        ""
+      ],
+      [
+        "singer",
+        "ca sĩ",
+        ""
+      ],
+      [
+        "pupil",
+        "học sinh",
+        ""
+      ],
+      [
+        "He is",
+        "anh ấy là, chú ấy là …",
+        ""
+      ],
+      [
+        "He's",
+        "anh ấy là, chú ấy là …",
+        ""
+      ],
+      [
+        "She is",
+        "cô ấy là, chị ấy là",
+        ""
+      ],
+      [
+        "She's",
+        "cô ấy là, chị ấy là",
+        ""
+      ],
+      [
+        "Is she…?",
+        "có phải cô ấy là…?",
+        ""
+      ],
+      [
+        "Yes, she is.",
+        "Vâng, đúng là cô ấy",
+        ""
+      ],
+      [
+        "No, she isn't.",
+        "Không, cô ấy không phải",
+        ""
+      ],
+      [
+        "Is he….?",
+        "có phải anh ấy là …?",
+        ""
+      ],
+      [
+        "Yes, he is.",
+        "Vâng, đúng là anh ấy",
+        ""
+      ],
+      [
+        "No, he isn't.",
+        "Không, anh ấy không phải",
+        ""
+      ],
+      [
+        "I am",
+        "tôi là, mình là, tớ là",
+        ""
+      ],
+      [
+        "I'm",
+        "tôi là, mình là, tớ là",
+        ""
+      ]
+    ],
+    "13": [
+      [
+        "house",
+        "ngôi nhà",
+        ""
+      ],
+      [
+        "bedroom",
+        "phòng ngủ",
+        ""
+      ],
+      [
+        "living room",
+        "phòng khách",
+        ""
+      ],
+      [
+        "kitchen",
+        "phòng bếp",
+        ""
+      ],
+      [
+        "bathroom",
+        "phòng tắm",
+        ""
+      ],
+      [
+        "Where",
+        "ở đâu",
+        ""
+      ],
+      [
+        "Where is",
+        "ở đâu (hỏi về một người hoặc vật)",
+        ""
+      ],
+      [
+        "Where's",
+        "ở đâu (hỏi về một người hoặc vật)",
+        ""
+      ],
+      [
+        "here",
+        "ở đây( gần)",
+        ""
+      ],
+      [
+        "there",
+        "ở kia( xa)",
+        ""
+      ],
+      [
+        "It is",
+        "đó là, nó là ( số ít)",
+        ""
+      ],
+      [
+        "It's",
+        "đó là, nó là ( số ít)",
+        ""
+      ],
+      [
+        "Where are…?",
+        "ở đâu (hỏi về nhiều người hoặc vật)",
+        ""
+      ],
+      [
+        "They are",
+        "chúng là( số nhiều)",
+        ""
+      ],
+      [
+        "They're",
+        "chúng là( số nhiều)",
+        ""
+      ],
+      [
+        "chair",
+        "cái ghế",
+        ""
+      ],
+      [
+        "table",
+        "cái bàn",
+        ""
+      ],
+      [
+        "book",
+        "quyển sách",
+        ""
+      ],
+      [
+        "lamp",
+        "cái đèn học",
+        ""
+      ],
+      [
+        "in",
+        "ở trong",
+        ""
+      ],
+      [
+        "on",
+        "ở trên",
+        ""
+      ]
+    ],
+    "14": [
+      [
+        "desk",
+        "cái bàn",
+        ""
+      ],
+      [
+        "bed",
+        "cái giường",
+        ""
+      ],
+      [
+        "door",
+        "cái cửa lớn, cửa chính",
+        ""
+      ],
+      [
+        "window",
+        "cái cửa sổ",
+        ""
+      ],
+      [
+        "room",
+        "phòng",
+        ""
+      ],
+      [
+        "big",
+        "to",
+        ""
+      ],
+      [
+        "small",
+        "nhỏ",
+        ""
+      ],
+      [
+        "new",
+        "mới",
+        ""
+      ],
+      [
+        "old",
+        "cũ",
+        ""
+      ]
+    ],
+    "15": [
+      [
+        "dining table",
+        "bàn ăn",
+        ""
+      ],
+      [
+        "would you like…?",
+        "bạn có muốn( mời?)",
+        ""
+      ],
+      [
+        "rice",
+        "cơm, gạo",
+        ""
+      ],
+      [
+        "juice",
+        "nước ép",
+        ""
+      ],
+      [
+        "beans",
+        "hạt đậu, quả đậu",
+        ""
+      ],
+      [
+        "fish",
+        "cá",
+        ""
+      ],
+      [
+        "meat",
+        "thịt",
+        ""
+      ],
+      [
+        "Yes, please",
+        "Vâng, cho mình xin",
+        ""
+      ],
+      [
+        "No, thanks",
+        "Không, cảm ơn",
+        ""
+      ],
+      [
+        "some",
+        "một ít, một vài",
+        ""
+      ],
+      [
+        "eat",
+        "ăn",
+        ""
+      ],
+      [
+        "drink",
+        "uống, đồ uống, thức uống",
+        ""
+      ],
+      [
+        "bread",
+        "bánh mì",
+        ""
+      ],
+      [
+        "milk",
+        "sữa",
+        ""
+      ],
+      [
+        "egg",
+        "trứng",
+        ""
+      ],
+      [
+        "chicken",
+        "thịt gà",
+        ""
+      ],
+      [
+        "water",
+        "nước",
+        ""
+      ],
+      [
+        "food",
+        "thức ăn",
+        ""
+      ]
+    ],
+    "16": [
+      [
+        "pet",
+        "thú cưng",
+        ""
+      ],
+      [
+        "dog",
+        "con chó",
+        ""
+      ],
+      [
+        "cat",
+        "con mèo",
+        ""
+      ],
+      [
+        "bird",
+        "con chim",
+        ""
+      ],
+      [
+        "parrot",
+        "con vẹt",
+        ""
+      ],
+      [
+        "rabbit",
+        "con thỏ",
+        ""
+      ],
+      [
+        "have",
+        "có",
+        ""
+      ],
+      [
+        "any",
+        "một ít, một vài",
+        ""
+      ],
+      [
+        "Do you have any…?",
+        "có phải bạn có",
+        ""
+      ],
+      [
+        "Yes, I do.",
+        "Ừ, mình có",
+        ""
+      ],
+      [
+        "No, I don't.",
+        "Không, không có",
+        ""
+      ],
+      [
+        "How many",
+        "có bao nhiêu",
+        ""
+      ],
+      [
+        "some",
+        "một ít, một vài",
+        ""
+      ],
+      [
+        "many",
+        "nhiều",
+        ""
+      ],
+      [
+        "goldfish",
+        "cá vàng",
+        ""
+      ],
+      [
+        "I have",
+        "Mình có",
+        ""
+      ]
+    ],
+    "17": [
+      [
+        "toy",
+        "đồ chơi",
+        ""
+      ],
+      [
+        "car",
+        "ô tô",
+        ""
+      ],
+      [
+        "doll",
+        "búp bê",
+        ""
+      ],
+      [
+        "kite",
+        "diều",
+        ""
+      ],
+      [
+        "train",
+        "tàu, tàu hỏa",
+        ""
+      ],
+      [
+        "plane",
+        "máy bay",
+        ""
+      ],
+      [
+        "have",
+        "có",
+        ""
+      ],
+      [
+        "I have",
+        "Mình có, tôi có, tớ có",
+        ""
+      ],
+      [
+        "You have",
+        "bạn có, các bạn có",
+        ""
+      ],
+      [
+        "We have",
+        "chúng tôi có, chúng ta có",
+        ""
+      ],
+      [
+        "They have",
+        "họ có",
+        ""
+      ],
+      [
+        "He has",
+        "anh ấy có, chú ấy có, bác ấy có",
+        ""
+      ],
+      [
+        "She has",
+        "cô ấy có, chị ấy có",
+        ""
+      ],
+      [
+        "It has",
+        "nó có",
+        ""
+      ],
+      [
+        "truck",
+        "xe tải",
+        ""
+      ],
+      [
+        "ship",
+        "tàu thủy",
+        ""
+      ],
+      [
+        "teddy bear",
+        "gấu bông",
+        ""
+      ]
+    ],
+    "18": [
+      [
+        "play",
+        "chơi",
+        ""
+      ],
+      [
+        "playing",
+        "chơi",
+        ""
+      ],
+      [
+        "do",
+        "làm",
+        ""
+      ],
+      [
+        "doing",
+        "làm",
+        ""
+      ],
+      [
+        "dance",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "dancing",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "write",
+        "viết",
+        ""
+      ],
+      [
+        "writing",
+        "viết",
+        ""
+      ],
+      [
+        "sing",
+        "hát",
+        ""
+      ],
+      [
+        "singing",
+        "hát",
+        ""
+      ],
+      [
+        "read",
+        "đọc",
+        ""
+      ],
+      [
+        "reading",
+        "đọc",
+        ""
+      ],
+      [
+        "read a book",
+        "đọc sách",
+        ""
+      ],
+      [
+        "watch TV",
+        "xem ti vi",
+        ""
+      ],
+      [
+        "watch",
+        "xem",
+        ""
+      ],
+      [
+        "watching",
+        "xem",
+        ""
+      ],
+      [
+        "basketball",
+        "bóng rổ",
+        ""
+      ],
+      [
+        "play basketball",
+        "chơi bóng rổ",
+        ""
+      ],
+      [
+        "picture",
+        "tranh, ảnh",
+        ""
+      ],
+      [
+        "draw",
+        "vẽ",
+        ""
+      ],
+      [
+        "drawing",
+        "vẽ",
+        ""
+      ],
+      [
+        "draw a picture",
+        "vẽ tranh",
+        ""
+      ],
+      [
+        "music",
+        "nhạc",
+        ""
+      ],
+      [
+        "listen",
+        "nghe",
+        ""
+      ],
+      [
+        "listening",
+        "nghe",
+        ""
+      ],
+      [
+        "listen to music",
+        "nghe nhạc",
+        ""
+      ]
+    ],
+    "19": [
+      [
+        "run",
+        "chạy",
+        ""
+      ],
+      [
+        "running",
+        "chạy",
+        ""
+      ],
+      [
+        "paint",
+        "tô, tô màu",
+        ""
+      ],
+      [
+        "painting",
+        "vẽ, tô màu",
+        ""
+      ],
+      [
+        "walk",
+        "đi bộ",
+        ""
+      ],
+      [
+        "walking",
+        "đi bộ",
+        ""
+      ],
+      [
+        "play badminton",
+        "chơi cầu lông",
+        ""
+      ],
+      [
+        "play football",
+        "chơi bóng đá",
+        ""
+      ],
+      [
+        "paint a picture",
+        "tô tranh",
+        ""
+      ],
+      [
+        "sing a song",
+        "hát một bài hát",
+        ""
+      ],
+      [
+        "skate",
+        "trượt pa tin",
+        ""
+      ],
+      [
+        "skating",
+        "trượt pa tin",
+        ""
+      ],
+      [
+        "skip",
+        "nhảy dây",
+        ""
+      ],
+      [
+        "skipping",
+        "nhảy dây",
+        ""
+      ],
+      [
+        "fly",
+        "thả( thả diều)",
+        ""
+      ],
+      [
+        "fly a kite",
+        "thả( thả diều)",
+        ""
+      ],
+      [
+        "cycle",
+        "đạp xe đạp",
+        ""
+      ],
+      [
+        "cycling",
+        "đạp xe đạp",
+        ""
+      ],
+      [
+        "ride a bike",
+        "đạp xe đạp",
+        ""
+      ],
+      [
+        "play volleyball",
+        "chơi bóng chuyền",
+        ""
+      ],
+      [
+        "park",
+        "công viên",
+        ""
+      ]
+    ],
+    "20": [
+      [
+        "animal",
+        "động vật",
+        ""
+      ],
+      [
+        "zoo",
+        "sở thú",
+        ""
+      ],
+      [
+        "tiger",
+        "con hổ",
+        ""
+      ],
+      [
+        "monkey",
+        "con khỉ",
+        ""
+      ],
+      [
+        "peacock",
+        "con công",
+        ""
+      ],
+      [
+        "horse",
+        "con ngựa",
+        ""
+      ],
+      [
+        "elephant",
+        "con voi",
+        ""
+      ],
+      [
+        "parrot",
+        "con vẹt",
+        ""
+      ],
+      [
+        "dance",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "dancing",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "swing",
+        "đu, đu mình",
+        ""
+      ],
+      [
+        "swinging",
+        "đu, đu mình",
+        ""
+      ],
+      [
+        "climb",
+        "leo trèo",
+        ""
+      ],
+      [
+        "climbing",
+        "leo trèo",
+        ""
+      ],
+      [
+        "count",
+        "đếm",
+        ""
+      ],
+      [
+        "counting",
+        "đếm",
+        ""
+      ],
+      [
+        "see",
+        "nhìn thấy",
+        ""
+      ],
+      [
+        "can",
+        "có thể( khả năng)",
+        ""
+      ]
+    ]
+  }
+}

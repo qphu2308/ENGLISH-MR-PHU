@@ -1,0 +1,6178 @@
+{
+  "source": "TIENG ANH 4 GLOBAL.rar",
+  "units": {
+    "1": [
+      [
+        "be from",
+        "đến từ",
+        ""
+      ],
+      [
+        "friend",
+        "bạn, bạn bè",
+        ""
+      ],
+      [
+        "Where",
+        "ở đâu",
+        ""
+      ],
+      [
+        "new friend",
+        "người bạn mới",
+        ""
+      ],
+      [
+        "America",
+        "nước Mỹ",
+        ""
+      ],
+      [
+        "age",
+        "tuổi",
+        ""
+      ],
+      [
+        "Britain",
+        "nước Anh",
+        ""
+      ],
+      [
+        "country",
+        "đất nuớc",
+        ""
+      ],
+      [
+        "Australia",
+        "nước Úc",
+        ""
+      ],
+      [
+        "I am",
+        "mình là, tôi là",
+        ""
+      ],
+      [
+        "I'm",
+        "mình là, tôi là",
+        ""
+      ],
+      [
+        "Viet Nam",
+        "nước Việt Nam",
+        ""
+      ],
+      [
+        "You are",
+        "bạn là",
+        ""
+      ],
+      [
+        "You're",
+        "bạn là",
+        ""
+      ],
+      [
+        "Singapore",
+        "nước Si-ga-po",
+        ""
+      ],
+      [
+        "We are",
+        "chúng ta là",
+        ""
+      ],
+      [
+        "We're",
+        "chúng ta là",
+        ""
+      ],
+      [
+        "Malaysia",
+        "nước Ma-lay- si-a",
+        ""
+      ],
+      [
+        "They are",
+        "họ là",
+        ""
+      ],
+      [
+        "They're",
+        "họ là",
+        ""
+      ],
+      [
+        "Thailand",
+        "nước Thái Lan",
+        ""
+      ],
+      [
+        "He is",
+        "anh ấy là",
+        ""
+      ],
+      [
+        "He's",
+        "anh ấy là",
+        ""
+      ],
+      [
+        "Japan",
+        "nước Nhật",
+        ""
+      ],
+      [
+        "She is",
+        "cô ấy là",
+        ""
+      ],
+      [
+        "She's",
+        "cô ấy là",
+        ""
+      ],
+      [
+        "new",
+        "mới",
+        ""
+      ],
+      [
+        "It is",
+        "nó là",
+        ""
+      ],
+      [
+        "It's",
+        "nó là",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "time",
+        "thời gian",
+        ""
+      ],
+      [
+        "go to bed",
+        "đi ngủ",
+        ""
+      ],
+      [
+        "routine",
+        "thói quen",
+        ""
+      ],
+      [
+        "at + time",
+        "vào lúc + giờ",
+        ""
+      ],
+      [
+        "daily routine",
+        "hoạt động hàng ngày",
+        ""
+      ],
+      [
+        "chat",
+        "tán gẫu",
+        ""
+      ],
+      [
+        "number",
+        "số đếm",
+        ""
+      ],
+      [
+        "chat with friends",
+        "tán gẫu cùng bạn",
+        ""
+      ],
+      [
+        "o'clock",
+        "giờ( đúng)",
+        ""
+      ],
+      [
+        "read books",
+        "đọc sách",
+        ""
+      ],
+      [
+        "get up",
+        "thức dậy",
+        ""
+      ],
+      [
+        "pupil",
+        "học sinh",
+        ""
+      ],
+      [
+        "have breakfast",
+        "ăn sáng",
+        ""
+      ],
+      [
+        "Primary School",
+        "trường tiểu học",
+        ""
+      ],
+      [
+        "have lunch",
+        "ăn trưa",
+        ""
+      ],
+      [
+        "wash face",
+        "rửa mặt",
+        ""
+      ],
+      [
+        "have dinner",
+        "ăn tối",
+        ""
+      ],
+      [
+        "clean teeth",
+        "đánh răng",
+        ""
+      ],
+      [
+        "brush teeth",
+        "đánh răng",
+        ""
+      ],
+      [
+        "go to school",
+        "đi học",
+        ""
+      ],
+      [
+        "do homework",
+        "làm BTVN",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "day",
+        "ngày",
+        ""
+      ],
+      [
+        "on + day",
+        "on+ ngày",
+        ""
+      ],
+      [
+        "week",
+        "tuần",
+        ""
+      ],
+      [
+        "study",
+        "học",
+        ""
+      ],
+      [
+        "month",
+        "tháng",
+        ""
+      ],
+      [
+        "study at school",
+        "học ở trường",
+        ""
+      ],
+      [
+        "Monday",
+        "thứ hai",
+        ""
+      ],
+      [
+        "do housework",
+        "làm việc nhà",
+        ""
+      ],
+      [
+        "Tuesday",
+        "thứ ba",
+        ""
+      ],
+      [
+        "school day",
+        "ngày đi học",
+        ""
+      ],
+      [
+        "Wednesday",
+        "thứ tư",
+        ""
+      ],
+      [
+        "weekend",
+        "cuối tuần",
+        ""
+      ],
+      [
+        "Thursday",
+        "thứ năm",
+        ""
+      ],
+      [
+        "at the weekend",
+        "vào cuối tuần",
+        ""
+      ],
+      [
+        "Friday",
+        "thứ sáu",
+        ""
+      ],
+      [
+        "What day is it today?",
+        "Hôm nay là thứ mấy?",
+        ""
+      ],
+      [
+        "Saturday",
+        "thứ bảy",
+        ""
+      ],
+      [
+        "It's Monday.",
+        "Hôm nay là thứ Hai.",
+        ""
+      ],
+      [
+        "Sunday",
+        "chủ nhật",
+        ""
+      ],
+      [
+        "What do you do on Tuesdays?",
+        "Bạn làm gì vào những ngày thứ ba?",
+        ""
+      ],
+      [
+        "today",
+        "hôm nay",
+        ""
+      ],
+      [
+        "I go to school.",
+        "Mình đi học",
+        ""
+      ],
+      [
+        "tomorrow",
+        "ngày mai",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "month",
+        "tháng",
+        ""
+      ],
+      [
+        "want+ to V",
+        "muốn + động từ nguyên mẫu",
+        ""
+      ],
+      [
+        "January",
+        "tháng 1",
+        ""
+      ],
+      [
+        "eat",
+        "ăn",
+        ""
+      ],
+      [
+        "February",
+        "tháng 2",
+        ""
+      ],
+      [
+        "drink",
+        "uống",
+        ""
+      ],
+      [
+        "March",
+        "tháng 3",
+        ""
+      ],
+      [
+        "chips",
+        "khoai tây chiên",
+        ""
+      ],
+      [
+        "April",
+        "tháng 4",
+        ""
+      ],
+      [
+        "grapes",
+        "nho",
+        ""
+      ],
+      [
+        "May",
+        "tháng 5",
+        ""
+      ],
+      [
+        "lemonade",
+        "nước chanh",
+        ""
+      ],
+      [
+        "June",
+        "tháng 6",
+        ""
+      ],
+      [
+        "water",
+        "nước",
+        ""
+      ],
+      [
+        "July",
+        "tháng 7",
+        ""
+      ],
+      [
+        "some",
+        "một ít, một vài",
+        ""
+      ],
+      [
+        "August",
+        "tháng 8",
+        ""
+      ],
+      [
+        "party",
+        "bữa tiệc",
+        ""
+      ],
+      [
+        "September",
+        "tháng 9",
+        ""
+      ],
+      [
+        "When's your birthday?",
+        "sinh nhật cùa bạn là khi nào?",
+        ""
+      ],
+      [
+        "October",
+        "tháng 10",
+        ""
+      ],
+      [
+        "It's in September.",
+        "Sinh nhật vào tháng Chín.",
+        ""
+      ],
+      [
+        "November",
+        "tháng 11",
+        ""
+      ],
+      [
+        "What do you want to eat?",
+        "Bạn muốn ăn gì?",
+        ""
+      ],
+      [
+        "December",
+        "tháng 12",
+        ""
+      ],
+      [
+        "I want some chips.",
+        "Mình muốn một ít khoai tây chiên",
+        ""
+      ],
+      [
+        "When",
+        "khi nào",
+        ""
+      ],
+      [
+        "What do you want to drink?",
+        "Bạn muốn uống gì?",
+        ""
+      ],
+      [
+        "birthday",
+        "sinh nhật",
+        ""
+      ],
+      [
+        "I want some water.",
+        "Mình muốn uống nước.",
+        ""
+      ],
+      [
+        "want",
+        "muốn",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "thing",
+        "vật, hành động",
+        ""
+      ],
+      [
+        "play badminton",
+        "chơi cầu lông",
+        ""
+      ],
+      [
+        "can",
+        "có thể( khả năng)",
+        ""
+      ],
+      [
+        "play football",
+        "chơi bóng đá",
+        ""
+      ],
+      [
+        "can you…?",
+        "bạn có thể…?",
+        ""
+      ],
+      [
+        "roller skate",
+        "trượt pa tanh",
+        ""
+      ],
+      [
+        "fly a kite",
+        "thả diều",
+        ""
+      ],
+      [
+        "cook",
+        "nấu ăn",
+        ""
+      ],
+      [
+        "skip",
+        "nhảy dây",
+        ""
+      ],
+      [
+        "draw",
+        "vẽ",
+        ""
+      ],
+      [
+        "ride a bike",
+        "đạp xe đạp",
+        ""
+      ],
+      [
+        "Can she…?",
+        "cô ấy có thể…?",
+        ""
+      ],
+      [
+        "ride a horse",
+        "cưỡi ngựa",
+        ""
+      ],
+      [
+        "Yes, she can.",
+        "Vâng, cô ấy có thể",
+        ""
+      ],
+      [
+        "play the piano",
+        "chơi đàn piano",
+        ""
+      ],
+      [
+        "No, she can't",
+        "Không, cô ấy không thể",
+        ""
+      ],
+      [
+        "play the guitar",
+        "chơi đàn ghi ta",
+        ""
+      ],
+      [
+        "Can he…?",
+        "anh ấy có thể…?",
+        ""
+      ],
+      [
+        "Yes, I can",
+        "ừ, mình có thể",
+        ""
+      ],
+      [
+        "Yes, he can.",
+        "Vâng, anh ấy có thể",
+        ""
+      ],
+      [
+        "No, I can't.",
+        "không, mình không thể",
+        ""
+      ],
+      [
+        "No, he can't.",
+        "Không, anh ấy không thể",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "facility",
+        "tiện nghi, phương tiện,",
+        ""
+      ],
+      [
+        "Where",
+        "ở đâu",
+        ""
+      ],
+      [
+        "facilities",
+        "các cơ sở vật chất, tiện nghi",
+        ""
+      ],
+      [
+        "How many",
+        "bao nhiêu",
+        ""
+      ],
+      [
+        "school facilities",
+        "tiện nghi trường học",
+        ""
+      ],
+      [
+        "building",
+        "tòa nhà",
+        ""
+      ],
+      [
+        "city",
+        "thành phố",
+        ""
+      ],
+      [
+        "at school",
+        "ở trường",
+        ""
+      ],
+      [
+        "in the city",
+        "ở thành phố",
+        ""
+      ],
+      [
+        "playground",
+        "khu vui chơi",
+        ""
+      ],
+      [
+        "mountains",
+        "núi",
+        ""
+      ],
+      [
+        "computer room",
+        "phòng vi tính",
+        ""
+      ],
+      [
+        "in the mountains",
+        "ở núi",
+        ""
+      ],
+      [
+        "garden",
+        "khu vườn",
+        ""
+      ],
+      [
+        "village",
+        "làng quê",
+        ""
+      ],
+      [
+        "There is a/ an/ one",
+        "có 1",
+        ""
+      ],
+      [
+        "in the village",
+        "ở làng quê",
+        ""
+      ],
+      [
+        "There are two/ three….",
+        "có 2/ 3",
+        ""
+      ],
+      [
+        "town",
+        "thị trấn",
+        ""
+      ],
+      [
+        "in the town",
+        "ở thị trấn",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "timetable",
+        "thời khóa biểu",
+        ""
+      ],
+      [
+        "Geography",
+        "môn Địa lý",
+        ""
+      ],
+      [
+        "have class",
+        "có tiết học",
+        ""
+      ],
+      [
+        "PE",
+        "môn Thể dục",
+        ""
+      ],
+      [
+        "subject",
+        "môn học",
+        ""
+      ],
+      [
+        "day",
+        "ngày",
+        ""
+      ],
+      [
+        "English",
+        "môn Tiếng Anh",
+        ""
+      ],
+      [
+        "today",
+        "hôm nay",
+        ""
+      ],
+      [
+        "Maths",
+        "môn Toán",
+        ""
+      ],
+      [
+        "Monday",
+        "thứ hai",
+        ""
+      ],
+      [
+        "Vietnamese",
+        "môn Tiếng Việt",
+        ""
+      ],
+      [
+        "Tuesday",
+        "thứ ba",
+        ""
+      ],
+      [
+        "Science",
+        "môn Khoa Học",
+        ""
+      ],
+      [
+        "Wednesday",
+        "thứ tư",
+        ""
+      ],
+      [
+        "Art",
+        "môn Mĩ Thuật",
+        ""
+      ],
+      [
+        "Thursday",
+        "thứ năm",
+        ""
+      ],
+      [
+        "Music",
+        "môn Âm nhạc",
+        ""
+      ],
+      [
+        "Friday",
+        "thứ sáu",
+        ""
+      ],
+      [
+        "History",
+        "môn Lịch sử",
+        ""
+      ],
+      [
+        "Saturday",
+        "thứ bảy",
+        ""
+      ],
+      [
+        "Sunday",
+        "chủ nhật",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "favourite",
+        "yêu thích",
+        ""
+      ],
+      [
+        "I have",
+        "mình có",
+        ""
+      ],
+      [
+        "favourite subject",
+        "môn học yêu thích",
+        ""
+      ],
+      [
+        "You have",
+        "bạn có",
+        ""
+      ],
+      [
+        "IT",
+        "môn Tin học",
+        ""
+      ],
+      [
+        "We have",
+        "chúng ta có",
+        ""
+      ],
+      [
+        "Why",
+        "tại sao ( lý do)",
+        ""
+      ],
+      [
+        "They have",
+        "họ có",
+        ""
+      ],
+      [
+        "because",
+        "bởi vì",
+        ""
+      ],
+      [
+        "He has",
+        "anh ấy có",
+        ""
+      ],
+      [
+        "want",
+        "muốn",
+        ""
+      ],
+      [
+        "She has",
+        "cô ấy có",
+        ""
+      ],
+      [
+        "want to be",
+        "muốn trở thành",
+        ""
+      ],
+      [
+        "It has",
+        "nó có",
+        ""
+      ],
+      [
+        "teacher",
+        "giáo viên",
+        ""
+      ],
+      [
+        "I--> my",
+        "tôi → của tôi",
+        ""
+      ],
+      [
+        "singer",
+        "ca sĩ",
+        ""
+      ],
+      [
+        "You--> your",
+        "bạn → của bạn",
+        ""
+      ],
+      [
+        "painter",
+        "họa sĩ",
+        ""
+      ],
+      [
+        "He--> his",
+        "anh ấy → của anh ấy",
+        ""
+      ],
+      [
+        "have",
+        "có",
+        ""
+      ],
+      [
+        "She --> her",
+        "cô ấy → của cô ấy",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "sport",
+        "thể thao",
+        ""
+      ],
+      [
+        "August",
+        "tháng 8",
+        ""
+      ],
+      [
+        "sports day",
+        "ngày hội thể thao",
+        ""
+      ],
+      [
+        "September",
+        "tháng 9",
+        ""
+      ],
+      [
+        "January",
+        "tháng 1",
+        ""
+      ],
+      [
+        "October",
+        "tháng 10",
+        ""
+      ],
+      [
+        "February",
+        "tháng 2",
+        ""
+      ],
+      [
+        "November",
+        "tháng 11",
+        ""
+      ],
+      [
+        "March",
+        "tháng 3",
+        ""
+      ],
+      [
+        "December",
+        "tháng 12",
+        ""
+      ],
+      [
+        "April",
+        "tháng 4",
+        ""
+      ],
+      [
+        "school playground",
+        "khu vui chơi nhà trường",
+        ""
+      ],
+      [
+        "May",
+        "tháng 5",
+        ""
+      ],
+      [
+        "different",
+        "khác nhau",
+        ""
+      ],
+      [
+        "June",
+        "tháng 6",
+        ""
+      ],
+      [
+        "fun",
+        "niềm vui",
+        ""
+      ],
+      [
+        "July",
+        "tháng 7",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "season",
+        "mùa",
+        ""
+      ],
+      [
+        "campsite",
+        "khu cắm trại",
+        ""
+      ],
+      [
+        "summer",
+        "mùa hè",
+        ""
+      ],
+      [
+        "at the campsite",
+        "tại địa điểm cắm trại",
+        ""
+      ],
+      [
+        "spring",
+        "mùa xuân",
+        ""
+      ],
+      [
+        "Were you ….?",
+        "có phải bạn đã",
+        ""
+      ],
+      [
+        "winter",
+        "mùa đông",
+        ""
+      ],
+      [
+        "Yes, I was.",
+        "Vâng, mình đã ở đó",
+        ""
+      ],
+      [
+        "fall",
+        "mùa thu",
+        ""
+      ],
+      [
+        "autumn",
+        "mùa thu",
+        ""
+      ],
+      [
+        "No, I wasn't.",
+        "Không, mình đã không ở đó",
+        ""
+      ],
+      [
+        "holiday",
+        "kỳ nghỉ",
+        ""
+      ],
+      [
+        "London",
+        "Luân Đôn",
+        ""
+      ],
+      [
+        "summer holiday",
+        "kỳ nghỉ hè",
+        ""
+      ],
+      [
+        "Tokyo",
+        "Tô-ki-ô",
+        ""
+      ],
+      [
+        "be- was/ were",
+        "ở, thì, là",
+        ""
+      ],
+      [
+        "Sydney",
+        "Xít-ni",
+        ""
+      ],
+      [
+        "last",
+        "qua,đã qua( quá khứ)",
+        ""
+      ],
+      [
+        "Bangkok",
+        "Băng Cốc",
+        ""
+      ],
+      [
+        "weekend",
+        "cuối tuần",
+        ""
+      ],
+      [
+        "city",
+        "thành phố",
+        ""
+      ],
+      [
+        "in the countryside",
+        "ở miền quê",
+        ""
+      ],
+      [
+        "food",
+        "thức ăn",
+        ""
+      ],
+      [
+        "in the mountains",
+        "ở núi",
+        ""
+      ],
+      [
+        "people",
+        "con người",
+        ""
+      ],
+      [
+        "at the zoo",
+        "ở sở thú",
+        ""
+      ],
+      [
+        "helpful",
+        "giúp đỡ, hữu ích",
+        ""
+      ],
+      [
+        "on the beach",
+        "ở biển",
+        ""
+      ],
+      [
+        "friendly",
+        "thân thiện, gần gũi",
+        ""
+      ]
+    ],
+    "12": [
+      [
+        "job",
+        "công việc, nghề nghiệp",
+        ""
+      ],
+      [
+        "factory",
+        "nhà máy",
+        ""
+      ],
+      [
+        "policeman",
+        "cảnh sát",
+        ""
+      ],
+      [
+        "school",
+        "trường học",
+        ""
+      ],
+      [
+        "office worker",
+        "nhân viên văn phòng",
+        ""
+      ],
+      [
+        "farm",
+        "nông trại",
+        ""
+      ],
+      [
+        "actor",
+        "diễn viên",
+        ""
+      ],
+      [
+        "look",
+        "nhìn",
+        ""
+      ],
+      [
+        "nurse",
+        "y tá",
+        ""
+      ],
+      [
+        "look at",
+        "nhìn vào",
+        ""
+      ],
+      [
+        "doctor",
+        "bác sĩ",
+        ""
+      ],
+      [
+        "photo",
+        "bức ảnh, bức tranh",
+        ""
+      ],
+      [
+        "picture",
+        "bức ảnh, bức tranh",
+        ""
+      ],
+      [
+        "pupil",
+        "học sinh",
+        ""
+      ],
+      [
+        "photo of",
+        "bức ảnh của, bức tranh của",
+        ""
+      ],
+      [
+        "picture of",
+        "bức ảnh của, bức tranh của",
+        ""
+      ],
+      [
+        "farmer",
+        "nông dân",
+        ""
+      ],
+      [
+        "where",
+        "ở đâu",
+        ""
+      ],
+      [
+        "nursing home",
+        "trại dưỡng lão",
+        ""
+      ]
+    ],
+    "13": [
+      [
+        "appearance",
+        "hình dáng, dáng vẻ",
+        ""
+      ],
+      [
+        "hair",
+        "tóc",
+        ""
+      ],
+      [
+        "look like",
+        "trông có vẻ",
+        ""
+      ],
+      [
+        "eyes",
+        "đôi mắt",
+        ""
+      ],
+      [
+        "tall",
+        "cao",
+        ""
+      ],
+      [
+        "short",
+        "thấp, ngắn",
+        ""
+      ],
+      [
+        "slim",
+        "ốm, mảnh khảnh",
+        ""
+      ],
+      [
+        "big",
+        "to, lớn,",
+        ""
+      ],
+      [
+        "long",
+        "dài",
+        ""
+      ],
+      [
+        "round",
+        "tròn",
+        ""
+      ],
+      [
+        "round face",
+        "mặt tròn",
+        ""
+      ],
+      [
+        "face",
+        "khuôn mặt",
+        ""
+      ]
+    ],
+    "18": [
+      [
+        "shopping centre",
+        "trung tâm mua sắm",
+        ""
+      ],
+      [
+        "between",
+        "ở giữa",
+        ""
+      ],
+      [
+        "bakery",
+        "tiệm bánh mì",
+        ""
+      ],
+      [
+        "over there",
+        "ở đằng kia",
+        ""
+      ],
+      [
+        "gift shop",
+        "quầy bán quà tặng",
+        ""
+      ],
+      [
+        "How much",
+        "giá tiền bao nhiêu",
+        ""
+      ],
+      [
+        "bookshop",
+        "nhà sách",
+        ""
+      ],
+      [
+        "How much is",
+        "Giá bao nhiêu? (số ít)",
+        ""
+      ],
+      [
+        "sports shop",
+        "cửa hàng đồ thể thao",
+        ""
+      ],
+      [
+        "It is",
+        "nó là; giá là",
+        ""
+      ],
+      [
+        "shoe shop",
+        "quầy bán giày",
+        ""
+      ],
+      [
+        "How much are",
+        "Giá bao nhiêu? (số nhiều)",
+        ""
+      ],
+      [
+        "food shop",
+        "quầy bán thức ăn",
+        ""
+      ],
+      [
+        "They are",
+        "chúng là; giá là",
+        ""
+      ],
+      [
+        "near",
+        "gần",
+        ""
+      ],
+      [
+        "number(1-100)",
+        "số đếm từ 1 đến 100",
+        ""
+      ],
+      [
+        "opposite",
+        "đối diện",
+        ""
+      ],
+      [
+        "behind",
+        "ở đằng sau",
+        ""
+      ]
+    ],
+    "19": [
+      [
+        "animal",
+        "động vật",
+        ""
+      ],
+      [
+        "beautiful",
+        "đẹp",
+        ""
+      ],
+      [
+        "giraffe",
+        "con hươu cao cổ",
+        ""
+      ],
+      [
+        "beautiful- beautifully",
+        "đẹp → một cách đẹp đẽ",
+        ""
+      ],
+      [
+        "hippo",
+        "con hà mã",
+        ""
+      ],
+      [
+        "quick",
+        "nhanh, nhanh nhẹn",
+        ""
+      ],
+      [
+        "lion",
+        "con sư tử",
+        ""
+      ],
+      [
+        "quick- quickly",
+        "nhanh → một cách nhanh chóng",
+        ""
+      ],
+      [
+        "crocodile",
+        "con cá sấu",
+        ""
+      ],
+      [
+        "loud",
+        "to, lớn (âm thanh)",
+        ""
+      ],
+      [
+        "peacock",
+        "con công",
+        ""
+      ],
+      [
+        "loud - loudly",
+        "to, lớn (âm thanh) → một cách ầm ĩ",
+        ""
+      ],
+      [
+        "bird",
+        "con chim",
+        ""
+      ],
+      [
+        "merry",
+        "vui vẻ",
+        ""
+      ],
+      [
+        "brave",
+        "dũng cảm",
+        ""
+      ],
+      [
+        "merrily",
+        "một cách vui vẻ",
+        ""
+      ],
+      [
+        "strong",
+        "khoẻ",
+        ""
+      ],
+      [
+        "dance",
+        "nhảy, khiêu vũ",
+        ""
+      ],
+      [
+        "run",
+        "chạy",
+        ""
+      ],
+      [
+        "roar",
+        "gầm",
+        ""
+      ],
+      [
+        "sing",
+        "hát",
+        ""
+      ]
+    ],
+    "20": [
+      [
+        "season",
+        "mùa",
+        ""
+      ],
+      [
+        "play tug of war",
+        "chơi kéo co",
+        ""
+      ],
+      [
+        "spring",
+        "mùa xuân",
+        ""
+      ],
+      [
+        "dance around the campfire",
+        "nhảy, múa quanh lửa trại",
+        ""
+      ],
+      [
+        "summer",
+        "mùa hè",
+        ""
+      ],
+      [
+        "sing a song",
+        "hát 1 bài hát",
+        ""
+      ],
+      [
+        "winter",
+        "mùa đông",
+        ""
+      ],
+      [
+        "sing songs",
+        "hát các bài hát",
+        ""
+      ],
+      [
+        "autumn",
+        "mùa thu",
+        ""
+      ],
+      [
+        "play card games",
+        "chơi bài",
+        ""
+      ],
+      [
+        "summer camp",
+        "cắm trại mùa hè",
+        ""
+      ],
+      [
+        "put up a tent",
+        "dựng lều trại",
+        ""
+      ],
+      [
+        "build a campfire",
+        "đốt lửa trại",
+        ""
+      ],
+      [
+        "tell a story",
+        "kể chuyện",
+        ""
+      ],
+      [
+        "take a photo",
+        "chụp ảnh",
+        ""
+      ],
+      [
+        "campsite",
+        "khu cắm trại",
+        ""
+      ],
+      [
+        "at the campsite",
+        "tại khu cắm trại",
+        ""
+      ]
+    ],
+    "17": [
+      [
+        "sign",
+        "kí hiệu, biển báo",
+        ""
+      ],
+      [
+        "road sign",
+        "biển báo giao thông",
+        ""
+      ],
+      [
+        "stop",
+        "dừng lại",
+        ""
+      ],
+      [
+        "go straight",
+        "đi thẳng",
+        ""
+      ],
+      [
+        "turn right",
+        "rẽ phải",
+        ""
+      ],
+      [
+        "turn left",
+        "rẽ trái",
+        ""
+      ]
+    ]
+  },
+  "records": [
+    {
+      "unit": 1,
+      "text": "be from",
+      "meaning": "đến từ",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "be from",
+          "đến từ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "friend",
+      "meaning": "bạn, bạn bè",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "friend",
+          "bạn, bạn bè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Where",
+      "meaning": "ở đâu",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "Where",
+          "ở đâu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "new friend",
+      "meaning": "người bạn mới",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "new friend",
+          "người bạn mới",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "America",
+      "meaning": "nước Mỹ",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "America",
+          "nước Mỹ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "age",
+      "meaning": "tuổi",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "age",
+          "tuổi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Britain",
+      "meaning": "nước Anh",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "Britain",
+          "nước Anh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "country",
+      "meaning": "đất nuớc",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "country",
+          "đất nuớc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Australia",
+      "meaning": "nước Úc",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "Australia",
+          "nước Úc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "I am= I'm",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "I am",
+          "mình là, tôi là",
+          ""
+        ],
+        [
+          "I'm",
+          "mình là, tôi là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Vietnam",
+      "meaning": "nước Việt Nam",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "Viet Nam",
+          "nước Việt Nam",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "You are= You're",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "You are",
+          "bạn là",
+          ""
+        ],
+        [
+          "You're",
+          "bạn là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Singapore",
+      "meaning": "nước Si-ga-po",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "Singapore",
+          "nước Si-ga-po",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "We are = We're",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "We are",
+          "chúng ta là",
+          ""
+        ],
+        [
+          "We're",
+          "chúng ta là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Malaysia",
+      "meaning": "nước Ma-lay- si-a",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "Malaysia",
+          "nước Ma-lay- si-a",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "They are= They're",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E9",
+      "entries": [
+        [
+          "They are",
+          "họ là",
+          ""
+        ],
+        [
+          "They're",
+          "họ là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Thailand",
+      "meaning": "nước Thái Lan",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "Thailand",
+          "nước Thái Lan",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "He is= He's",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E10",
+      "entries": [
+        [
+          "He is",
+          "anh ấy là",
+          ""
+        ],
+        [
+          "He's",
+          "anh ấy là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "Japan",
+      "meaning": "nước Nhật",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "Japan",
+          "nước Nhật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "She is= She's",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E11",
+      "entries": [
+        [
+          "She is",
+          "cô ấy là",
+          ""
+        ],
+        [
+          "She's",
+          "cô ấy là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "new",
+      "meaning": "mới",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B12",
+      "entries": [
+        [
+          "new",
+          "mới",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 1,
+      "text": "It is= It's",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E12",
+      "entries": [
+        [
+          "It is",
+          "nó là",
+          ""
+        ],
+        [
+          "It's",
+          "nó là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "time",
+      "meaning": "thời gian",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "time",
+          "thời gian",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "go to bed",
+      "meaning": "đi ngủ",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E15",
+      "entries": [
+        [
+          "go to bed",
+          "đi ngủ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "rountine",
+      "meaning": "thói quen",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B16",
+      "entries": [
+        [
+          "routine",
+          "thói quen",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "at + time",
+      "meaning": "",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E16",
+      "entries": [
+        [
+          "at + time",
+          "vào lúc + giờ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "daily rountine",
+      "meaning": "hoạt động hàng ngày",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B17",
+      "entries": [
+        [
+          "daily routine",
+          "hoạt động hàng ngày",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "chat",
+      "meaning": "tán gẫu",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E17",
+      "entries": [
+        [
+          "chat",
+          "tán gẫu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "number",
+      "meaning": "số đếm",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B18",
+      "entries": [
+        [
+          "number",
+          "số đếm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "chat with friend",
+      "meaning": "tán gẫu cùng bạn",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E18",
+      "entries": [
+        [
+          "chat with friends",
+          "tán gẫu cùng bạn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "o'clock",
+      "meaning": "giờ( đúng)",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B19",
+      "entries": [
+        [
+          "o'clock",
+          "giờ( đúng)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "read books",
+      "meaning": "đọc sách",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E19",
+      "entries": [
+        [
+          "read books",
+          "đọc sách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "get up",
+      "meaning": "thức dậy",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B20",
+      "entries": [
+        [
+          "get up",
+          "thức dậy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "pupil",
+      "meaning": "học sinh",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E20",
+      "entries": [
+        [
+          "pupil",
+          "học sinh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "have breakfast",
+      "meaning": "ăn sáng",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B21",
+      "entries": [
+        [
+          "have breakfast",
+          "ăn sáng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "Primary School",
+      "meaning": "trường tiểu học",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E21",
+      "entries": [
+        [
+          "Primary School",
+          "trường tiểu học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "have lunch",
+      "meaning": "ăn trưa",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B22",
+      "entries": [
+        [
+          "have lunch",
+          "ăn trưa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "wash face",
+      "meaning": "rửa mặt",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E22",
+      "entries": [
+        [
+          "wash face",
+          "rửa mặt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "have dinner",
+      "meaning": "ăn tối",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B23",
+      "entries": [
+        [
+          "have dinner",
+          "ăn tối",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "clean teeth= brush teeth",
+      "meaning": "đánh răng",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E23",
+      "entries": [
+        [
+          "clean teeth",
+          "đánh răng",
+          ""
+        ],
+        [
+          "brush teeth",
+          "đánh răng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "go to school",
+      "meaning": "đi học",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "B24",
+      "entries": [
+        [
+          "go to school",
+          "đi học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 2,
+      "text": "do homework",
+      "meaning": "làm BTVN",
+      "file": "tieng anh 4 unit 1  va 2.xlsx",
+      "cell": "E24",
+      "entries": [
+        [
+          "do homework",
+          "làm BTVN",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "day",
+      "meaning": "ngày",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "day",
+          "ngày",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "on + day",
+      "meaning": "on+ ngày",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "on + day",
+          "on+ ngày",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "week",
+      "meaning": "tuần",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "week",
+          "tuần",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "study",
+      "meaning": "học",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "study",
+          "học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "month",
+      "meaning": "tháng",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "month",
+          "tháng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "study at school",
+      "meaning": "học ở trường",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "study at school",
+          "học ở trường",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Monday",
+      "meaning": "thứ hai",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "Monday",
+          "thứ hai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "do housework",
+      "meaning": "làm việc nhà",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "do housework",
+          "làm việc nhà",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Tuesday",
+      "meaning": "thứ ba",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "Tuesday",
+          "thứ ba",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "school day",
+      "meaning": "ngày đi học",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "school day",
+          "ngày đi học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Wednesday",
+      "meaning": "thứ tư",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "Wednesday",
+          "thứ tư",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "weekend",
+      "meaning": "cuối tuần",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "weekend",
+          "cuối tuần",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Thursday",
+      "meaning": "thứ năm",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "Thursday",
+          "thứ năm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "at the weekend",
+      "meaning": "vào cuối tuần",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "at the weekend",
+          "vào cuối tuần",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Friday",
+      "meaning": "thứ sáu",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "Friday",
+          "thứ sáu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "What day is it today?",
+      "meaning": "Hôm nay là thứ mấy?",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E9",
+      "entries": [
+        [
+          "What day is it today?",
+          "Hôm nay là thứ mấy?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Saturday",
+      "meaning": "thứ bảy",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "Saturday",
+          "thứ bảy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "It's Monday.",
+      "meaning": "Đó là thứ hai",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E10",
+      "entries": [
+        [
+          "It's Monday.",
+          "Hôm nay là thứ Hai.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "Sunday",
+      "meaning": "chủ nhật",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "Sunday",
+          "chủ nhật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "What do you do on Tuesdays?",
+      "meaning": "Bạn làm gì vào những ngày thứ ba?",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E11",
+      "entries": [
+        [
+          "What do you do on Tuesdays?",
+          "Bạn làm gì vào những ngày thứ ba?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "today",
+      "meaning": "hôm nay",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B12",
+      "entries": [
+        [
+          "today",
+          "hôm nay",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "I go to school.",
+      "meaning": "Mình đi học",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E12",
+      "entries": [
+        [
+          "I go to school.",
+          "Mình đi học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 3,
+      "text": "tomorrow",
+      "meaning": "ngày mai",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B13",
+      "entries": [
+        [
+          "tomorrow",
+          "ngày mai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "month",
+      "meaning": "tháng",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "month",
+          "tháng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "want+ to V",
+      "meaning": "",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E15",
+      "entries": [
+        [
+          "want+ to V",
+          "muốn + động từ nguyên mẫu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "January",
+      "meaning": "tháng 1",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B16",
+      "entries": [
+        [
+          "January",
+          "tháng 1",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "eat",
+      "meaning": "ăn",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E16",
+      "entries": [
+        [
+          "eat",
+          "ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "February",
+      "meaning": "tháng 2",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B17",
+      "entries": [
+        [
+          "February",
+          "tháng 2",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "drink",
+      "meaning": "uống",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E17",
+      "entries": [
+        [
+          "drink",
+          "uống",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "March",
+      "meaning": "tháng 3",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B18",
+      "entries": [
+        [
+          "March",
+          "tháng 3",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "chip",
+      "meaning": "khoai tây chiên",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E18",
+      "entries": [
+        [
+          "chips",
+          "khoai tây chiên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "April",
+      "meaning": "tháng 4",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B19",
+      "entries": [
+        [
+          "April",
+          "tháng 4",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "grapes",
+      "meaning": "nho",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E19",
+      "entries": [
+        [
+          "grapes",
+          "nho",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "May",
+      "meaning": "tháng 5",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B20",
+      "entries": [
+        [
+          "May",
+          "tháng 5",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "lemonade",
+      "meaning": "nước chanh",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E20",
+      "entries": [
+        [
+          "lemonade",
+          "nước chanh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "June",
+      "meaning": "tháng 6",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B21",
+      "entries": [
+        [
+          "June",
+          "tháng 6",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "water",
+      "meaning": "nước",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E21",
+      "entries": [
+        [
+          "water",
+          "nước",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "July",
+      "meaning": "tháng 7",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B22",
+      "entries": [
+        [
+          "July",
+          "tháng 7",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "some",
+      "meaning": "một ít, một vài",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E22",
+      "entries": [
+        [
+          "some",
+          "một ít, một vài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "August",
+      "meaning": "tháng 8",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B23",
+      "entries": [
+        [
+          "August",
+          "tháng 8",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "party",
+      "meaning": "bữa tiệc",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E23",
+      "entries": [
+        [
+          "party",
+          "bữa tiệc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "September",
+      "meaning": "tháng 9",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B24",
+      "entries": [
+        [
+          "September",
+          "tháng 9",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "When's your birthday?",
+      "meaning": "sinh nhật cùa bạn là khi nào?",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E24",
+      "entries": [
+        [
+          "When's your birthday?",
+          "sinh nhật cùa bạn là khi nào?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "October",
+      "meaning": "tháng 10",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B25",
+      "entries": [
+        [
+          "October",
+          "tháng 10",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "It's in September.",
+      "meaning": "Đó là tháng 9.",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E25",
+      "entries": [
+        [
+          "It's in September.",
+          "Sinh nhật vào tháng Chín.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "November",
+      "meaning": "tháng 11",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B26",
+      "entries": [
+        [
+          "November",
+          "tháng 11",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "What do you want to eat?",
+      "meaning": "Bạn muốn ăn gì?",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E26",
+      "entries": [
+        [
+          "What do you want to eat?",
+          "Bạn muốn ăn gì?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "December",
+      "meaning": "tháng 12",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B27",
+      "entries": [
+        [
+          "December",
+          "tháng 12",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "I want some chips.",
+      "meaning": "Mình muốn một ít khoai tây chiên",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E27",
+      "entries": [
+        [
+          "I want some chips.",
+          "Mình muốn một ít khoai tây chiên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "When",
+      "meaning": "khi nào",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B28",
+      "entries": [
+        [
+          "When",
+          "khi nào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "What do you want to drink?",
+      "meaning": "Bạn muốn uống gì?",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E28",
+      "entries": [
+        [
+          "What do you want to drink?",
+          "Bạn muốn uống gì?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "birthday",
+      "meaning": "sinh nhật",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B29",
+      "entries": [
+        [
+          "birthday",
+          "sinh nhật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "I want some water.",
+      "meaning": "Mình muốn uống nước.",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "E29",
+      "entries": [
+        [
+          "I want some water.",
+          "Mình muốn uống nước.",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 4,
+      "text": "want",
+      "meaning": "muốn",
+      "file": "tieng anh 4 unit 3 va 4.xlsx",
+      "cell": "B30",
+      "entries": [
+        [
+          "want",
+          "muốn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "thing",
+      "meaning": "vật, hành động",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "thing",
+          "vật, hành động",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "play badminton",
+      "meaning": "chơi cầu lông",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "play badminton",
+          "chơi cầu lông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "can",
+      "meaning": "có thể( khả năng)",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "can",
+          "có thể( khả năng)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "play football",
+      "meaning": "chơi bóng đá",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "play football",
+          "chơi bóng đá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "can you…?",
+      "meaning": "bạn có thể…?",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "can you…?",
+          "bạn có thể…?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "roller skate",
+      "meaning": "trượt pa tanh",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "roller skate",
+          "trượt pa tanh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "fly a kite",
+      "meaning": "thả diều",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "fly a kite",
+          "thả diều",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "cook",
+      "meaning": "nấu ăn",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "cook",
+          "nấu ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "skip",
+      "meaning": "nhảy dây",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "skip",
+          "nhảy dây",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "draw",
+      "meaning": "vẽ",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "draw",
+          "vẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "ride a bike",
+      "meaning": "đạp xe đạp",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "ride a bike",
+          "đạp xe đạp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "Can she…?",
+      "meaning": "cô ấy có thể…?",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "Can she…?",
+          "cô ấy có thể…?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "ride a horse",
+      "meaning": "cưỡi ngựa",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "ride a horse",
+          "cưỡi ngựa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "Yes, she can.",
+      "meaning": "",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "Yes, she can.",
+          "Vâng, cô ấy có thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "play the piano",
+      "meaning": "chơi đàn piano",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "play the piano",
+          "chơi đàn piano",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "No, she can't",
+      "meaning": "",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E9",
+      "entries": [
+        [
+          "No, she can't",
+          "Không, cô ấy không thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "play the guiar",
+      "meaning": "chơi đàn ghi ta",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "play the guitar",
+          "chơi đàn ghi ta",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "Can he…?",
+      "meaning": "anh ấy có thể…?",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E10",
+      "entries": [
+        [
+          "Can he…?",
+          "anh ấy có thể…?",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "Yes, I can",
+      "meaning": "ừ, mình có thể",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "Yes, I can",
+          "ừ, mình có thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "Yes, he can.",
+      "meaning": "",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E11",
+      "entries": [
+        [
+          "Yes, he can.",
+          "Vâng, anh ấy có thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "No, I can't.",
+      "meaning": "không, mình không thể",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B12",
+      "entries": [
+        [
+          "No, I can't.",
+          "không, mình không thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 5,
+      "text": "No, he can't.",
+      "meaning": "",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E12",
+      "entries": [
+        [
+          "No, he can't.",
+          "Không, anh ấy không thể",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "facility",
+      "meaning": "tiện nghi, phương tiện,",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "facility",
+          "tiện nghi, phương tiện,",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "Where",
+      "meaning": "ở đâu",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E15",
+      "entries": [
+        [
+          "Where",
+          "ở đâu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "facilities",
+      "meaning": "",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B16",
+      "entries": [
+        [
+          "facilities",
+          "các cơ sở vật chất, tiện nghi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "How many",
+      "meaning": "bao nhiêu",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E16",
+      "entries": [
+        [
+          "How many",
+          "bao nhiêu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "school facilities",
+      "meaning": "tiện nghi trường học",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B17",
+      "entries": [
+        [
+          "school facilities",
+          "tiện nghi trường học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "building",
+      "meaning": "tòa nhà",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E17",
+      "entries": [
+        [
+          "building",
+          "tòa nhà",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "city",
+      "meaning": "thành phố",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B18",
+      "entries": [
+        [
+          "city",
+          "thành phố",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "at school",
+      "meaning": "ở trường",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E18",
+      "entries": [
+        [
+          "at school",
+          "ở trường",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "in the city",
+      "meaning": "ở thành phố",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B19",
+      "entries": [
+        [
+          "in the city",
+          "ở thành phố",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "playground",
+      "meaning": "khu vui chơi",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E19",
+      "entries": [
+        [
+          "playground",
+          "khu vui chơi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "mountains",
+      "meaning": "núi",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B20",
+      "entries": [
+        [
+          "mountains",
+          "núi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "computer room",
+      "meaning": "phòng vi tính",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E20",
+      "entries": [
+        [
+          "computer room",
+          "phòng vi tính",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "in the mountains",
+      "meaning": "ở núi",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B21",
+      "entries": [
+        [
+          "in the mountains",
+          "ở núi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "garden",
+      "meaning": "khu vườn",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E21",
+      "entries": [
+        [
+          "garden",
+          "khu vườn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "village",
+      "meaning": "làng quê",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B22",
+      "entries": [
+        [
+          "village",
+          "làng quê",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "There is a/ an/ one",
+      "meaning": "có 1",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E22",
+      "entries": [
+        [
+          "There is a/ an/ one",
+          "có 1",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "in the village",
+      "meaning": "ở làng quê",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B23",
+      "entries": [
+        [
+          "in the village",
+          "ở làng quê",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "There are two/ three….",
+      "meaning": "có 2/ 3",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "E23",
+      "entries": [
+        [
+          "There are two/ three….",
+          "có 2/ 3",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "town",
+      "meaning": "thị trấn",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B24",
+      "entries": [
+        [
+          "town",
+          "thị trấn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 6,
+      "text": "in the town",
+      "meaning": "ở thị trấn",
+      "file": "tieng anh 4 unit 5 va 6 chinh thuc.xlsx",
+      "cell": "B25",
+      "entries": [
+        [
+          "in the town",
+          "ở thị trấn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "timetable",
+      "meaning": "thời khóa biểu",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "timetable",
+          "thời khóa biểu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Geography",
+      "meaning": "môn Địa lý",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "Geography",
+          "môn Địa lý",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "have class",
+      "meaning": "có tiết học",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "have class",
+          "có tiết học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "PE",
+      "meaning": "môn Thể dục",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "PE",
+          "môn Thể dục",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "subject",
+      "meaning": "môn học",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "subject",
+          "môn học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "day",
+      "meaning": "ngày",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "day",
+          "ngày",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "English",
+      "meaning": "môn Tiếng Anh",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "English",
+          "môn Tiếng Anh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "today",
+      "meaning": "hôm nay",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "today",
+          "hôm nay",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Maths",
+      "meaning": "môn Toán",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "Maths",
+          "môn Toán",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Monday",
+      "meaning": "thứ hai",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "Monday",
+          "thứ hai",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Vietnamese",
+      "meaning": "môn Tiếng Việt",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "Vietnamese",
+          "môn Tiếng Việt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Tuesday",
+      "meaning": "thứ ba",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "Tuesday",
+          "thứ ba",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Science",
+      "meaning": "môn Khoa Học",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "Science",
+          "môn Khoa Học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Wednesday",
+      "meaning": "thứ tư",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "Wednesday",
+          "thứ tư",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Art",
+      "meaning": "môn Mĩ Thuật",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "Art",
+          "môn Mĩ Thuật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Thursday",
+      "meaning": "thứ năm",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E9",
+      "entries": [
+        [
+          "Thursday",
+          "thứ năm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Music",
+      "meaning": "môn Âm nhạc",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "Music",
+          "môn Âm nhạc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Friday",
+      "meaning": "thứ sáu",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E10",
+      "entries": [
+        [
+          "Friday",
+          "thứ sáu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "History",
+      "meaning": "môn Lịch sử",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "History",
+          "môn Lịch sử",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Saturday",
+      "meaning": "thứ bảy",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E11",
+      "entries": [
+        [
+          "Saturday",
+          "thứ bảy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 7,
+      "text": "Sunday",
+      "meaning": "chủ nhật",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E12",
+      "entries": [
+        [
+          "Sunday",
+          "chủ nhật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "favourite",
+      "meaning": "yêu thích",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B14",
+      "entries": [
+        [
+          "favourite",
+          "yêu thích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "I have",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E14",
+      "entries": [
+        [
+          "I have",
+          "mình có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "favourite subject",
+      "meaning": "môn học yêu thích",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "favourite subject",
+          "môn học yêu thích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "You have",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E15",
+      "entries": [
+        [
+          "You have",
+          "bạn có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "IT",
+      "meaning": "môn Tin học",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B16",
+      "entries": [
+        [
+          "IT",
+          "môn Tin học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "We have",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E16",
+      "entries": [
+        [
+          "We have",
+          "chúng ta có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "Why",
+      "meaning": "tại sao ( lý do)",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B17",
+      "entries": [
+        [
+          "Why",
+          "tại sao ( lý do)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "They have",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E17",
+      "entries": [
+        [
+          "They have",
+          "họ có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "because",
+      "meaning": "bởi vì",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B18",
+      "entries": [
+        [
+          "because",
+          "bởi vì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "He has",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E18",
+      "entries": [
+        [
+          "He has",
+          "anh ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "want",
+      "meaning": "muốn",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B19",
+      "entries": [
+        [
+          "want",
+          "muốn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "She has",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E19",
+      "entries": [
+        [
+          "She has",
+          "cô ấy có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "want to be",
+      "meaning": "muốn trở thành",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B20",
+      "entries": [
+        [
+          "want to be",
+          "muốn trở thành",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "It has",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E20",
+      "entries": [
+        [
+          "It has",
+          "nó có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "teacher",
+      "meaning": "giáo viên",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B21",
+      "entries": [
+        [
+          "teacher",
+          "giáo viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "I--> my",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E21",
+      "entries": [
+        [
+          "I--> my",
+          "tôi → của tôi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "singer",
+      "meaning": "ca sĩ",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B22",
+      "entries": [
+        [
+          "singer",
+          "ca sĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "You--> your",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E22",
+      "entries": [
+        [
+          "You--> your",
+          "bạn → của bạn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "painter",
+      "meaning": "họa sĩ",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B23",
+      "entries": [
+        [
+          "painter",
+          "họa sĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "He--> his",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E23",
+      "entries": [
+        [
+          "He--> his",
+          "anh ấy → của anh ấy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "have",
+      "meaning": "có",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "B24",
+      "entries": [
+        [
+          "have",
+          "có",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 8,
+      "text": "She --> her",
+      "meaning": "",
+      "file": "tieng anh 4 unit 7 va 8.xlsx",
+      "cell": "E24",
+      "entries": [
+        [
+          "She --> her",
+          "cô ấy → của cô ấy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "sport",
+      "meaning": "thể thao",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "sport",
+          "thể thao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "August",
+      "meaning": "tháng 8",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "August",
+          "tháng 8",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "sports day",
+      "meaning": "ngày hội thể thao",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "sports day",
+          "ngày hội thể thao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "September",
+      "meaning": "tháng 9",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "September",
+          "tháng 9",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "January",
+      "meaning": "tháng 1",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "January",
+          "tháng 1",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "October",
+      "meaning": "tháng 10",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "October",
+          "tháng 10",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "February",
+      "meaning": "tháng 2",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "February",
+          "tháng 2",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "November",
+      "meaning": "tháng 11",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "November",
+          "tháng 11",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "March",
+      "meaning": "tháng 3",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "March",
+          "tháng 3",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "December",
+      "meaning": "tháng 12",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "December",
+          "tháng 12",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "April",
+      "meaning": "tháng 4",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "April",
+          "tháng 4",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "school playground",
+      "meaning": "khu vui chơi nhà trường",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "school playground",
+          "khu vui chơi nhà trường",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "May",
+      "meaning": "tháng 5",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "May",
+          "tháng 5",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "different",
+      "meaning": "khác nhau",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "different",
+          "khác nhau",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "June",
+      "meaning": "tháng 6",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "June",
+          "tháng 6",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "fun",
+      "meaning": "niềm vui",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E9",
+      "entries": [
+        [
+          "fun",
+          "niềm vui",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 9,
+      "text": "July",
+      "meaning": "tháng 7",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "July",
+          "tháng 7",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "season",
+      "meaning": "mùa",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B12",
+      "entries": [
+        [
+          "season",
+          "mùa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "campsite",
+      "meaning": "địa điểm cắm trại",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E12",
+      "entries": [
+        [
+          "campsite",
+          "khu cắm trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "summer",
+      "meaning": "mùa hè",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B13",
+      "entries": [
+        [
+          "summer",
+          "mùa hè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "at the campsite",
+      "meaning": "tại địa điểm cắm trại",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E13",
+      "entries": [
+        [
+          "at the campsite",
+          "tại địa điểm cắm trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "spring",
+      "meaning": "mùa xuân",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B14",
+      "entries": [
+        [
+          "spring",
+          "mùa xuân",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "Were you ….?",
+      "meaning": "có phải bạn đã",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E14",
+      "entries": [
+        [
+          "Were you ….?",
+          "có phải bạn đã",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "winter",
+      "meaning": "mùa đông",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "winter",
+          "mùa đông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "Yes, I was.",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E15",
+      "entries": [
+        [
+          "Yes, I was.",
+          "Vâng, mình đã ở đó",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "fall= autumn",
+      "meaning": "mùa thu",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B16",
+      "entries": [
+        [
+          "fall",
+          "mùa thu",
+          ""
+        ],
+        [
+          "autumn",
+          "mùa thu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "No, I wasn't.",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E16",
+      "entries": [
+        [
+          "No, I wasn't.",
+          "Không, mình đã không ở đó",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "holiday",
+      "meaning": "kì nghĩ",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B17",
+      "entries": [
+        [
+          "holiday",
+          "kỳ nghỉ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "London",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E17",
+      "entries": [
+        [
+          "London",
+          "Luân Đôn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "summer holiday",
+      "meaning": "kì nghĩ hè",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B18",
+      "entries": [
+        [
+          "summer holiday",
+          "kỳ nghỉ hè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "Tokyo",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E18",
+      "entries": [
+        [
+          "Tokyo",
+          "Tô-ki-ô",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "be- was/ were",
+      "meaning": "ở, thì, là",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B19",
+      "entries": [
+        [
+          "be- was/ were",
+          "ở, thì, là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "Sydney",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E19",
+      "entries": [
+        [
+          "Sydney",
+          "Xít-ni",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "last",
+      "meaning": "qua,đã qua( quá khứ)",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B20",
+      "entries": [
+        [
+          "last",
+          "qua,đã qua( quá khứ)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "Bangkok",
+      "meaning": "",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E20",
+      "entries": [
+        [
+          "Bangkok",
+          "Băng Cốc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "weekend",
+      "meaning": "cuối tuần",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B21",
+      "entries": [
+        [
+          "weekend",
+          "cuối tuần",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "city",
+      "meaning": "thành phố",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E21",
+      "entries": [
+        [
+          "city",
+          "thành phố",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "in the countryside",
+      "meaning": "ở miền quê",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B22",
+      "entries": [
+        [
+          "in the countryside",
+          "ở miền quê",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "food",
+      "meaning": "thức ăn",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E22",
+      "entries": [
+        [
+          "food",
+          "thức ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "in the mountains",
+      "meaning": "ở núi",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B23",
+      "entries": [
+        [
+          "in the mountains",
+          "ở núi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "people",
+      "meaning": "con người",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E23",
+      "entries": [
+        [
+          "people",
+          "con người",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "at the zoo",
+      "meaning": "ở sở thú",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B24",
+      "entries": [
+        [
+          "at the zoo",
+          "ở sở thú",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "helpful",
+      "meaning": "giúp đỡ, hữu ích",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E24",
+      "entries": [
+        [
+          "helpful",
+          "giúp đỡ, hữu ích",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "on the beach",
+      "meaning": "ở biển",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "B25",
+      "entries": [
+        [
+          "on the beach",
+          "ở biển",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 10,
+      "text": "friendly",
+      "meaning": "thân thiện, gần gũi",
+      "file": "tieng anh 4 unit 9 va 10.xlsx",
+      "cell": "E25",
+      "entries": [
+        [
+          "friendly",
+          "thân thiện, gần gũi",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "job",
+      "meaning": "công việc, nghề nghiệp",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "job",
+          "công việc, nghề nghiệp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "factory",
+      "meaning": "nhà máy",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "factory",
+          "nhà máy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "policeman",
+      "meaning": "cảnh sát",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "policeman",
+          "cảnh sát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "school",
+      "meaning": "trường học",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "school",
+          "trường học",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "office worker",
+      "meaning": "nhân viên văn phòng",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "office worker",
+          "nhân viên văn phòng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "farm",
+      "meaning": "nông trại",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "farm",
+          "nông trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "actor",
+      "meaning": "diễn viên",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "actor",
+          "diễn viên",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "look",
+      "meaning": "nhìn",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "look",
+          "nhìn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "nurse",
+      "meaning": "y tá",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "nurse",
+          "y tá",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "look at",
+      "meaning": "nhìn vào",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "look at",
+          "nhìn vào",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "doctor",
+      "meaning": "bác sĩ",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "doctor",
+          "bác sĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "photo= picture",
+      "meaning": "bức ảnh, bức tranh",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "photo",
+          "bức ảnh, bức tranh",
+          ""
+        ],
+        [
+          "picture",
+          "bức ảnh, bức tranh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "pupil",
+      "meaning": "học sinh",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "pupil",
+          "học sinh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "photo of= picture of",
+      "meaning": "bức ảnh của, bức tranh của",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "E8",
+      "entries": [
+        [
+          "photo of",
+          "bức ảnh của, bức tranh của",
+          ""
+        ],
+        [
+          "picture of",
+          "bức ảnh của, bức tranh của",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "farmer",
+      "meaning": "nông dân",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "farmer",
+          "nông dân",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "where",
+      "meaning": "ở đâu",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "where",
+          "ở đâu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 12,
+      "text": "nursing home",
+      "meaning": "trại dưỡng lão",
+      "file": "tieng anh 4 unit 12.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "nursing home",
+          "trại dưỡng lão",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "apprance",
+      "meaning": "hình dáng, dáng vẻ",
+      "file": "unit 13.xlsx",
+      "cell": "B2",
+      "entries": [
+        [
+          "appearance",
+          "hình dáng, dáng vẻ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "hair",
+      "meaning": "tóc",
+      "file": "unit 13.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "hair",
+          "tóc",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "look like",
+      "meaning": "trông có vẻ",
+      "file": "unit 13.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "look like",
+          "trông có vẻ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "eyes",
+      "meaning": "đôi mắt",
+      "file": "unit 13.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "eyes",
+          "đôi mắt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "tall",
+      "meaning": "cao",
+      "file": "unit 13.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "tall",
+          "cao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "short",
+      "meaning": "thấp, ngắn",
+      "file": "unit 13.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "short",
+          "thấp, ngắn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "slim",
+      "meaning": "ốm, mảnh khảnh",
+      "file": "unit 13.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "slim",
+          "ốm, mảnh khảnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "big",
+      "meaning": "to, lớn,",
+      "file": "unit 13.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "big",
+          "to, lớn,",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "long",
+      "meaning": "dài",
+      "file": "unit 13.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "long",
+          "dài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "round",
+      "meaning": "tròn",
+      "file": "unit 13.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "round",
+          "tròn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "round face",
+      "meaning": "mặt tròn",
+      "file": "unit 13.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "round face",
+          "mặt tròn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 13,
+      "text": "face",
+      "meaning": "khuôn mặt",
+      "file": "unit 13.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "face",
+          "khuôn mặt",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "shopping centre",
+      "meaning": "trung tâm mua sắm",
+      "file": "Unit 18.xlsx",
+      "cell": "A3",
+      "entries": [
+        [
+          "shopping centre",
+          "trung tâm mua sắm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "between",
+      "meaning": "ở giữa",
+      "file": "Unit 18.xlsx",
+      "cell": "D3",
+      "entries": [
+        [
+          "between",
+          "ở giữa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "bakery",
+      "meaning": "tiệm bánh mì",
+      "file": "Unit 18.xlsx",
+      "cell": "A4",
+      "entries": [
+        [
+          "bakery",
+          "tiệm bánh mì",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "over there",
+      "meaning": "ở đăng kia",
+      "file": "Unit 18.xlsx",
+      "cell": "D4",
+      "entries": [
+        [
+          "over there",
+          "ở đằng kia",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "gift shop",
+      "meaning": "quầy bán quà tặng",
+      "file": "Unit 18.xlsx",
+      "cell": "A5",
+      "entries": [
+        [
+          "gift shop",
+          "quầy bán quà tặng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "How much",
+      "meaning": "giá tiền bao nhiêu",
+      "file": "Unit 18.xlsx",
+      "cell": "D5",
+      "entries": [
+        [
+          "How much",
+          "giá tiền bao nhiêu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "bookshop",
+      "meaning": "nhà sách",
+      "file": "Unit 18.xlsx",
+      "cell": "A6",
+      "entries": [
+        [
+          "bookshop",
+          "nhà sách",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "How much is",
+      "meaning": "",
+      "file": "Unit 18.xlsx",
+      "cell": "D6",
+      "entries": [
+        [
+          "How much is",
+          "Giá bao nhiêu? (số ít)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "sports shop",
+      "meaning": "trung tâm thể thao",
+      "file": "Unit 18.xlsx",
+      "cell": "A7",
+      "entries": [
+        [
+          "sports shop",
+          "cửa hàng đồ thể thao",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "It is",
+      "meaning": "",
+      "file": "Unit 18.xlsx",
+      "cell": "D7",
+      "entries": [
+        [
+          "It is",
+          "nó là; giá là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "shoe shop",
+      "meaning": "quầy bán giày",
+      "file": "Unit 18.xlsx",
+      "cell": "A8",
+      "entries": [
+        [
+          "shoe shop",
+          "quầy bán giày",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "How much are",
+      "meaning": "",
+      "file": "Unit 18.xlsx",
+      "cell": "D8",
+      "entries": [
+        [
+          "How much are",
+          "Giá bao nhiêu? (số nhiều)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "food shop",
+      "meaning": "quầy bán thức ăn",
+      "file": "Unit 18.xlsx",
+      "cell": "A9",
+      "entries": [
+        [
+          "food shop",
+          "quầy bán thức ăn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "They are",
+      "meaning": "",
+      "file": "Unit 18.xlsx",
+      "cell": "D9",
+      "entries": [
+        [
+          "They are",
+          "chúng là; giá là",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "near",
+      "meaning": "gần",
+      "file": "Unit 18.xlsx",
+      "cell": "A10",
+      "entries": [
+        [
+          "near",
+          "gần",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "number(1-100)",
+      "meaning": "",
+      "file": "Unit 18.xlsx",
+      "cell": "D10",
+      "entries": [
+        [
+          "number(1-100)",
+          "số đếm từ 1 đến 100",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "opposite",
+      "meaning": "đối diện",
+      "file": "Unit 18.xlsx",
+      "cell": "A11",
+      "entries": [
+        [
+          "opposite",
+          "đối diện",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 18,
+      "text": "behind",
+      "meaning": "ở đằng sau",
+      "file": "Unit 18.xlsx",
+      "cell": "A12",
+      "entries": [
+        [
+          "behind",
+          "ở đằng sau",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "animal",
+      "meaning": "động vật",
+      "file": "Unit 19.xlsx",
+      "cell": "B3",
+      "entries": [
+        [
+          "animal",
+          "động vật",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "beautiful",
+      "meaning": "đẹp",
+      "file": "Unit 19.xlsx",
+      "cell": "D3",
+      "entries": [
+        [
+          "beautiful",
+          "đẹp",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "giraffe",
+      "meaning": "con hươu cao cổ",
+      "file": "Unit 19.xlsx",
+      "cell": "B4",
+      "entries": [
+        [
+          "giraffe",
+          "con hươu cao cổ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "beautiful- beautifully",
+      "meaning": "",
+      "file": "Unit 19.xlsx",
+      "cell": "D4",
+      "entries": [
+        [
+          "beautiful- beautifully",
+          "đẹp → một cách đẹp đẽ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "hippo",
+      "meaning": "con hà mã",
+      "file": "Unit 19.xlsx",
+      "cell": "B5",
+      "entries": [
+        [
+          "hippo",
+          "con hà mã",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "quick",
+      "meaning": "nhanh, nhanh nhẹn",
+      "file": "Unit 19.xlsx",
+      "cell": "D5",
+      "entries": [
+        [
+          "quick",
+          "nhanh, nhanh nhẹn",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "lion",
+      "meaning": "con sư tử",
+      "file": "Unit 19.xlsx",
+      "cell": "B6",
+      "entries": [
+        [
+          "lion",
+          "con sư tử",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "quick- quickly",
+      "meaning": "",
+      "file": "Unit 19.xlsx",
+      "cell": "D6",
+      "entries": [
+        [
+          "quick- quickly",
+          "nhanh → một cách nhanh chóng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "crocodile",
+      "meaning": "con cá xấu",
+      "file": "Unit 19.xlsx",
+      "cell": "B7",
+      "entries": [
+        [
+          "crocodile",
+          "con cá sấu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "load",
+      "meaning": "to, lớn",
+      "file": "Unit 19.xlsx",
+      "cell": "D7",
+      "entries": [
+        [
+          "loud",
+          "to, lớn (âm thanh)",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "peacock",
+      "meaning": "con công",
+      "file": "Unit 19.xlsx",
+      "cell": "B8",
+      "entries": [
+        [
+          "peacock",
+          "con công",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "load- loadly",
+      "meaning": "",
+      "file": "Unit 19.xlsx",
+      "cell": "D8",
+      "entries": [
+        [
+          "loud - loudly",
+          "to, lớn (âm thanh) → một cách ầm ĩ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "bird",
+      "meaning": "con chim",
+      "file": "Unit 19.xlsx",
+      "cell": "B9",
+      "entries": [
+        [
+          "bird",
+          "con chim",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "merri",
+      "meaning": "vui vẻ",
+      "file": "Unit 19.xlsx",
+      "cell": "D9",
+      "entries": [
+        [
+          "merry",
+          "vui vẻ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "brave",
+      "meaning": "dũng cảm",
+      "file": "Unit 19.xlsx",
+      "cell": "B10",
+      "entries": [
+        [
+          "brave",
+          "dũng cảm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "merrily",
+      "meaning": "",
+      "file": "Unit 19.xlsx",
+      "cell": "D10",
+      "entries": [
+        [
+          "merrily",
+          "một cách vui vẻ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "strong",
+      "meaning": "khoẻ",
+      "file": "Unit 19.xlsx",
+      "cell": "B11",
+      "entries": [
+        [
+          "strong",
+          "khoẻ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "dance",
+      "meaning": "nhảy, khiêu vũ",
+      "file": "Unit 19.xlsx",
+      "cell": "B12",
+      "entries": [
+        [
+          "dance",
+          "nhảy, khiêu vũ",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "run",
+      "meaning": "chạy",
+      "file": "Unit 19.xlsx",
+      "cell": "B13",
+      "entries": [
+        [
+          "run",
+          "chạy",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "roar",
+      "meaning": "gầm",
+      "file": "Unit 19.xlsx",
+      "cell": "B14",
+      "entries": [
+        [
+          "roar",
+          "gầm",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 19,
+      "text": "sing",
+      "meaning": "hát",
+      "file": "Unit 19.xlsx",
+      "cell": "B15",
+      "entries": [
+        [
+          "sing",
+          "hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "season",
+      "meaning": "mùa",
+      "file": "Unit 20.xlsx",
+      "cell": "A3",
+      "entries": [
+        [
+          "season",
+          "mùa",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "play tug of war",
+      "meaning": "chơi kéo co",
+      "file": "Unit 20.xlsx",
+      "cell": "C3",
+      "entries": [
+        [
+          "play tug of war",
+          "chơi kéo co",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "spring",
+      "meaning": "mùa xuân",
+      "file": "Unit 20.xlsx",
+      "cell": "A4",
+      "entries": [
+        [
+          "spring",
+          "mùa xuân",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "dance around the camp",
+      "meaning": "nhảy, múa quanh lửa trại",
+      "file": "Unit 20.xlsx",
+      "cell": "C4",
+      "entries": [
+        [
+          "dance around the campfire",
+          "nhảy, múa quanh lửa trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "summer",
+      "meaning": "mùa hè",
+      "file": "Unit 20.xlsx",
+      "cell": "A5",
+      "entries": [
+        [
+          "summer",
+          "mùa hè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "sing a song",
+      "meaning": "hát 1 bài hát",
+      "file": "Unit 20.xlsx",
+      "cell": "C5",
+      "entries": [
+        [
+          "sing a song",
+          "hát 1 bài hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "winter",
+      "meaning": "mùa đông",
+      "file": "Unit 20.xlsx",
+      "cell": "A6",
+      "entries": [
+        [
+          "winter",
+          "mùa đông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "sing songs",
+      "meaning": "",
+      "file": "Unit 20.xlsx",
+      "cell": "C6",
+      "entries": [
+        [
+          "sing songs",
+          "hát các bài hát",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "autumn",
+      "meaning": "mùa thu",
+      "file": "Unit 20.xlsx",
+      "cell": "A7",
+      "entries": [
+        [
+          "autumn",
+          "mùa thu",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "play card game",
+      "meaning": "chơi bài",
+      "file": "Unit 20.xlsx",
+      "cell": "C7",
+      "entries": [
+        [
+          "play card games",
+          "chơi bài",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "summer camp",
+      "meaning": "cắm trại mùa hè",
+      "file": "Unit 20.xlsx",
+      "cell": "A8",
+      "entries": [
+        [
+          "summer camp",
+          "cắm trại mùa hè",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "put up a tent",
+      "meaning": "dựng lều trại",
+      "file": "Unit 20.xlsx",
+      "cell": "A9",
+      "entries": [
+        [
+          "put up a tent",
+          "dựng lều trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "build a campfire",
+      "meaning": "đốt lửa trại",
+      "file": "Unit 20.xlsx",
+      "cell": "A10",
+      "entries": [
+        [
+          "build a campfire",
+          "đốt lửa trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "tell a story",
+      "meaning": "kể chuyện",
+      "file": "Unit 20.xlsx",
+      "cell": "A11",
+      "entries": [
+        [
+          "tell a story",
+          "kể chuyện",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "take a photo",
+      "meaning": "chụp ảnh",
+      "file": "Unit 20.xlsx",
+      "cell": "A12",
+      "entries": [
+        [
+          "take a photo",
+          "chụp ảnh",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "campsite",
+      "meaning": "lửa trại",
+      "file": "Unit 20.xlsx",
+      "cell": "A13",
+      "entries": [
+        [
+          "campsite",
+          "khu cắm trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 20,
+      "text": "at the campsite",
+      "meaning": "",
+      "file": "Unit 20.xlsx",
+      "cell": "A14",
+      "entries": [
+        [
+          "at the campsite",
+          "tại khu cắm trại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "sign",
+      "meaning": "kí hiệu, biển báo",
+      "file": "Unit 17.xlsx",
+      "cell": "E2",
+      "entries": [
+        [
+          "sign",
+          "kí hiệu, biển báo",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "road sign",
+      "meaning": "biển báo giao thông",
+      "file": "Unit 17.xlsx",
+      "cell": "E3",
+      "entries": [
+        [
+          "road sign",
+          "biển báo giao thông",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "stop",
+      "meaning": "dừng lại",
+      "file": "Unit 17.xlsx",
+      "cell": "E4",
+      "entries": [
+        [
+          "stop",
+          "dừng lại",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "go straight",
+      "meaning": "đi thẳng",
+      "file": "Unit 17.xlsx",
+      "cell": "E5",
+      "entries": [
+        [
+          "go straight",
+          "đi thẳng",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "turn right",
+      "meaning": "rẻ phải",
+      "file": "Unit 17.xlsx",
+      "cell": "E6",
+      "entries": [
+        [
+          "turn right",
+          "rẽ phải",
+          ""
+        ]
+      ]
+    },
+    {
+      "unit": 17,
+      "text": "turn left",
+      "meaning": "rẻ trái",
+      "file": "Unit 17.xlsx",
+      "cell": "E7",
+      "entries": [
+        [
+          "turn left",
+          "rẽ trái",
+          ""
+        ]
+      ]
+    }
+  ],
+  "missingUnits": [
+    11,
+    14,
+    15,
+    16
+  ]
+}

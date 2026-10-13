@@ -1,0 +1,982 @@
+{
+  "alley": {
+    "ipa": "/ˈæli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/alley",
+    "headword": "alley",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "blossom": {
+    "ipa": "/ˈblɒsəm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/blossom_1",
+    "headword": "blossom",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "board": {
+    "ipa": "/bɔːd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/board_1",
+    "headword": "board",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "botanical": {
+    "ipa": "/bəˈtænɪkl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/botanical",
+    "headword": "botanical",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "bowling": {
+    "ipa": "/ˈbəʊlɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/bowling",
+    "headword": "bowling",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "brush": {
+    "ipa": "/brʌʃ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/brush_1",
+    "headword": "brush",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "camp": {
+    "ipa": "/kæmp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/camp_1",
+    "headword": "camp",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "care": {
+    "ipa": "/keə(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/care_1",
+    "headword": "care",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "carefully": {
+    "ipa": "/ˈkeəfəli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/carefully",
+    "headword": "carefully",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "cross": {
+    "ipa": "/krɒs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/cross_1",
+    "headword": "cross",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "curly": {
+    "ipa": "/ˈkɜːli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/curly",
+    "headword": "curly",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "departure": {
+    "ipa": "/dɪˈpɑːtʃə(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/departure",
+    "headword": "departure",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "design": {
+    "ipa": "/dɪˈzaɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/design_1",
+    "headword": "design",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "dinner": {
+    "ipa": "/ˈdɪnə(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/dinner",
+    "headword": "dinner",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "dressed": {
+    "ipa": "/drest/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/dressed",
+    "headword": "dressed",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "education": {
+    "ipa": "/ˌedʒuˈkeɪʃn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/education",
+    "headword": "education",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "enough": {
+    "ipa": "/ɪˈnʌf/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/enough_1",
+    "headword": "enough",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "envelope": {
+    "ipa": "/ˈenvələʊp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/envelope",
+    "headword": "envelope",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "example": {
+    "ipa": "/ɪɡˈzɑːmpl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/example",
+    "headword": "example",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "fairy": {
+    "ipa": "/ˈfeəri/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/fairy",
+    "headword": "fairy",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "far": {
+    "ipa": "/fɑː(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/far_1",
+    "headword": "far",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "favourite": {
+    "ipa": "/ˈfeɪvərɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/favourite_1",
+    "headword": "favourite",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "fee": {
+    "ipa": "/fiː/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/fee",
+    "headword": "fee",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "feed": {
+    "ipa": "/fiːd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/feed_1",
+    "headword": "feed",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "fire": {
+    "ipa": "/ˈfaɪə(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/fire_1",
+    "headword": "fire",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "foreign": {
+    "ipa": "/ˈfɒrən/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/foreign",
+    "headword": "foreign",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "from": {
+    "ipa": "/frəm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/from",
+    "headword": "from",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "full": {
+    "ipa": "/fʊl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/full_1",
+    "headword": "full",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "give": {
+    "ipa": "/ɡɪv/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/give_1",
+    "headword": "give",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "great": {
+    "ipa": "/ɡreɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/great_1",
+    "headword": "great",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "greeting": {
+    "ipa": "/ˈɡriːtɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/greeting",
+    "headword": "greeting",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "ground": {
+    "ipa": "/ɡraʊnd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/ground_1",
+    "headword": "ground",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "group": {
+    "ipa": "/ɡruːp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/group_1",
+    "headword": "group",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "grow": {
+    "ipa": "/ɡrəʊ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/grow",
+    "headword": "grow",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "guitar": {
+    "ipa": "/ɡɪˈtɑː(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/guitar",
+    "headword": "guitar",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hard": {
+    "ipa": "/hɑːd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hard_1",
+    "headword": "hard",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "have": {
+    "ipa": "/həv/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/have_1",
+    "headword": "have",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "healthy": {
+    "ipa": "/ˈhelθi/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/healthy",
+    "headword": "healthy",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "help": {
+    "ipa": "/help/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/help_1",
+    "headword": "help",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "helpful": {
+    "ipa": "/ˈhelpfl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/helpful",
+    "headword": "helpful",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hen": {
+    "ipa": "/hen/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hen",
+    "headword": "hen",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hi": {
+    "ipa": "/haɪ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hi",
+    "headword": "hi",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hide-and-seek": {
+    "ipa": "/ˌhaɪd ən ˈsiːk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hide-and-seek",
+    "headword": "hide-and-seek",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hiking": {
+    "ipa": "/ˈhaɪkɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hiking",
+    "headword": "hiking",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hill": {
+    "ipa": "/hɪl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hill",
+    "headword": "hill",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hippo": {
+    "ipa": "/ˈhɪpəʊ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hippo",
+    "headword": "hippo",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "historic": {
+    "ipa": "/hɪˈstɒrɪk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/historic",
+    "headword": "historic",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "history": {
+    "ipa": "/ˈhɪstri/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/history",
+    "headword": "history",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "ho": {
+    "ipa": "/həʊ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/ho_1",
+    "headword": "ho",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hobby": {
+    "ipa": "/ˈhɒbi/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hobby",
+    "headword": "hobby",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "holiday": {
+    "ipa": "/ˈhɒlədeɪ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/holiday_1",
+    "headword": "holiday",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "home": {
+    "ipa": "/həʊm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/home_1",
+    "headword": "home",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "homework": {
+    "ipa": "/ˈhəʊmwɜːk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/homework",
+    "headword": "homework",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hop": {
+    "ipa": "/hɒp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hop_1",
+    "headword": "hop",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hopscotch": {
+    "ipa": "/ˈhɒpskɒtʃ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hopscotch",
+    "headword": "hopscotch",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "horse": {
+    "ipa": "/hɔːs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/horse_1",
+    "headword": "horse",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hospital": {
+    "ipa": "/ˈhɒspɪtl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hospital",
+    "headword": "hospital",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hot": {
+    "ipa": "/hɒt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hot_1",
+    "headword": "hot",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "house": {
+    "ipa": "/haʊs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/house_1",
+    "headword": "house",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "housework": {
+    "ipa": "/ˈhaʊswɜːk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/housework",
+    "headword": "housework",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "humid": {
+    "ipa": "/ˈhjuːmɪd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/humid",
+    "headword": "humid",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "hundred": {
+    "ipa": "/ˈhʌndrəd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/hundred",
+    "headword": "hundred",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "in": {
+    "ipa": "/ɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/in_1",
+    "headword": "in",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "india": {
+    "ipa": "/ˈɪndiə/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/india",
+    "headword": "India",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "indian": {
+    "ipa": "/ˈɪndiən/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/indian_1",
+    "headword": "Indian",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "information": {
+    "ipa": "/ˌɪnfəˈmeɪʃn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/information",
+    "headword": "information",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "inside": {
+    "ipa": "/ˌɪnˈsaɪd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/inside_1",
+    "headword": "inside",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "interesting": {
+    "ipa": "/ˈɪntrəstɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/interesting",
+    "headword": "interesting",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "internet": {
+    "ipa": "/ˈɪntənet/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/internet",
+    "headword": "internet",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "introduce": {
+    "ipa": "/ˌɪntrəˈdjuːs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/introduce",
+    "headword": "introduce",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "invitation": {
+    "ipa": "/ˌɪnvɪˈteɪʃn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/invitation",
+    "headword": "invitation",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "invite": {
+    "ipa": "/ɪnˈvaɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/invite_1",
+    "headword": "invite",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "island": {
+    "ipa": "/ˈaɪlənd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/island",
+    "headword": "island",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "it": {
+    "ipa": "/ɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/it_1",
+    "headword": "it",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jam": {
+    "ipa": "/dʒæm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jam_1",
+    "headword": "jam",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "january": {
+    "ipa": "/ˈdʒænjuəri/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/january",
+    "headword": "January",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "japan": {
+    "ipa": "/dʒəˈpæn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/japan",
+    "headword": "Japan",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "japanese": {
+    "ipa": "/ˌdʒæpəˈniːz/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/japanese",
+    "headword": "Japanese",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jeans": {
+    "ipa": "/dʒiːnz/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jeans",
+    "headword": "jeans",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jelly": {
+    "ipa": "/ˈdʒeli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jelly",
+    "headword": "jelly",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "job": {
+    "ipa": "/dʒɒb/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/job_1",
+    "headword": "job",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jog": {
+    "ipa": "/dʒɒɡ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jog_1",
+    "headword": "jog",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "join": {
+    "ipa": "/dʒɔɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/join_1",
+    "headword": "join",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "journey": {
+    "ipa": "/ˈdʒɜːni/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/journey_1",
+    "headword": "journey",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "judo": {
+    "ipa": "/ˈdʒuːdəʊ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/judo",
+    "headword": "judo",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "juice": {
+    "ipa": "/dʒuːs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/juice_1",
+    "headword": "juice",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "july": {
+    "ipa": "/dʒuˈlaɪ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/july",
+    "headword": "July",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jump": {
+    "ipa": "/dʒʌmp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jump_1",
+    "headword": "jump",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jump rope": {
+    "ipa": "/ˌdʒʌmp ˈrəʊp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jump-rope_1",
+    "headword": "jump rope",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "jumper": {
+    "ipa": "/ˈdʒʌmpə(r)/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/jumper",
+    "headword": "jumper",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "june": {
+    "ipa": "/dʒuːn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/june",
+    "headword": "June",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kick": {
+    "ipa": "/kɪk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kick_1",
+    "headword": "kick",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kind": {
+    "ipa": "/kaɪnd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kind_1",
+    "headword": "kind",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kitchen": {
+    "ipa": "/ˈkɪtʃɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kitchen",
+    "headword": "kitchen",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kite": {
+    "ipa": "/kaɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kite_1",
+    "headword": "kite",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kitten": {
+    "ipa": "/ˈkɪtn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kitten",
+    "headword": "kitten",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "knee": {
+    "ipa": "/niː/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/knee_1",
+    "headword": "knee",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "kumquat": {
+    "ipa": "/ˈkʌmkwɒt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/kumquat",
+    "headword": "kumquat",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lake": {
+    "ipa": "/leɪk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lake",
+    "headword": "lake",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lamp": {
+    "ipa": "/læmp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lamp_1",
+    "headword": "lamp",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lane": {
+    "ipa": "/leɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lane",
+    "headword": "lane",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "leaf": {
+    "ipa": "/liːf/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/leaf_1",
+    "headword": "leaf",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "left": {
+    "ipa": "/left/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/left_1",
+    "headword": "left",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "leg": {
+    "ipa": "/leɡ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/leg_1",
+    "headword": "leg",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lemonade": {
+    "ipa": "/ˌleməˈneɪd/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lemonade",
+    "headword": "lemonade",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lesson": {
+    "ipa": "/ˈlesn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lesson",
+    "headword": "lesson",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "library": {
+    "ipa": "/ˈlaɪbrəri/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/library",
+    "headword": "library",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lifestyle": {
+    "ipa": "/ˈlaɪfstaɪl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lifestyle",
+    "headword": "lifestyle",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lift": {
+    "ipa": "/lɪft/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lift_1",
+    "headword": "lift",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "line": {
+    "ipa": "/laɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/line_1",
+    "headword": "line",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lion": {
+    "ipa": "/ˈlaɪən/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lion",
+    "headword": "lion",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "listen": {
+    "ipa": "/ˈlɪsn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/listen_1",
+    "headword": "listen",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "living": {
+    "ipa": "/ˈlɪvɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/living_1",
+    "headword": "living",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "living room": {
+    "ipa": "/ˈlɪvɪŋ ruːm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/living-room",
+    "headword": "living room",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "london": {
+    "ipa": "/ˈlʌndən/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/london",
+    "headword": "London",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "long": {
+    "ipa": "/lɒŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/long_1",
+    "headword": "long",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "look": {
+    "ipa": "/lʊk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/look_1",
+    "headword": "look",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "loudly": {
+    "ipa": "/ˈlaʊdli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/loudly",
+    "headword": "loudly",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lucky": {
+    "ipa": "/ˈlʌki/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lucky",
+    "headword": "lucky",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lucy": {
+    "ipa": "/ˈluːsi/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lucy",
+    "headword": "Lucy",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lunch": {
+    "ipa": "/lʌntʃ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lunch_1",
+    "headword": "lunch",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "lunchtime": {
+    "ipa": "/ˈlʌntʃtaɪm/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/lunchtime",
+    "headword": "lunchtime",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "main": {
+    "ipa": "/meɪn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/main_1",
+    "headword": "main",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "make": {
+    "ipa": "/meɪk/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/make_1",
+    "headword": "make",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "malaysia": {
+    "ipa": "/məˈleɪʒə/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/malaysia",
+    "headword": "Malaysia",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "malaysian": {
+    "ipa": "/məˈleɪʒn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/malaysian",
+    "headword": "Malaysian",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "mango": {
+    "ipa": "/ˈmæŋɡəʊ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/mango",
+    "headword": "mango",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "many": {
+    "ipa": "/ˈmeni/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/many",
+    "headword": "many",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "map": {
+    "ipa": "/mæp/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/map_1",
+    "headword": "map",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "march": {
+    "ipa": "/mɑːtʃ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/march_1",
+    "headword": "march",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "market": {
+    "ipa": "/ˈmɑːkɪt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/market_1",
+    "headword": "market",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "maths": {
+    "ipa": "/mæθs/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/maths",
+    "headword": "maths",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "may": {
+    "ipa": "/meɪ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/may_1",
+    "headword": "may",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "means": {
+    "ipa": "/miːnz/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/means",
+    "headword": "means",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "meat": {
+    "ipa": "/miːt/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/meat",
+    "headword": "meat",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "medal": {
+    "ipa": "/ˈmedl/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/medal_1",
+    "headword": "medal",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "medicine": {
+    "ipa": "/ˈmedsn/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/medicine",
+    "headword": "medicine",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "meeting": {
+    "ipa": "/ˈmiːtɪŋ/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/meeting",
+    "headword": "meeting",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "menu": {
+    "ipa": "/ˈmenjuː/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/menu",
+    "headword": "menu",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  },
+  "merrily": {
+    "ipa": "/ˈmerəli/",
+    "source": "https://www.oxfordlearnersdictionaries.com/definition/english/merrily",
+    "headword": "merrily",
+    "provenance": "Oxford British headword IPA fetched directly",
+    "verifiedAt": "2026-10-12"
+  }
+}
