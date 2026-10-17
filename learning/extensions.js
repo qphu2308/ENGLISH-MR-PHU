@@ -334,7 +334,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một chiếc xích đu."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "2": {
       "topic": "At the table",
@@ -372,7 +372,7 @@ const EXTENSIONS = {
           "Đây là một chiếc thìa."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "3": {
       "topic": "Fruit at the market",
@@ -410,7 +410,7 @@ const EXTENSIONS = {
           "Em thích chuối."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "4": {
       "topic": "Bedroom things",
@@ -448,7 +448,7 @@ const EXTENSIONS = {
           "Đây là giường của em."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "5": {
       "topic": "Food and drinks",
@@ -486,7 +486,7 @@ const EXTENSIONS = {
           "Em thích cơm."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "6": {
       "topic": "My school bag",
@@ -524,7 +524,7 @@ const EXTENSIONS = {
           "Em có một chiếc thước kẻ."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "7": {
       "topic": "In a garden",
@@ -562,7 +562,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một con bướm."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "8": {
       "topic": "More body parts",
@@ -600,7 +600,7 @@ const EXTENSIONS = {
           "Hãy chạm vào cánh tay của em."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "9": {
       "topic": "Things in a shop",
@@ -638,7 +638,7 @@ const EXTENSIONS = {
           "Đây là một chiếc giỏ."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "10": {
       "topic": "More zoo animals",
@@ -676,7 +676,7 @@ const EXTENSIONS = {
           "Hãy nhìn con voi."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "11": {
       "topic": "On the road",
@@ -714,7 +714,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một chiếc taxi."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "12": {
       "topic": "Around the lake",
@@ -752,7 +752,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một chiếc thuyền."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "13": {
       "topic": "Canteen food",
@@ -790,7 +790,7 @@ const EXTENSIONS = {
           "Em thích súp."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "14": {
       "topic": "More toys",
@@ -828,7 +828,7 @@ const EXTENSIONS = {
           "Em có một người máy đồ chơi."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "15": {
       "topic": "Let’s move",
@@ -866,7 +866,7 @@ const EXTENSIONS = {
           "Em có thể nhảy."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "16": {
       "topic": "Things at home",
@@ -904,7 +904,7 @@ const EXTENSIONS = {
           "Đây là một chiếc ghế."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     }
   },
   "2": {
@@ -944,7 +944,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một quả bóng bay."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "2": {
       "topic": "Backyard fun",
@@ -982,7 +982,7 @@ const EXTENSIONS = {
           "Em có thể nhảy dây."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "3": {
       "topic": "At the beach",
@@ -1020,7 +1020,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một lâu đài cát."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "4": {
       "topic": "Country places",
@@ -1058,7 +1058,7 @@ const EXTENSIONS = {
           "Em nhìn thấy một cây cầu."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "5": {
       "topic": "More shapes",
@@ -1096,7 +1096,7 @@ const EXTENSIONS = {
           "Hãy vẽ một hình tròn."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "6": {
       "topic": "Farm animals",
@@ -1134,7 +1134,7 @@ const EXTENSIONS = {
           "Có một con bò."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "7": {
       "topic": "Kitchen things",
@@ -1172,7 +1172,7 @@ const EXTENSIONS = {
           "Chiếc thìa ở đâu?"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "8": {
       "topic": "Around the village",
@@ -1210,7 +1210,7 @@ const EXTENSIONS = {
           "Có một khu chợ."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "9": {
       "topic": "Shopping for food",
@@ -1248,7 +1248,7 @@ const EXTENSIONS = {
           "Em muốn một ít bánh mì."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "10": {
       "topic": "More zoo animals",
@@ -1286,7 +1286,7 @@ const EXTENSIONS = {
           "Hãy nhìn con hươu cao cổ."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "11": {
       "topic": "Playground actions",
@@ -1324,7 +1324,7 @@ const EXTENSIONS = {
           "Bạn ấy đang nhảy."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "12": {
       "topic": "At a café",
@@ -1362,7 +1362,7 @@ const EXTENSIONS = {
           "Thực đơn ở đâu?"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "13": {
       "topic": "Counting beyond twenty",
@@ -1400,7 +1400,7 @@ const EXTENSIONS = {
           "Em có thể đếm đến ba mươi."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "14": {
       "topic": "More family members",
@@ -1438,7 +1438,7 @@ const EXTENSIONS = {
           "Đây là cô hoặc dì của em."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "15": {
       "topic": "More clothes",
@@ -1476,7 +1476,7 @@ const EXTENSIONS = {
           "Em muốn một chiếc váy liền."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "16": {
       "topic": "Camping things",
@@ -1514,7 +1514,7 @@ const EXTENSIONS = {
           "Em có một chiếc đèn pin."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     }
   },
   "3": {
@@ -1554,7 +1554,7 @@ const EXTENSIONS = {
           "Chào buổi sáng!"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "2": {
       "topic": "Getting to know you",
@@ -1592,7 +1592,7 @@ const EXTENSIONS = {
           "Biệt danh của em là Ben."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "3": {
       "topic": "Being a good friend",
@@ -1630,7 +1630,7 @@ const EXTENSIONS = {
           "Bạn của em tốt bụng."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "4": {
       "topic": "More body parts",
@@ -1668,7 +1668,7 @@ const EXTENSIONS = {
           "Hãy chạm vào vai của em."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "5": {
       "topic": "More hobbies",
@@ -1706,7 +1706,7 @@ const EXTENSIONS = {
           "Em thích đọc sách."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "6": {
       "topic": "More school places",
@@ -1744,7 +1744,7 @@ const EXTENSIONS = {
           "Đây có phải căng tin của chúng mình không?"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "7": {
       "topic": "Helpful classroom phrases",
@@ -1782,7 +1782,7 @@ const EXTENSIONS = {
           "Hãy giơ tay."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "8": {
       "topic": "More school supplies",
@@ -1820,7 +1820,7 @@ const EXTENSIONS = {
           "Em có một chiếc bút sáp."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "9": {
       "topic": "More colours",
@@ -1848,7 +1848,7 @@ const EXTENSIONS = {
           "Cặp sách của em màu tím."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "10": {
       "topic": "More break-time games",
@@ -1886,7 +1886,7 @@ const EXTENSIONS = {
           "Chúng mình cùng chơi trốn tìm nhé."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "11": {
       "topic": "My wider family",
@@ -1924,7 +1924,7 @@ const EXTENSIONS = {
           "Đây là anh chị em họ của em."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "12": {
       "topic": "Jobs and workplaces",
@@ -1980,7 +1980,7 @@ const EXTENSIONS = {
           "Cô ấy làm việc ở một nông trại."
         ]
       ],
-      "note": "Ghép nghề nghiệp với nơi làm việc. Bảng ghi những nơi thường gặp; một nghề có thể làm ở nhiều nơi. Dùng in a hospital, at a fire station, on a farm và at home. Extension chỉ gồm từ mới ngoài danh sách chính của Unit.",
+      "note": "Match jobs to common workplaces. A person may work in different places. Say in a hospital, at a fire station, on a farm or at home. These words are also included in Unit review.",
       "table": "jobs"
     },
     "13": {
@@ -2019,7 +2019,7 @@ const EXTENSIONS = {
           "Nhà em có một ban công."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "14": {
       "topic": "Bedroom objects",
@@ -2057,7 +2057,7 @@ const EXTENSIONS = {
           "Trong phòng ngủ của em có một tủ quần áo."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "15": {
       "topic": "At the table",
@@ -2095,7 +2095,7 @@ const EXTENSIONS = {
           "Em dùng đũa."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "16": {
       "topic": "Caring for pets",
@@ -2128,7 +2128,7 @@ const EXTENSIONS = {
           "Em có một chú chuột hamster."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "17": {
       "topic": "More toys",
@@ -2166,7 +2166,7 @@ const EXTENSIONS = {
           "Em có các khối xếp hình."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "18": {
       "topic": "More things we are doing",
@@ -2204,7 +2204,7 @@ const EXTENSIONS = {
           "Bạn ấy đang tưới cây."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "19": {
       "topic": "Outdoor fun",
@@ -2242,7 +2242,7 @@ const EXTENSIONS = {
           "Em thích cắm trại."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "20": {
       "topic": "More zoo animals",
@@ -2275,7 +2275,7 @@ const EXTENSIONS = {
           "Em có nhìn thấy con hươu cao cổ không?"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     }
   },
   "4": {
@@ -2325,7 +2325,7 @@ const EXTENSIONS = {
           "Bạn của em đến từ Canada."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. France, China, India và Canada là tên quốc gia; French và Chinese ở đây là tên ngôn ngữ. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Choose two or three new words, listen, repeat and make your own sentences. France, China, India and Canada are countries. French and Chinese here are languages."
     },
     "2": {
       "topic": "My daily routine",
@@ -2353,7 +2353,7 @@ const EXTENSIONS = {
           "Em đánh răng lúc bảy giờ."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "3": {
       "topic": "More weekly activities",
@@ -2391,7 +2391,7 @@ const EXTENSIONS = {
           "Em thăm ông bà vào các ngày Chủ nhật."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "4": {
       "topic": "Birthday dates: ordinal numbers",
@@ -2584,7 +2584,7 @@ const EXTENSIONS = {
           "Sinh nhật của em là ngày hai mươi mốt tháng Năm."
         ]
       ],
-      "note": "Số đếm cho biết số lượng; số thứ tự cho biết vị trí hoặc ngày. Học từng nhóm: 1–10, 11–20, rồi 21–31. Nhớ 1st, 2nd, 3rd nhưng 11th, 12th, 13th; 20th là twentieth, 30th là thirtieth. Extension chỉ gồm từ mới ngoài danh sách chính của Unit.",
+      "note": "Cardinal numbers tell us how many. Ordinal numbers tell us a position or date. Learn 1–10, 11–20, then 21–31. Remember 1st, 2nd, 3rd, but 11th, 12th, 13th; 20th is twentieth and 30th is thirtieth.",
       "table": "ordinals"
     },
     "5": {
@@ -2623,7 +2623,7 @@ const EXTENSIONS = {
           "Em có thể gấp máy bay giấy."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "6": {
       "topic": "More school facilities",
@@ -2661,7 +2661,7 @@ const EXTENSIONS = {
           "Trường của chúng em có một nhà thể thao."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "7": {
       "topic": "Reading a timetable",
@@ -2694,7 +2694,7 @@ const EXTENSIONS = {
           "Chúng em có tiết âm nhạc vào thứ Hai."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "8": {
       "topic": "Talking about subjects",
@@ -2732,7 +2732,7 @@ const EXTENSIONS = {
           "Em thích khoa học vì môn này thú vị."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "9": {
       "topic": "Sports day: dates and places",
@@ -2770,7 +2770,7 @@ const EXTENSIONS = {
           "Ngày hội thể thao là ngày ba tháng Sáu."
         ]
       ],
-      "note": "Từ mở rộng theo chủ đề thể thao. Danh sách 12 tháng nằm trong phần từ vựng chính."
+      "note": "Explore extra sports words. Find all twelve months in the main Unit vocabulary."
     },
     "10": {
       "topic": "Holiday activities",
@@ -2808,7 +2808,7 @@ const EXTENSIONS = {
           "Em muốn thăm một bảo tàng."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "11": {
       "topic": "Around my home",
@@ -2841,7 +2841,7 @@ const EXTENSIONS = {
           "Khu dân cư của em yên tĩnh."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "12": {
       "topic": "Jobs and workplaces",
@@ -2897,7 +2897,7 @@ const EXTENSIONS = {
           "Cô ấy làm việc ở một nông trại."
         ]
       ],
-      "note": "Ghép nghề nghiệp với nơi làm việc. Bảng ghi những nơi thường gặp; một nghề có thể làm ở nhiều nơi. Dùng in a hospital, at a fire station, on a farm và at home. Extension chỉ gồm từ mới ngoài danh sách chính của Unit.",
+      "note": "Match jobs to common workplaces. A person may work in different places. Say in a hospital, at a fire station, on a farm or at home. These words are also included in Unit review.",
       "table": "jobs"
     },
     "13": {
@@ -2926,7 +2926,7 @@ const EXTENSIONS = {
           "Cô ấy có mái tóc xoăn."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "14": {
       "topic": "Helping at home",
@@ -2964,7 +2964,7 @@ const EXTENSIONS = {
           "Em dọn giường vào buổi sáng."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "15": {
       "topic": "Weekend plans",
@@ -3002,7 +3002,7 @@ const EXTENSIONS = {
           "Chúng em đến bảo tàng vào cuối tuần."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "16": {
       "topic": "More weather words",
@@ -3040,7 +3040,7 @@ const EXTENSIONS = {
           "Hôm nay có sương mù."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "17": {
       "topic": "Finding your way",
@@ -3078,7 +3078,7 @@ const EXTENSIONS = {
           "Đi thẳng đến chỗ đèn giao thông."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "18": {
       "topic": "Shopping politely",
@@ -3116,7 +3116,7 @@ const EXTENSIONS = {
           "Chiếc áo phông này cỡ bao nhiêu?"
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "19": {
       "topic": "Animal actions",
@@ -3154,7 +3154,7 @@ const EXTENSIONS = {
           "Chim có thể bay."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "20": {
       "topic": "Camping safely",
@@ -3192,7 +3192,7 @@ const EXTENSIONS = {
           "Hãy nhớ mang theo một chiếc đèn pin."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     }
   },
   "5": {
@@ -3232,7 +3232,7 @@ const EXTENSIONS = {
           "Môn thể thao yêu thích của em là cầu lông."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "2": {
       "topic": "More parts of a home",
@@ -3270,7 +3270,7 @@ const EXTENSIONS = {
           "Tòa nhà của em có một thang máy."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "3": {
       "topic": "More nationalities",
@@ -3303,7 +3303,7 @@ const EXTENSIONS = {
           "Bạn của em là người Canada."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "4": {
       "topic": "More free-time activities",
@@ -3331,7 +3331,7 @@ const EXTENSIONS = {
           "Em thỉnh thoảng làm mô hình sau giờ học."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "5": {
       "topic": "Future jobs and workplaces",
@@ -3387,7 +3387,7 @@ const EXTENSIONS = {
           "Cô ấy làm việc ở một nông trại."
         ]
       ],
-      "note": "Ghép nghề nghiệp với nơi làm việc. Bảng ghi những nơi thường gặp; một nghề có thể làm ở nhiều nơi. Dùng in a hospital, at a fire station, on a farm và at home. Extension chỉ gồm từ mới ngoài danh sách chính của Unit.",
+      "note": "Match jobs to common workplaces. A person may work in different places. Say in a hospital, at a fire station, on a farm or at home. These words are also included in Unit review.",
       "table": "jobs"
     },
     "6": {
@@ -3581,7 +3581,7 @@ const EXTENSIONS = {
           "Phòng âm nhạc ở tầng thứ tư."
         ]
       ],
-      "note": "Số đếm cho biết số lượng; số thứ tự cho biết vị trí hoặc ngày. Học từng nhóm: 1–10, 11–20, rồi 21–31. Nhớ 1st, 2nd, 3rd nhưng 11th, 12th, 13th; 20th là twentieth, 30th là thirtieth. Theo cách gọi Anh-Anh, ground floor là tầng trệt, first floor là tầng ngay phía trên tầng trệt. Extension chỉ gồm từ mới ngoài danh sách chính của Unit.",
+      "note": "Cardinal numbers tell us how many. Ordinal numbers tell us a position or date. Learn 1–10, 11–20, then 21–31. Remember 1st, 2nd, 3rd, but 11th, 12th, 13th; 20th is twentieth and 30th is thirtieth. In British English, the ground floor is at street level; the first floor is just above it.",
       "table": "ordinals"
     },
     "7": {
@@ -3620,7 +3620,7 @@ const EXTENSIONS = {
           "Chúng em thích chia sẻ ý tưởng."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "8": {
       "topic": "More position words",
@@ -3658,7 +3658,7 @@ const EXTENSIONS = {
           "Cặp sách ở cạnh bàn."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "9": {
       "topic": "More places to visit",
@@ -3696,7 +3696,7 @@ const EXTENSIONS = {
           "Chúng em muốn đến thăm vườn thực vật."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "10": {
       "topic": "Planning a school trip",
@@ -3734,7 +3734,7 @@ const EXTENSIONS = {
           "Điểm tập trung của chúng em là cổng trường."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "11": {
       "topic": "Family adventures",
@@ -3772,7 +3772,7 @@ const EXTENSIONS = {
           "Gia đình em thích đi dã ngoại."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "12": {
       "topic": "More Tet traditions",
@@ -3810,7 +3810,7 @@ const EXTENSIONS = {
           "Vào dịp Tết, chúng em thăm họ hàng."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "13": {
       "topic": "Celebrations around us",
@@ -3848,7 +3848,7 @@ const EXTENSIONS = {
           "Em làm một tấm thiệp chúc mừng cho thầy cô."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "14": {
       "topic": "Healthy everyday habits",
@@ -3886,7 +3886,7 @@ const EXTENSIONS = {
           "Em uống nước mỗi ngày."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "15": {
       "topic": "Explaining how I feel",
@@ -3919,7 +3919,7 @@ const EXTENSIONS = {
           "Em bị ho."
         ]
       ],
-      "note": "Dùng các từ để nói cho người lớn biết em cảm thấy thế nào. Nếu em không khỏe, hãy báo cho bố mẹ hoặc thầy cô. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Use these words to tell an adult how you feel. If you feel unwell, tell a parent or teacher. These words are also included in Unit review."
     },
     "16": {
       "topic": "Dressing for the seasons",
@@ -3957,7 +3957,7 @@ const EXTENSIONS = {
           "Em quàng khăn khi trời lạnh."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "17": {
       "topic": "Talking about a story",
@@ -3995,7 +3995,7 @@ const EXTENSIONS = {
           "Nhân vật yêu thích của em là Bạch Tuyết."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "18": {
       "topic": "More ways to travel",
@@ -4033,7 +4033,7 @@ const EXTENSIONS = {
           "Chúng em di chuyển bằng tàu hỏa."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "19": {
       "topic": "Describing places",
@@ -4071,7 +4071,7 @@ const EXTENSIONS = {
           "Nơi này có ý nghĩa lịch sử."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     },
     "20": {
       "topic": "Getting ready for a holiday",
@@ -4109,7 +4109,7 @@ const EXTENSIONS = {
           "Em xếp một chiếc mũ chống nắng vào hành lý."
         ]
       ],
-      "note": "Học thêm theo chủ đề của Unit. Chọn 2–3 từ em thích, nghe, đọc lại và dùng khung câu để tự đặt câu. Extension chỉ gồm từ mới ngoài danh sách chính của Unit."
+      "note": "Explore more words from this topic. Choose two or three words, listen, repeat and make your own sentences. These words are also included in Unit review."
     }
   }
 };

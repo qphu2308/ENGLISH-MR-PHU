@@ -32,7 +32,7 @@ function frameGrammarNote(en,spec){
  if(/doing|\b(?:i'm|he's|she's|it's|she is|he is|the boy is) __/.test(t)&&/ing(?:\s|$)/.test(first)||/doing/.test(t))return 'Am/is/are + động từ thêm -ing diễn tả việc đang làm. Hỏi: What + am/is/are + chủ ngữ + doing? Ví dụ: swim → swimming, run → running.';
  if(/__'s running|having/.test(t))return '’s ở đây viết tắt của is. Dùng is + động từ thêm -ing để nói việc đang làm: running, having.';
  if(/let's/.test(t))return 'Let’s + động từ nguyên mẫu để rủ cùng làm gì. Let’s go to + địa điểm; không thêm -s hoặc -ing ngay sau Let’s.';
- if(/^touch|^point to|^look at|^pass|^draw|^please|^go straight|^remember to/.test(t))return 'Câu yêu cầu bắt đầu bằng động từ nguyên mẫu (touch, look, pass…). Sau your/the là danh từ; thêm please để lịch sự hơn.';
+ if(/^touch|^point to|^look at|^pass|^draw|^please|^open|^close|^stand up|^sit down|^go straight|^remember to/.test(t))return 'Câu yêu cầu bắt đầu bằng động từ nguyên mẫu: open (mở), close (đóng), stand up (đứng lên), sit down (ngồi xuống). Không thêm to, -s hoặc -ing vào động từ ở đầu câu; thêm please để lịch sự hơn.';
  if(/there are|there's|there is|is there/.test(t))return 'There is + a/an + danh từ số ít; There are + danh từ số nhiều. Hỏi: Is there…? / Are there…? để hỏi có vật hoặc người nào đó không.';
  if(/\bon the __ floor/.test(t))return 'Vị trí tầng dùng on the + số thứ tự + floor (on the first floor). Theo Anh-Anh, ground floor là tầng trệt.';
  if(/\blikes? to\b/.test(t))return 'Like/likes to + động từ nguyên mẫu diễn tả thích làm gì. Dùng like với we và likes với my family/he/she.';
