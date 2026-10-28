@@ -246,3 +246,21 @@ header{background:#ffffffd9;border-bottom:3px solid transparent;border-image:lin
 @media(max-width:1000px){.lesson-banner{gap:16px;padding:20px;min-height:230px}.unit-banner-copy{padding:18px}.lesson-banner h1{font-size:30px}.lesson-banner .lesson-info span:last-child{display:none}}
 @media(max-width:600px){.lesson-banner{grid-template-columns:minmax(0,1.35fr) minmax(0,.9fr);gap:10px;padding:17px 12px;min-height:225px;border-radius:22px}.unit-banner-copy{padding:15px 12px;border-radius:17px}.lesson-banner h1{font-size:25px;line-height:1.16;letter-spacing:-.5px;margin:10px 0}.lesson-banner .eyebrow{font-size:9px;letter-spacing:.3px;padding:4px 6px}.lesson-banner p{font-size:11px}.lesson-banner .lesson-info span{font-size:10px;line-height:1.5}.unit-theme-scene{padding:4px;border-radius:22px;transform:rotate(2deg)}.unit-theme-scene img{border-radius:15px}.lesson-banner .letter-tile{right:9px;bottom:10px;min-width:50px;padding:4px 7px}.lesson-banner .letter-tile strong{font-size:17px}.lesson-banner .letter-tile span{font-size:9px}.question-listen{font-size:14px;padding:10px 12px}}
 @media(max-width:360px){.lesson-banner{grid-template-columns:minmax(0,1.35fr) minmax(0,.8fr);padding:15px 9px;gap:7px}.lesson-banner h1{font-size:22px}.unit-banner-copy{padding:13px 10px}.lesson-banner p{font-size:10px}}
+
+
+/* Unit Review: short speaking outline */
+.talk-outline{margin:28px 0;padding:24px;border:1px solid #cbdff2;border-radius:18px;background:#f8fcff}
+.talk-outline .section-head{margin:0 0 16px}
+.talk-lines{display:grid;gap:12px}
+.talk-line{display:grid;grid-template-columns:34px minmax(0,1fr);gap:12px;align-items:start;padding:12px;background:#fff;border:1px solid #dbe7f4;border-radius:12px}
+.talk-number{display:flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#e6f2ff;color:#245b9e;font-weight:700}
+.talk-line-content{display:flex;align-items:center;flex-wrap:wrap;gap:6px;min-width:0;line-height:2}
+.talk-static{font-weight:600}
+.talk-input{width:clamp(130px,24%,220px);min-width:115px;max-width:100%;padding:8px 10px;border:1px solid #a9c6e6;border-radius:8px;font:inherit;color:var(--ink);background:#fbfdff}
+.talk-input:focus{outline:2px solid #73a9e8;outline-offset:1px}
+.talk-preview-panel{margin-top:18px;padding:18px;background:#fff;border:1px solid #dbe7f4;border-radius:14px}
+.talk-preview-panel h3{margin:0 0 10px;font-size:18px}
+#talkPreview p{margin:6px 0;line-height:1.65}
+.talk-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.talk-status{font-size:14px;color:var(--muted);margin:10px 0 0}
+@media(max-width:750px){.talk-outline{padding:16px}.talk-line{grid-template-columns:28px minmax(0,1fr);gap:8px;padding:10px}.talk-input{width:min(100%,180px);min-width:110px}}
