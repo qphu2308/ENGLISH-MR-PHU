@@ -18,7 +18,53 @@ function extension(){return EXTENSIONS[grade]?.[current+1]}
 function reviewWords(u,pack){const seen=new Set();return [...u.words,...(pack?.words||[])].filter(([en])=>{const key=en.trim().toLowerCase().replace(/\s+/g,' ');if(seen.has(key))return false;seen.add(key);return true})}
 function lesson(){const u=unit();const m=LESSON_MAP[grade]?.[current+1]?.[activeLesson];if(!activeLesson)return {...u,words:reviewWords(u,extension())};if(!m?.available)return u;return {...u,words:m.words.map(i=>u.words[i]),patterns:m.patterns.map(i=>u.patterns[i]),examples:m.examples.map(i=>u.examples[i]),source:m.source}}
 function lessonLabel(){return activeLesson?'Lesson '+activeLesson:'Unit review'}
-function renderLessonMenu(){const list=el('lessonTabs');list.replaceChildren();for(let l=1;l<=3;l++){const m=LESSON_MAP[grade]?.[current+1]?.[l],b=node('button',activeLesson===l?'active':'','Lesson '+l);b.type='button';b.disabled=!m?.available;b.setAttribute('aria-pressed',String(activeLesson===l));if(m?.pages)b.append(node('small',null,'Pages '+m.pages));b.title=m?.available?'Open Lesson '+l:'Content is being checked against the book';b.onclick=()=>selectUnit(current,l);list.append(b)}const review=node('button',activeLesson===0?'active':'','Unit review');review.type='button';review.setAttribute('aria-pressed',String(!activeLesson));review.onclick=()=>selectUnit(current,0);list.append(review);el('lessonNote').textContent=activeLesson?'Learn and practise the words identified in this lesson.':'Review all words from this Unit. Listen, read and play to remember them.';el('lessonTabs').hidden=current>=units().length;const hasWords=lesson().words.length>0,hasExamples=lesson().examples.length>0;for(const o of el('quizMode').children)o.disabled=['sentence','gap','order'].includes(o.value)?!hasExamples:!hasWords;if((['sentence','gap','order'].includes(el('quizMode').value)?!hasExamples:!hasWords))el('quizMode').value=hasWords?'meaning':'sentence';el('vocabularySection').hidden=!hasWords;el('speakingSection').hidden=!hasExamples&&!lesson().patterns.length;el('practice').hidden=!hasWords&&!hasExamples;el('games').hidden=!hasWords;}
+
+function renderTalkOutline(){
+ const host=el('talkLines'),preview=el('talkPreview'),status=el('talkStatus'),listen=el('talkListen');
+ if(!host||!preview||!status||!listen)return;
+ host.replaceChildren();
+ const fields={};
+ function addInput(key,placeholder,label){
+  const input=node('input','talk-input');input.type='text';input.placeholder=placeholder;input.autocomplete='off';input.setAttribute('aria-label',label);
+  fields[key]=input;input.addEventListener('input',updatePreview);return input;
+ }
+ function addFrame(number,prefix,key,placeholder,suffix){
+  const row=node('div','talk-line'),n=node('span','talk-number',String(number)),content=node('div','talk-line-content');
+  n.setAttribute('aria-hidden','true');content.append(node('span','talk-static',prefix),addInput(key,placeholder,prefix.trim()+' blank'),node('span','talk-static',suffix||'.'));
+  row.append(n,content);host.append(row);
+ }
+ function addFavouriteFrame(){
+  const row=node('div','talk-line'),n=node('span','talk-number','6'),content=node('div','talk-line-content');
+  n.setAttribute('aria-hidden','true');content.append(node('span','talk-static','My favourite '),addInput('favouriteType','e.g. subject / sport','Favourite type'),node('span','talk-static',' is '),addInput('favouriteItem','e.g. English / football','Favourite item'),node('span','talk-static','.'));
+  row.append(n,content);host.append(row);
+ }
+ addFrame(2,'Today, I want to talk about ','topic','e.g. my school','.');
+ addFrame(3,'This is ','this','e.g. a ball / my classroom','.');
+ addFrame(4,'I can see ','see','e.g. two books / a cat','.');
+ addFrame(5,'I like ','like','e.g. English / cats','.');
+ addFavouriteFrame();
+ function updatePreview(){
+  const optional=[];
+  if(fields.topic.value.trim())optional.push('Today, I want to talk about '+fields.topic.value.trim().replace(/[.!?]+$/,'')+'.');
+  if(fields.this.value.trim())optional.push('This is '+fields.this.value.trim().replace(/[.!?]+$/,'')+'.');
+  if(fields.see.value.trim())optional.push('I can see '+fields.see.value.trim().replace(/[.!?]+$/,'')+'.');
+  if(fields.like.value.trim())optional.push('I like '+fields.like.value.trim().replace(/[.!?]+$/,'')+'.');
+  if(fields.favouriteType.value.trim()&&fields.favouriteItem.value.trim())optional.push('My favourite '+fields.favouriteType.value.trim().replace(/[.!?]+$/,'')+' is '+fields.favouriteItem.value.trim().replace(/[.!?]+$/,'')+'.');
+  const sentences=['Hello, everyone!',...optional,'Thank you for listening!'];
+  preview.replaceChildren(...sentences.map(sentence=>node('p',null,sentence)));
+  const count=sentences.length;
+  listen.disabled=optional.length<3;
+  status.textContent=optional.length<3
+   ? 'Complete '+(3-optional.length)+' more sentence frame'+(3-optional.length===1?'':'s')+' to make a 5–7 sentence talk.'
+   : 'Great! Your talk has '+count+' sentences. Listen and practise saying it aloud.';
+  listen.dataset.talk=sentences.join(' ');
+ }
+ el('talkClear').onclick=()=>{Object.values(fields).forEach(input=>input.value='');updatePreview();};
+ listen.onclick=()=>{if(!listen.disabled&&listen.dataset.talk)speak(listen.dataset.talk);};
+ updatePreview();
+}
+
+function renderLessonMenu(){const list=el('lessonTabs');list.replaceChildren();for(let l=1;l<=3;l++){const m=LESSON_MAP[grade]?.[current+1]?.[l],b=node('button',activeLesson===l?'active':'','Lesson '+l);b.type='button';b.disabled=!m?.available;b.setAttribute('aria-pressed',String(activeLesson===l));if(m?.pages)b.append(node('small',null,'Pages '+m.pages));b.title=m?.available?'Open Lesson '+l:'Content is being checked against the book';b.onclick=()=>selectUnit(current,l);list.append(b)}const review=node('button',activeLesson===0?'active':'','Unit review');review.type='button';review.setAttribute('aria-pressed',String(!activeLesson));review.onclick=()=>selectUnit(current,0);list.append(review);el('lessonNote').textContent=activeLesson?'Learn and practise the words identified in this lesson.':'Review all words from this Unit. Listen, read and play to remember them.';el('lessonTabs').hidden=current>=units().length;const hasWords=lesson().words.length>0,hasExamples=lesson().examples.length>0;for(const o of el('quizMode').children)o.disabled=['sentence','gap','order'].includes(o.value)?!hasExamples:!hasWords;if((['sentence','gap','order'].includes(el('quizMode').value)?!hasExamples:!hasWords))el('quizMode').value=hasWords?'meaning':'sentence';el('vocabularySection').hidden=!hasWords;el('speakingSection').hidden=!hasExamples&&!lesson().patterns.length;el('practice').hidden=!hasWords&&!hasExamples;el('games').hidden=!hasWords;const talkSection=el('talkOutlineSection');talkSection.hidden=activeLesson!==0;if(activeLesson===0)renderTalkOutline();}
 
 
 function voiceScore(v){return (/^en[-_]gb$/i.test(v.lang)?100:0)+(/natural|neural|enhanced|premium/i.test(v.name)?45:0)+(/Google UK English Female|Sonia|Serena|Martha|Kate/i.test(v.name)?20:0)+(!v.localService?5:0)}
