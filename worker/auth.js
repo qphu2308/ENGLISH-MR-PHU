@@ -28,7 +28,7 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
     if(!r.ok||!r.data.access_token)return json({error:'The code is incorrect or expired. Request a new code. / Mã sai hoặc hết hạn, hãy xin mã mới.'},400);
     return setSession(json({redirect:'/account'}),r.data,b.remember===true);
    }
-   const signup=false;
+   const signup=b.signup===true||b.flow==='signup';
    if(signup&&(!String(b.full_name||'').trim()||!['1','2','3','4','5','teacher','parent'].includes(String(b.grade))))return json({error:'Please enter your name and choose a grade.'},400);
    const r=await sb('/auth/v1/otp?redirect_to='+encodeURIComponent(url.origin+'/login'),'POST',{email,create_user:signup,...(signup?{data:{full_name:String(b.full_name).slice(0,100),grade:String(b.grade),referral:String(b.referral||'').slice(0,200)}}:{})});
    if(!r.ok)return authError(r);
