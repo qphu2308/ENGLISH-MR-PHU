@@ -1,9 +1,10 @@
 {
-  "name": "sites-worker-esm-starter",
+  "name": "english-with-mr-phu",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "bash scripts/build.sh",
+    "build": "node scripts/embed.mjs && bash scripts/build.sh",
+    "start": "node server.mjs",
     "validate": "node scripts/validate-artifact.mjs"
   }
 }
