@@ -1,35 +1,22 @@
 # English With Mr Phu
 
-Source snapshot of published Sites **version 57**.
+Source code for [English With Mr Phu](https://englishwithmrphu.livelyhero.chatgpt.site), including lesson content, illustrations, account pages, authentication routes and verification scripts.
 
-- Website: https://englishwithmrphu.livelyhero.chatgpt.site
-- Source commit: `8f2902d94c6db0db1280d3501429e9e4a80f3846`
-- Published: 15 October 2026. GitHub snapshot updated: 17 October 2026.
-- Snapshot details: [SOURCE_VERSION.json](SOURCE_VERSION.json).
-
-## Included updates
-
-- Global Success Grades 1–5: 92 Units with topic illustrations.
-- Extension vocabulary merged into Unit review; separate Extension navigation removed.
-- Vietnamese grammar NOTE content and translations beneath questions and Yes/No answers.
-- A–B–C–D labels on text and picture answers, including Fill the Gap.
-- Spell It! uses mixed-up letter tiles with Undo, Clear and editable answers.
-- Speed Challenge offers 30, 45 or 60 seconds before starting the clock.
-- More celebration particles, short transitions and upcoming-picture preloading.
-- Fingerprinted illustration URLs and private image caching reduce repeated downloads.
-- Shared listening speeds: 0.75×, 1×, 1.25×, 1.5× and 2×; voice controls and audio diagnostics.
-
-## Build
+## Build and run
 
 Requires Node.js 20+ and Bash (Git Bash on Windows).
 
 ```sh
-node scripts/embed.mjs
 npm run build
 npm run validate
+npm start
 ```
 
-The build generates `worker/index.js`, `dist/` and the image-version manifest from the source and images in `learning/`. Generated deployment bundles are excluded from GitHub and can be rebuilt with the commands above.
+Open `http://localhost:3000/login`. Set `PORT` to change the port. The build generates `worker/index.js`, `dist/` and the image-version manifest from the source and images in `learning/`. Generated deployment bundles are excluded from GitHub and can be rebuilt with the commands above.
+
+## Independent hosting
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for a Node.js hosting guide and the external Supabase/Auth settings that must be checked before switching domains. A Render service blueprint is included in `render.yaml`.
 
 ## Checks
 
@@ -46,8 +33,8 @@ node scripts/test-vocabulary-summary.cjs
 
 `learning/` contains lessons, vocabulary, illustrations and games. `content/` retains curriculum review and source metadata. `worker/` contains server routes and account pages. `scripts/` contains build and verification scripts.
 
-## Scope
+## Scope and external services
 
-This repository contains website source and learning assets. It does not contain account records, database backups or runtime secrets. Hosting configuration and the existing backend must be provided when deploying elsewhere. Updating this repository does not itself deploy the website or configure GitHub Pages.
+This repository contains website source and learning assets. It does not contain account records or database backups. The current authentication/profile implementation depends on the existing Supabase project; moving the web server does not migrate that backend or configure email delivery. Updating this repository does not itself deploy the website or configure a custom domain.
 
 Voice availability depends on the device and browser. IPA entries retain the reviewed coverage of the published source; this snapshot does not claim complete Oxford audio or phonetic coverage.
