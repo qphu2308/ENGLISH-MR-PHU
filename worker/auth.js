@@ -2,6 +2,7 @@ const SB='https://yjzcoxknaeogiqeaxqst.supabase.co';
 const KEY='sb_publishable_LtND01gghvqXh4LCwQvLjQ_NUMTgY_k';
 const OWNER='gptnguyen0@gmail.com';
 const baseHeaders={'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer'};
+function validDate(s){return typeof s==='string'&&s.length===10&&s[4]==='-'&&s[7]==='-'&&[...s].every((ch,i)=>i===4||i===7||(ch>='0'&&ch<='9'))}
 function json(data,status=200){return new Response(JSON.stringify(data),{status,headers:{...baseHeaders,'Content-Type':'application/json'}})}
 function redirect(path){return new Response(null,{status:303,headers:{...baseHeaders,Location:path}})}
 async function sb(path,method='GET',body,token,extraHeaders={}){const r=await fetch(SB+path,{method,headers:{apikey:KEY,'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{}),...extraHeaders},...(body?{body:JSON.stringify(body)}:{})});let d;try{d=await r.json()}catch{d={}}return{ok:r.ok,status:r.status,data:d,retryAfter:Number(r.headers.get('retry-after'))||0}}
@@ -45,7 +46,7 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
   if(path==='/api/teaching'){
    const lesson_date=String(b.lesson_date||''),class_name=String(b.class_name||''),site_name=String(b.site_name||'');
    const allowed={'Lớp 3':['Cơ sở 1','Cơ sở 2','Cơ sở 3'],'Lớp 4':['Cơ sở 2','Cơ sở 4'],'Lớp 5':['Cơ sở 1']};
-   if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(lesson_date)||!allowed[class_name]?.includes(site_name))return json({error:'Ngày hoặc lớp không hợp lệ.'},400);
+   if(lesson_date.length!==10||lesson_date[4]!=='-'||lesson_date[7]!=='-'||[...lesson_date].some((ch,i)=>i!==4&&i!==7&&(ch<'0'||ch>'9'))||!allowed[class_name]?.includes(site_name))return json({error:'Ngày hoặc lớp không hợp lệ.'},400);
    if(b.action==='delete'){
     const r=await sb('/rest/v1/ewmp_teaching_notes?lesson_date=eq.'+lesson_date+'&class_name=eq.'+encodeURIComponent(class_name)+'&site_name=eq.'+encodeURIComponent(site_name),'DELETE',null,null,{'Prefer':'return=minimal'});
     return r.ok?json({ok:true}):json({error:'Không thể xóa ghi chú.'},400);
@@ -87,7 +88,7 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
  if(path==='/favicon.png'||path==='/favicon.ico'||path==='/apple-touch-icon.png'||path==='/mrphu-logo.webp'){const a=assets[path==='/favicon.ico'?'/favicon.png':path];if(!a)return json({error:'Not found.'},404);const bytes=Uint8Array.from(atob(a.body),c=>c.charCodeAt(0));return new Response(req.method==='HEAD'?null:bytes,{headers:{'Content-Type':a.type||'image/png','Cache-Control':'public, max-age=3600','X-Content-Type-Options':'nosniff'}})}
  if(path==='/api/teaching'&&req.method==='GET'){
   const from=url.searchParams.get('from')||'2026-11-01',to=url.searchParams.get('to')||'2026-12-31';
-  if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(from)||!/^\\d{4}-\\d{2}-\\d{2}$/.test(to)||from>to)return json({error:'Invalid date range.'},400);
+  if(!validDate(from)||!validDate(to)||from>to)return json({error:'Invalid date range.'},400);
   const r=await sb('/rest/v1/ewmp_teaching_notes?select=*&lesson_date=gte.'+from+'&lesson_date=lte.'+to+'&order=lesson_date.asc,class_name.asc,site_name.asc');
   return r.ok?json({notes:r.data}):json({error:'Could not load shared lesson notes.'},503);
  }
