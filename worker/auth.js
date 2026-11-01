@@ -4,7 +4,7 @@ const OWNER='gptnguyen0@gmail.com';
 const baseHeaders={'Cache-Control':'private, no-store','X-Content-Type-Options':'nosniff','Referrer-Policy':'no-referrer'};
 function json(data,status=200){return new Response(JSON.stringify(data),{status,headers:{...baseHeaders,'Content-Type':'application/json'}})}
 function redirect(path){return new Response(null,{status:303,headers:{...baseHeaders,Location:path}})}
-async function sb(path,method='GET',body,token){const r=await fetch(SB+path,{method,headers:{apikey:KEY,'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{})},...(body?{body:JSON.stringify(body)}:{})});let d;try{d=await r.json()}catch{d={}}return{ok:r.ok,status:r.status,data:d,retryAfter:Number(r.headers.get('retry-after'))||0}}
+async function sb(path,method='GET',body,token,extraHeaders={}){const r=await fetch(SB+path,{method,headers:{apikey:KEY,'Content-Type':'application/json',...(token?{Authorization:'Bearer '+token}:{}),...extraHeaders},...(body?{body:JSON.stringify(body)}:{})});let d;try{d=await r.json()}catch{d={}}return{ok:r.ok,status:r.status,data:d,retryAfter:Number(r.headers.get('retry-after'))||0}}
 function cookies(req){return Object.fromEntries((req.headers.get('cookie')||'').split(';').map(s=>s.trim().split('=')))}
 function setSession(r,s,remember=false){const age=Math.max(1,Math.min(Number(s.expires_in)||3600,3600));for(const [name,value,maxAge]of [['ewmp_access',s.access_token,age],['ewmp_refresh',s.refresh_token,2592000]])r.headers.append('Set-Cookie',name+'='+value+'; Path=/; HttpOnly; Secure; SameSite=Lax'+(remember?'; Max-Age='+maxAge:''));r.headers.append('Set-Cookie','ewmp_remember='+(remember?'1':'')+'; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age='+(remember?2592000:0));return r}
 function clear(r){for(const name of ['ewmp_access','ewmp_refresh','ewmp_remember'])r.headers.append('Set-Cookie',name+'=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0');return r}
@@ -66,6 +66,25 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
  const respond=r=>auth.session?setSession(r,auth.session,auth.remember):r;
  if(auth.profile.status==='blocked')return respond(html(BLOCKED,403));
  if(path==='/api/me')return respond(json({name:auth.profile.full_name,email:auth.user.email,admin:auth.admin,grade:auth.profile.grade,joined:auth.profile.created_at}));
+ if(path==='/api/teaching'){
+  if(auth.profile.grade!=='teacher'&&!auth.admin)return json({error:'Teaching workspace access is for active teacher accounts only.'},403);
+  if(req.method==='GET'){
+   const from=url.searchParams.get('from')||'2026-11-01',to=url.searchParams.get('to')||'2026-12-31';
+   if(!/^\d{4}-\d{2}-\d{2}$/.test(from)||!/^\d{4}-\d{2}-\d{2}$/.test(to)||from>to)return json({error:'Invalid date range.'},400);
+   const r=await sb('/rest/v1/ewmp_teaching_notes?select=*&lesson_date=gte.'+from+'&lesson_date=lte.'+to+'&order=lesson_date.asc,class_name.asc,site_name.asc','GET',null,auth.token);
+   return respond(r.ok?json({notes:r.data}):json({error:'Could not load shared lesson notes.'},503));
+  }
+  if(req.method==='POST'){
+   const lesson_date=String(b.lesson_date||''),class_name=String(b.class_name||''),site_name=String(b.site_name||'');
+   const allowed={'Lớp 3':['Cơ sở 1','Cơ sở 2','Cơ sở 3'],'Lớp 4':['Cơ sở 2','Cơ sở 4'],'Lớp 5':['Cơ sở 1']};
+   if(!/^\d{4}-\d{2}-\d{2}$/.test(lesson_date)||!allowed[class_name]?.includes(site_name))return json({error:'Invalid lesson date or class.'},400);
+   const lesson_content=String(b.lesson_content||'').slice(0,6000),homework=String(b.homework||'').slice(0,4000),next_lesson=String(b.next_lesson||'').slice(0,2000),status=String(b.status||'Đã dạy');
+   if(!['Đã dạy','Đã dạy một phần','Dạy bù','Nghỉ'].includes(status))return json({error:'Invalid lesson status.'},400);
+   const payload={lesson_date,class_name,site_name,lesson_content,homework,next_lesson,status,created_by:auth.user.id,updated_by:auth.user.id,updated_at:new Date().toISOString()};
+   const r=await sb('/rest/v1/ewmp_teaching_notes?on_conflict=lesson_date,class_name,site_name','POST',payload,auth.token,{'Prefer':'resolution=merge-duplicates,return=representation'});
+   return respond(r.ok?json({ok:true,note:r.data?.[0]||null}):json({error:'Could not save the lesson note.'},400));
+  }
+ }
  if(path==='/api/admin/members'){
   if(!auth.admin)return json({error:'Administrator access required.'},403);
   const r=await sb('/rest/v1/ewmp_profiles?select=*&order=created_at.desc&limit=1000','GET',null,auth.token);return respond(r.ok?json({members:r.data}):json({error:'Could not load accounts.'},503));
