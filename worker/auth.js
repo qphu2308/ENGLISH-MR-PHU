@@ -42,6 +42,20 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
    if(r.data.access_token)return setSession(json({redirect:'/account'}),r.data,b.remember===true);
    return json({sent:true,retry_after:60,flow:'signup',message:'Enter the 6-digit verification code from your email. / Nhập mã 6 số để xác minh Gmail.'});
   }
+  if(path==='/api/teaching'){
+   const lesson_date=String(b.lesson_date||''),class_name=String(b.class_name||''),site_name=String(b.site_name||'');
+   const allowed={'Lớp 3':['Cơ sở 1','Cơ sở 2','Cơ sở 3'],'Lớp 4':['Cơ sở 2','Cơ sở 4'],'Lớp 5':['Cơ sở 1']};
+   if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(lesson_date)||!allowed[class_name]?.includes(site_name))return json({error:'Ngày hoặc lớp không hợp lệ.'},400);
+   if(b.action==='delete'){
+    const r=await sb('/rest/v1/ewmp_teaching_notes?lesson_date=eq.'+lesson_date+'&class_name=eq.'+encodeURIComponent(class_name)+'&site_name=eq.'+encodeURIComponent(site_name),'DELETE',null,null,{'Prefer':'return=minimal'});
+    return r.ok?json({ok:true}):json({error:'Không thể xóa ghi chú.'},400);
+   }
+   const lesson_content=String(b.lesson_content||'').slice(0,6000),homework=String(b.homework||'').slice(0,4000),next_lesson=String(b.next_lesson||'').slice(0,2000),status=String(b.status||'Đã dạy');
+   if(!['Đã dạy','Đã dạy một phần','Dạy bù','Nghỉ'].includes(status))return json({error:'Tình trạng không hợp lệ.'},400);
+   const payload={lesson_date,class_name,site_name,lesson_content,homework,next_lesson,status,created_by:null,updated_by:null,updated_at:new Date().toISOString()};
+   const r=await sb('/rest/v1/ewmp_teaching_notes?on_conflict=lesson_date,class_name,site_name','POST',payload,null,{'Prefer':'resolution=merge-duplicates,return=representation'});
+   return r.ok?json({ok:true,note:r.data?.[0]||null}):json({error:'Không thể lưu ghi chú.'},400);
+  }
   const auth=await identity(req);
   if(path==='/auth/logout'){if(auth)await sb('/auth/v1/logout?scope=local','POST',{},auth.token);return clear(json({redirect:'/login'}))}
   if(!auth)return json({error:'Please sign in.'},401);
@@ -71,6 +85,12 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
  }
  if(req.method!=='GET'&&req.method!=='HEAD')return json({error:'Method not allowed.'},405);
  if(path==='/favicon.png'||path==='/favicon.ico'||path==='/apple-touch-icon.png'||path==='/mrphu-logo.webp'){const a=assets[path==='/favicon.ico'?'/favicon.png':path];if(!a)return json({error:'Not found.'},404);const bytes=Uint8Array.from(atob(a.body),c=>c.charCodeAt(0));return new Response(req.method==='HEAD'?null:bytes,{headers:{'Content-Type':a.type||'image/png','Cache-Control':'public, max-age=3600','X-Content-Type-Options':'nosniff'}})}
+ if(path==='/api/teaching'&&req.method==='GET'){
+  const from=url.searchParams.get('from')||'2026-11-01',to=url.searchParams.get('to')||'2026-12-31';
+  if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(from)||!/^\\d{4}-\\d{2}-\\d{2}$/.test(to)||from>to)return json({error:'Invalid date range.'},400);
+  const r=await sb('/rest/v1/ewmp_teaching_notes?select=*&lesson_date=gte.'+from+'&lesson_date=lte.'+to+'&order=lesson_date.asc,class_name.asc,site_name.asc');
+  return r.ok?json({notes:r.data}):json({error:'Could not load shared lesson notes.'},503);
+ }
  if(path==='/login'){const signedIn=await identity(req);return signedIn&&signedIn.profile.status!=='blocked'?(signedIn.session?setSession(redirect('/account'),signedIn.session,signedIn.remember):redirect('/account')):html(LOGIN)}
  const auth=await identity(req);
  if(!auth)return path.startsWith('/api/')?json({error:'Please sign in.'},401):redirect('/login');
