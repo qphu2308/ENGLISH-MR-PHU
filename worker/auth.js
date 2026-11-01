@@ -45,6 +45,17 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
   const auth=await identity(req);
   if(path==='/auth/logout'){if(auth)await sb('/auth/v1/logout?scope=local','POST',{},auth.token);return clear(json({redirect:'/login'}))}
   if(!auth)return json({error:'Please sign in.'},401);
+  if(path==='/api/teaching'){
+   if(auth.profile.grade!=='teacher'&&!auth.admin)return json({error:'Teaching workspace access is for active teacher accounts only.'},403);
+   const lesson_date=String(b.lesson_date||''),class_name=String(b.class_name||''),site_name=String(b.site_name||'');
+   const allowed={'Lớp 3':['Cơ sở 1','Cơ sở 2','Cơ sở 3'],'Lớp 4':['Cơ sở 2','Cơ sở 4'],'Lớp 5':['Cơ sở 1']};
+   if(!/^\d{4}-\d{2}-\d{2}$/.test(lesson_date)||!allowed[class_name]?.includes(site_name))return json({error:'Invalid lesson date or class.'},400);
+   const lesson_content=String(b.lesson_content||'').slice(0,6000),homework=String(b.homework||'').slice(0,4000),next_lesson=String(b.next_lesson||'').slice(0,2000),status=String(b.status||'Đã dạy');
+   if(!['Đã dạy','Đã dạy một phần','Dạy bù','Nghỉ'].includes(status))return json({error:'Invalid lesson status.'},400);
+   const payload={lesson_date,class_name,site_name,lesson_content,homework,next_lesson,status,created_by:auth.user.id,updated_by:auth.user.id,updated_at:new Date().toISOString()};
+   const r=await sb('/rest/v1/ewmp_teaching_notes?on_conflict=lesson_date,class_name,site_name','POST',payload,auth.token,{'Prefer':'resolution=merge-duplicates,return=representation'});
+   return r.ok?json({ok:true,note:r.data?.[0]||null}):json({error:'Could not save the lesson note.'},400);
+  }
   if(path==='/api/profile'){
    if(auth.profile.status==='blocked')return json({error:'Account paused.'},403);
    const full_name=String(b.full_name||'').trim(),grade=String(b.grade||'');
