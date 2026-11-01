@@ -1,0 +1,20 @@
+name: Validate deployment build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build application
+        run: npm run build
+      - name: Validate generated application
+        run: npm run validate
