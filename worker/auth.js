@@ -89,6 +89,7 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
   if(!auth.admin)return json({error:'Administrator access required.'},403);
   const r=await sb('/rest/v1/ewmp_profiles?select=*&order=created_at.desc&limit=1000','GET',null,auth.token);return respond(r.ok?json({members:r.data}):json({error:'Could not load accounts.'},503));
  }
+ if(path==='/teaching')return auth.profile.grade==='teacher'||auth.admin?respond(html(TEACHING)):respond(json({error:'Teaching workspace access is for active teacher accounts only.'},403));
  if(path==='/account')return respond(html(ACCOUNT));
  if(path==='/admin')return auth.admin?respond(html(ADMIN)):redirect('/');
  const asset=assets[path==='/'?'/index.html':path];if(!asset)return new Response('Not found',{status:404,headers:baseHeaders});const bytes=Uint8Array.from(atob(asset.body),c=>c.charCodeAt(0));return respond(new Response(req.method==='HEAD'?null:bytes,{headers:{...baseHeaders,'Content-Type':asset.type,...(path.startsWith('/assets/')&&asset.type.startsWith('image/')&&asset.version&&url.searchParams.get('v')===asset.version?{'Cache-Control':'private, max-age=86400, immutable'}:{})}}));
