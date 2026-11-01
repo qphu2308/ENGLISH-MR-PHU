@@ -94,6 +94,7 @@ export async function route(req,assets){const url=new URL(req.url),path=url.path
  }
  if(path==='/login'){const signedIn=await identity(req);return signedIn&&signedIn.profile.status!=='blocked'?(signedIn.session?setSession(redirect('/account'),signedIn.session,signedIn.remember):redirect('/account')):html(LOGIN)}
  if(path==='/teaching')return html(TEACHING);
+ if(path==='/teaching')return html(TEACHING);
  const auth=await identity(req);
  if(!auth)return path.startsWith('/api/')?json({error:'Please sign in.'},401):redirect('/login');
  const respond=r=>auth.session?setSession(r,auth.session,auth.remember):r;
